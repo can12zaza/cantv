@@ -19,9 +19,6 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install dependencies
-        run: pip install requests
-
       - name: Download playlist
         run: |
           curl -L "https://raw.githubusercontent.com/tropicx24-commits/pleym3u/refs/heads/main/playlist.m3u" -o playlist.m3u
