@@ -15,13 +15,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Download playlist
-        run: |
-          curl -L "https://raw.githubusercontent.com/tropicx24-commits/pleym3u/refs/heads/main/playlist.m3u" -o playlist.m3u
-
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Download playlist
+        run: |
+          curl -L "https://raw.githubusercontent.com/tropicx24-commits/pleym3u/refs/heads/main/playlist.m3u" -o playlist.m3u
 
       - name: Clean playlist
         run: python clean_playlist.py
