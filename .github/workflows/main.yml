@@ -19,9 +19,11 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Download playlist
-        run: |
-          curl -L "https://raw.githubusercontent.com/can12zaza/my_channels.m3u/refs/heads/main/playlist.m3u" -o playlist.m3u
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Download and merge playlists from sources
+        run: python download_playlists.py
 
       - name: Clean playlist
         run: python clean_playlist.py
