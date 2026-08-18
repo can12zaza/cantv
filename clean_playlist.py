@@ -1,5 +1,5 @@
 # download_playlists.py
-import requests
+import re
 from pathlib import Path
 
 SOURCES_FILE = "sources.txt"
