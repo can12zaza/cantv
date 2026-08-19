@@ -1,5 +1,9 @@
 name: Update Playlists
 
+# izin eklemesi
+permissions:
+  contents: write
+
 on:
   push:
     paths:
@@ -8,8 +12,8 @@ on:
       - 'autogroup.py'
       - 'clean_playlist.py'
   schedule:
-    - cron: '0 */6 * * *'  # every 6 hours
-  workflow_dispatch: {}   # manuel tetikleme için
+    - cron: '0 */6 * * *'
+  workflow_dispatch: {}
 
 jobs:
   update:
@@ -18,6 +22,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v4
