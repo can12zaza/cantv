@@ -4,6 +4,10 @@ autogroup.py
 Bu script playlist.m3u dosyasını okuyup #EXTINF satırlarında eksik olan
 `group-title` özniteliklerini basit heuristiklerle tahmin edip ekler.
 
+Ayrıca tahmin edilen grup isimlerini normalize eder (tutarlı yazım). Bu
+güncelleme "A seçeneği" isteğinize göre grup adlarını olabildiğince
+mevcut bilinen gruplarla eşleştirir veya baş harfleri büyük biçime çevirir.
+
 Kullanım:
     python autogroup.py
 
@@ -12,7 +16,8 @@ Kullanım:
 
 Notlar:
 - Heuristikler isim ve URL içindeki anahtar kelimelere dayanır. Gerekirse
-  `KEYWORD_MAP` sözlüğünü düzenleyerek özel eşlemeler ekleyebilirsiniz.
+  `KEYWORD_MAP` ve `CANONICAL_GROUPS` sözlüklerini düzenleyerek özel eşlemeler
+  ekleyebilirsiniz.
 - Varsayılan olarak orijinal dosyaya dokunmaz; yeni dosya üretir.
 """
 
@@ -27,14 +32,12 @@ OUTPUT = "playlist_grouped.m3u"
 KEYWORD_MAP = {
     "RADYO": "Radyo",
     "RADYO7": "Radyo",
-    "RADYO": "Radyo",
     "RADIO": "Radyo",
     "BEACH": "Beach",
     "PLAŽA": "Beach",
     "PLAŻA": "Beach",
     "CAM": "Cam",
     "WEBCAM": "Cam",
-    "CAMERA": "Cam",
     "CAMERA": "Cam",
     "IBB": "İBB",
     "TAKSIM": "İBB",
@@ -57,7 +60,7 @@ URL_MAP = {
 }
 
 EXTINF_RE = re.compile(r'(#EXTINF:)([^,]*)(,)(.*)')
-GROUP_RE = re.compile(r'group-title\s*=\s*"([^"]*)"', re.IGNORECASE)
+GROUP_RE = re.compile(r'group-title\s*=\s*"([^\"]*)"', re.IGNORECASE)
 
 
 def collect_known_groups(lines):
@@ -69,6 +72,54 @@ def collect_known_groups(lines):
     return Counter(groups)
 
 
+def _most_common_case(name_upper: str, known_groups: Counter):
+    """Bilinen gruplarda büyük harfe göre arama yapıp orijinal yazımı döndürür."""
+    for g in known_groups:
+        if g and g.upper() == name_upper:
+            return g
+    # eğer birebir yoksa, en çok kullanılan benzer (içerme) grup varsa döndür
+    for g in known_groups:
+        if g and g.upper() in name_upper:
+            return g
+    return None
+
+
+def normalize_group(group: str, known_groups: Counter) -> str:
+    """Group adı için tutarlı bir yazım döndürür.
+
+    - Eğer known_groups içinde aynı (case-insensitive) bir grup varsa onun
+      orijinal yazımını kullanır.
+    - Aksi halde kısa kısaltmaları (HD, 4K, İBB vb.) korur, diğerlerini title()
+      ile baş harf büyük yapar.
+    """
+    if not group:
+        return "Uncategorized"
+
+    g = group.strip()
+    # Eğer bilinen gruplardan biriyle eşleşiyorsa, o yazımı kullan
+    mc = _most_common_case(g.upper(), known_groups)
+    if mc:
+        return mc
+
+    # Belli kısa kısaltmaları olduğu gibi koru
+    tokens = g.split()
+    normalized_tokens = []
+    for t in tokens:
+        up = t.upper()
+        if up in ("HD", "4K", "UHD", "FHD"):
+            normalized_tokens.append(up)
+        elif up in ("İBB", "IBB"):
+            normalized_tokens.append("İBB")
+        elif len(t) <= 3 and up == t:
+            # kısaltma gibi görünen kısa tokenları olduğu gibi bırak
+            normalized_tokens.append(up)
+        else:
+            # Türkçe karakterlerin korunması için title yaparken lower() kullanıyoruz
+            normalized_tokens.append(t.title())
+
+    return " ".join(normalized_tokens)
+
+
 def infer_group(name: str, url: str, known_groups: Counter) -> str:
     """Basitçe isim ve url üzerindeki anahtar kelimelere göre grup tahmini yapar."""
     if not name:
@@ -77,30 +128,30 @@ def infer_group(name: str, url: str, known_groups: Counter) -> str:
     # 1) doğrudan KEYWORD_MAP içinde eşleme
     for k, v in KEYWORD_MAP.items():
         if k in u:
-            return v
+            return normalize_group(v, known_groups)
 
     # 2) bilinen gruplarla eşleştirme (örnek: 'RADYO' içeren bilinen bir grup varsa kullan)
     for g in known_groups:
         if g and g.upper() in u:
-            return g
+            return normalize_group(g, known_groups)
 
     # 3) URL tabanlı tahmin
     url_low = (url or "").lower()
     for k, v in URL_MAP.items():
         if k in url_low:
-            return v
+            return normalize_group(v, known_groups)
 
     # 4) isimde ülke/şehir/keyword anahtar eşlemeleri
     if any(token in u for token in ("SEA", "MORZE", "PLA", "PLAZA", "PLAGE", "BEACH")):
-        return "Beach"
+        return normalize_group("Beach", known_groups)
 
     # 5) fallback: eğer bilinen gruplardan birine benzerse kullan (örnek: "RADYO" -> "Radyo")
     for g in known_groups:
         if g and g.upper() in u:
-            return g
+            return normalize_group(g, known_groups)
 
     # 6) son çare
-    return "Uncategorized"
+    return normalize_group("Uncategorized", known_groups)
 
 
 def process(lines):
@@ -120,7 +171,16 @@ def process(lines):
                 name = m.group(4) or ""
                 # Eğer zaten group-title varsa olduğu gibi al
                 if GROUP_RE.search(attrs):
-                    out_lines.append(line)
+                    # normalize existing group value as well
+                    existing = GROUP_RE.search(attrs).group(1)
+                    norm = normalize_group(existing, known)
+                    if norm != existing:
+                        # replace original group-title value
+                        new_attrs = GROUP_RE.sub(f'group-title="{norm}"', attrs)
+                        new_line = f"{m.group(1)}{new_attrs}{m.group(3)}{m.group(4)}"
+                        out_lines.append(new_line)
+                    else:
+                        out_lines.append(line)
                 else:
                     # url genelde bir sonraki satırda
                     url = lines[i+1] if i+1 < len(lines) else ""
