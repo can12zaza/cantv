@@ -801,16 +801,6 @@ http://ibb-media2.ibb.gov.tr:1935/live/987.stream/playlist.m3u8
 http://umperisn.mywire.org/index.php?id=594656&token=DeaTHLesS
 #EXTINF:-1 tvg-id="VIASAT.HISTORY.tr" tvg-name="VIASAT HISTORY" tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgesel",VIASAT HISTORY
 http://umperisn.mywire.org/index.php?id=594658&token=DeaTHLesS
-#EXTINF:0, Discovery Channel
-https://proud-river-e20b.pantonum1.workers.dev/discovery.m3u8
-#EXTINF:0,TARIH TV
-https://proud-river-e20b.pantonum1.workers.dev/tarihtv.m3u8
-#EXTINF:0,HISTORY
-https://proud-river-e20b.pantonum1.workers.dev/history.m3u8
-#EXTINF:0,BBC EARTH
-https://proud-river-e20b.pantonum1.workers.dev/bbc.m3u8
-#EXTINF:0,LOVE NATURE
-https://proud-river-e20b.pantonum1.workers.dev/lovenature.m3u8
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TRT1.png" group-title=" ULUSAL", TRT 1 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196699&extension=ts&play_token=vmAan78Qyz
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Atv.png" group-title=" ULUSAL", ATV 
@@ -1179,8 +1169,18 @@ https://proud-river-e20b.pantonum1.workers.dev/box2.m3u8
 https://proud-river-e20b.pantonum1.workers.dev/box3.m3u8
 #EXTINF:0,DISCOVERY ID
 https://proud-river-e20b.pantonum1.workers.dev/discs.m3u8
+#EXTINF:0,DISCOVERY
+https://proud-river-e20b.pantonum1.workers.dev/discovery.m3u8
+#EXTINF:0,TARIH TV
+https://proud-river-e20b.pantonum1.workers.dev/tarihtv.m3u8
+#EXTINF:0,HISTORY
+https://proud-river-e20b.pantonum1.workers.dev/history.m3u8
+#EXTINF:0,BBC EARTH
+https://proud-river-e20b.pantonum1.workers.dev/bbc.m3u8
 #EXTINF:0,NAT WILD
 https://saran-live.ercdn.net/natgeowild/index.m3u8
+#EXTINF:0,LOVE NATURE
+https://proud-river-e20b.pantonum1.workers.dev/lovenature.m3u8
 #EXTINF:0,BEIN SPORT 1
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydub1.m3u8
 #EXTINF:0,BEIN SPORT 2
