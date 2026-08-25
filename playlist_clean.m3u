@@ -797,6 +797,10 @@ http://ibb-media2.ibb.gov.tr:1935/live/976.stream/playlist.m3u8
 http://ibb-media2.ibb.gov.tr:1935/live/981.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM - 987
 http://ibb-media2.ibb.gov.tr:1935/live/987.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="VIASAT.HISTORY.tr" tvg-name="VIASAT HISTORY" tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgesel",VIASAT EXPLORE
+http://umperisn.mywire.org/index.php?id=594656&token=DeaTHLesS
+#EXTINF:-1 tvg-id="VIASAT.HISTORY.tr" tvg-name="VIASAT HISTORY" tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgesel",VIASAT HISTORY
+http://umperisn.mywire.org/index.php?id=594658&token=DeaTHLesS
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TRT1.png" group-title="Ulusal", TRT 1 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196699&extension=ts&play_token=vmAan78Qyz
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Atv.png" group-title="Ulusal", ATV 
@@ -1099,7 +1103,7 @@ https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="Uncategorized",DW TV (ENGLISH)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
-#EXTINF:0 group-title="BELGESEL",TRT BELGESEL
+#EXTINF:0 group-title="Belgesel",TRT BELGESEL
 http://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 group-title="Spor",A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
@@ -1177,8 +1181,6 @@ https://proud-river-e20b.pantonum1.workers.dev/bbc.m3u8
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:0 group-title="Uncategorized",LOVE NATURE
 https://proud-river-e20b.pantonum1.workers.dev/lovenature.m3u8
-#EXTINF:0 group-title="Uncategorized",VIASAT HISTORY
-https://proud-river-e20b.pantonum1.workers.dev/viasathistory.m3u8
 #EXTINF:0 group-title="Spor",BEIN SPORT 1
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydub1.m3u8
 #EXTINF:0 group-title="Spor",BEIN SPORT 2
@@ -1255,7 +1257,7 @@ https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
 https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
 #EXTINF:0 group-title="HABER",HABER 61
 http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
-#EXTINF:0 group-title="BELGESEL",TGRT BELGESEL
+#EXTINF:0 group-title="Belgesel",TGRT BELGESEL
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8?md5=yJ4adbAK5bE0F93vqFevgw&expires=1687122603
 #EXTINF:0 group-title="Uncategorized",TRT TURK
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
@@ -1859,7 +1861,7 @@ https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5
 #EXTINF:-1 tvg-id="SunRTV.tr@SD" group-title="Uncategorized",Sun RTV (720p) [Not 24/7]
 https://tr.socialsmart.tv/suntv/bant1/chunks.m3u8
-#EXTINF:-1 tvg-id="TGRTBelgesel.tr@SD" group-title="BELGESEL",TGRT Belgesel TV (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="TGRTBelgesel.tr@SD" group-title="Belgesel",TGRT Belgesel TV (576p) [Not 24/7]
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TJKTV.tr@SD" group-title="Uncategorized",TJK TV (1080p)
 https://tjktv-live.tjk.org/tjktv.m3u8
@@ -1871,7 +1873,7 @@ https://59cba4d34b678.streamlock.net/canlitv/torbatv/playlist.m3u8
 https://tv.ensonhaber.com/tv24/tv24.m3u8
 #EXTINF:-1 tvg-id="TRT3.tr@SD" group-title="Uncategorized",TRT 3 (720p)
 https://tv-trt3.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTBelgesel.tr@SD" group-title="BELGESEL",TRT Belgesel (720p)
+#EXTINF:-1 tvg-id="TRTBelgesel.tr@SD" group-title="Belgesel",TRT Belgesel (720p)
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTCocuk.tr@SD" group-title="Cocuk",TRT Cocuk (1440p)
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
@@ -17707,77 +17709,77 @@ https://vidmody.com/vs/tt0046807
 https://vidmody.com/vs/tt0036723
 #EXTINF:-1 group-title="Müzik" tvg-logo="https://image.tmdb.org/t/p/w500/fKIjJa7N58Wx2MqXZZkiyRzdL1Q.jpg", Üç Küçük Domuzcuk (1933) ⭐ 6.881
 https://vidmody.com/vs/tt0024660
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/gCMAe9HBkqs67bJLeBV5q6cUqyZ.jpg", Annelik Özlemi (2026) ⭐ 8.149
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/gCMAe9HBkqs67bJLeBV5q6cUqyZ.jpg", Annelik Özlemi (2026) ⭐ 8.149
 https://vidmody.com/vs/tt37961750
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg", Freefall: A Reckoning for Boeing (2026) ⭐ 6.781
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg", Freefall: A Reckoning for Boeing (2026) ⭐ 6.781
 https://vidmody.com/vs/tt32889884
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/vKMQlsutWlEFt3yK9mPlaMWnwF7.jpg", Nong Chompoo Kayboldu ve Unutuldu (2026) ⭐ 6.3
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/vKMQlsutWlEFt3yK9mPlaMWnwF7.jpg", Nong Chompoo Kayboldu ve Unutuldu (2026) ⭐ 6.3
 https://vidmody.com/vs/tt39750720
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/8h3ztnaOKCJpRwn7gPtf68ETJ70.jpg", Hayalet Filler (2026) ⭐ 7.667
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/8h3ztnaOKCJpRwn7gPtf68ETJ70.jpg", Hayalet Filler (2026) ⭐ 7.667
 https://vidmody.com/vs/tt35237771
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/9hxgu7n2CdjkXDkoswzz2Mx2QA8.jpg", Toksik Bir Aşk Hikâyesi (2026) ⭐ 6.4
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/9hxgu7n2CdjkXDkoswzz2Mx2QA8.jpg", Toksik Bir Aşk Hikâyesi (2026) ⭐ 6.4
 https://vidmody.com/vs/tt43619305
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/1us6iYG7P600BgSdwjb6mFYCP97.jpg", Euphoria: A Look Back (2026) ⭐ 3.214
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/1us6iYG7P600BgSdwjb6mFYCP97.jpg", Euphoria: A Look Back (2026) ⭐ 3.214
 https://vidmody.com/vs/tt43683795
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/8T1aEwLiHb97iyGTrwCNF622QxE.jpg", Kaza mı Cinayet mi? (2026) ⭐ 6.879
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/8T1aEwLiHb97iyGTrwCNF622QxE.jpg", Kaza mı Cinayet mi? (2026) ⭐ 6.879
 https://vidmody.com/vs/tt40792117
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/mA8DKrgYcr7xhXfuG0HFfDQoGOv.jpg", Tavuk: Bir Fast Food Komplosu (2026) ⭐ 5.773
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/mA8DKrgYcr7xhXfuG0HFfDQoGOv.jpg", Tavuk: Bir Fast Food Komplosu (2026) ⭐ 5.773
 https://vidmody.com/vs/tt43657327
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/aCx20VHCmrmbjbWU0LNXk7iFFyP.jpg", NOVAK DJOKOVIC: KIŞ KURDU (2026) ⭐ 8.667
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/aCx20VHCmrmbjbWU0LNXk7iFFyP.jpg", NOVAK DJOKOVIC: KIŞ KURDU (2026) ⭐ 8.667
 https://vidmody.com/vs/tt43676563
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/jqDRiwqDsopRZe7xZRYz7KiTkjc.jpg", Felaketler Dizisi: Bir Markanın Çöküşü (2025) ⭐ 6.066
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/jqDRiwqDsopRZe7xZRYz7KiTkjc.jpg", Felaketler Dizisi: Bir Markanın Çöküşü (2025) ⭐ 6.066
 https://vidmody.com/vs/tt36856482
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/yHXwqWGqZ2d7MeCdXid86To4QrY.jpg", Bilinmeyen Numara: Lisede Mesaj Skandalı (2025) ⭐ 6.742
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/yHXwqWGqZ2d7MeCdXid86To4QrY.jpg", Bilinmeyen Numara: Lisede Mesaj Skandalı (2025) ⭐ 6.742
 https://vidmody.com/vs/tt37674426
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/ajOXPpgh96rxxaHqqQCoxPP6dH5.jpg", Boş Kalan Odalar (2025) ⭐ 7.246
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/ajOXPpgh96rxxaHqqQCoxPP6dH5.jpg", Boş Kalan Odalar (2025) ⭐ 7.246
 https://vidmody.com/vs/tt37798645
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/s1ZyKBjml8t6HR0e5lkhRte620E.jpg", Felaketler Dizisi: Skandalların Başkanı (2025) ⭐ 6.545
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/s1ZyKBjml8t6HR0e5lkhRte620E.jpg", Felaketler Dizisi: Skandalların Başkanı (2025) ⭐ 6.545
 https://vidmody.com/vs/tt36856306
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/tqhUcnw1vPxYfpGKccDvIv0Ss03.jpg", Kayıp Çocuklar (2024) ⭐ 7.442
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/tqhUcnw1vPxYfpGKccDvIv0Ss03.jpg", Kayıp Çocuklar (2024) ⭐ 7.442
 https://vidmody.com/vs/tt34058121
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/1utWajLPvv1R9ZwkD98s2ZEngS.jpg", Sly (2023) ⭐ 7.222
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/1utWajLPvv1R9ZwkD98s2ZEngS.jpg", Sly (2023) ⭐ 7.222
 https://vidmody.com/vs/tt28254460
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/qqPIhVKPHePyGqQxbo4gpznsJsA.jpg", Şeytan Davası (2023) ⭐ 5.891
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/qqPIhVKPHePyGqQxbo4gpznsJsA.jpg", Şeytan Davası (2023) ⭐ 5.891
 https://vidmody.com/vs/tt28810493
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/jntLBq0MLR3hrwKaTQswxACRPMs.jpg", Harry Potter 20. Yıldönümü: Hogwarts'a Dönüş (2022) ⭐ 7.308
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/jntLBq0MLR3hrwKaTQswxACRPMs.jpg", Harry Potter 20. Yıldönümü: Hogwarts'a Dönüş (2022) ⭐ 7.308
 https://vidmody.com/vs/tt16116174
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/mbbzs5qrCVrT7nfufm8sc4DlbCI.jpg", Tinder Avcısı (2022) ⭐ 6.962
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/mbbzs5qrCVrT7nfufm8sc4DlbCI.jpg", Tinder Avcısı (2022) ⭐ 6.962
 https://vidmody.com/vs/tt14992922
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/gWZsBiQtmxN94hXdXfo0PfMMJzT.jpg", Rita Moreno: Kararlı Bir Kız (2021) ⭐ 7.441
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/gWZsBiQtmxN94hXdXfo0PfMMJzT.jpg", Rita Moreno: Kararlı Bir Kız (2021) ⭐ 7.441
 https://vidmody.com/vs/tt10741846
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/bT3c4TSOP8vBmMoXZRDPTII6eDa.jpg", Friends: The Reunion (2021) ⭐ 7.825
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/bT3c4TSOP8vBmMoXZRDPTII6eDa.jpg", Friends: The Reunion (2021) ⭐ 7.825
 https://vidmody.com/vs/tt11337862
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/e8jtG3WS0Ku7Dh4fBne1rgriXZt.jpg", The Sparks Brothers (2021) ⭐ 7.371
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/e8jtG3WS0Ku7Dh4fBne1rgriXZt.jpg", The Sparks Brothers (2021) ⭐ 7.371
 https://vidmody.com/vs/tt8610436
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/qHuuzDYUfsRDGkBj4X3W0Sd5qy0.jpg", 14 Zirve: Hiçbir Şey İmkansız Değildir (2021) ⭐ 7.328
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/qHuuzDYUfsRDGkBj4X3W0Sd5qy0.jpg", 14 Zirve: Hiçbir Şey İmkansız Değildir (2021) ⭐ 7.328
 https://vidmody.com/vs/tt14079374
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/yIhCI0JJNJ2cz4DtWaxZgVNrr58.jpg", Sosyal İkilem (2020) ⭐ 7.457
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/yIhCI0JJNJ2cz4DtWaxZgVNrr58.jpg", Sosyal İkilem (2020) ⭐ 7.457
 https://vidmody.com/vs/tt11464826
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/yMGfJeTXUdIjOqjS0jJfjgYEuYC.jpg", They Shall Not Grow Old (2018) ⭐ 7.764
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/yMGfJeTXUdIjOqjS0jJfjgYEuYC.jpg", They Shall Not Grow Old (2018) ⭐ 7.764
 https://vidmody.com/vs/tt7905466
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/7uZdJrpFDrsUddy5mG17lDBNxGx.jpg", Dünya: İnanılmaz Bir Gün (2017) ⭐ 7.7
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/7uZdJrpFDrsUddy5mG17lDBNxGx.jpg", Dünya: İnanılmaz Bir Gün (2017) ⭐ 7.7
 https://vidmody.com/vs/tt6238896
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/wLTAsQeJh8jfBAjMDyJc7MNIziI.jpg", İnsan (2015) ⭐ 8.433
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/wLTAsQeJh8jfBAjMDyJc7MNIziI.jpg", İnsan (2015) ⭐ 8.433
 https://vidmody.com/vs/tt3327994
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/6RVPslv3sczhPvF3H8h7NM3jz5W.jpg", Toprağın Tuzu (2014) ⭐ 8.102
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/6RVPslv3sczhPvF3H8h7NM3jz5W.jpg", Toprağın Tuzu (2014) ⭐ 8.102
 https://vidmody.com/vs/tt3674140
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/6yfXtkVPWxeU3OonoKDem4Hrdbb.jpg", İnternetin Çocuğu: Aaron Swartz'un Hikayesi (2014) ⭐ 7.876
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/6yfXtkVPWxeU3OonoKDem4Hrdbb.jpg", İnternetin Çocuğu: Aaron Swartz'un Hikayesi (2014) ⭐ 7.876
 https://vidmody.com/vs/tt3268458
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/qodkea4k0pNUmNTl5TJO2PdTqgW.jpg", Samsara (2011) ⭐ 8.1
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/qodkea4k0pNUmNTl5TJO2PdTqgW.jpg", Samsara (2011) ⭐ 8.1
 https://vidmody.com/vs/tt0770802
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/7yXXIWec24htucjsZS1sDuPLqw8.jpg", İç İşler (2010) ⭐ 7.7
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/7yXXIWec24htucjsZS1sDuPLqw8.jpg", İç İşler (2010) ⭐ 7.7
 https://vidmody.com/vs/tt1645089
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/nZbLCbRoP6iJq5sr8daHQzjnzFh.jpg", Senna (2010) ⭐ 8.108
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/nZbLCbRoP6iJq5sr8daHQzjnzFh.jpg", Senna (2010) ⭐ 8.108
 https://vidmody.com/vs/tt1424432
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/zJBkIPakBXdu3cEgGqKCPHUNXVE.jpg", Kapitalizm: Bir Aşk Hikayesi (2009) ⭐ 7.056
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/zJBkIPakBXdu3cEgGqKCPHUNXVE.jpg", Kapitalizm: Bir Aşk Hikayesi (2009) ⭐ 7.056
 https://vidmody.com/vs/tt1232207
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/7OcgnZ4tCWM9OtphB1WNpP0Mq6I.jpg", Uygunsuz Gerçek (2006) ⭐ 6.945
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/7OcgnZ4tCWM9OtphB1WNpP0Mq6I.jpg", Uygunsuz Gerçek (2006) ⭐ 6.945
 https://vidmody.com/vs/tt0497116
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/7DuALkXeR3CK7xYVnvUAt8dOvWT.jpg", İmparatorun Yolculuğu (2005) ⭐ 7.077
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/7DuALkXeR3CK7xYVnvUAt8dOvWT.jpg", İmparatorun Yolculuğu (2005) ⭐ 7.077
 https://vidmody.com/vs/tt0428803
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/fNG2JOskhQnttmAaj2knM5h59Io.jpg", The Matrix Revisited (2001) ⭐ 6.93
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/fNG2JOskhQnttmAaj2knM5h59Io.jpg", The Matrix Revisited (2001) ⭐ 6.93
 https://vidmody.com/vs/tt0295432
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/7Ksdt70xD3TnGmRdm7f9A3vFzDb.jpg", Çayırın Sakinleri (1996) ⭐ 7.583
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/7Ksdt70xD3TnGmRdm7f9A3vFzDb.jpg", Çayırın Sakinleri (1996) ⭐ 7.583
 https://vidmody.com/vs/tt0117040
 #EXTINF:-1 group-title="TV film" tvg-logo="https://image.tmdb.org/t/p/w500/OKtXyFe0BwIlZ0BKXxFbez67sy.jpg", Sığınaktaki Kız (2018) ⭐ 7.117
 https://vidmody.com/vs/tt7944094
