@@ -1,28 +1,4 @@
 #EXTM3U
-#EXTINF:0,TRT BELGESEL
-http://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="VIASAT.HISTORY.tr" tvg-name="VIASAT HISTORY" tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgesel",VIASAT EXPLORE
-http://umperisn.mywire.org/index.php?id=594656&token=DeaTHLesS
-#EXTINF:-1 tvg-id="VIASAT.HISTORY.tr" tvg-name="VIASAT HISTORY" tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgesel",VIASAT HISTORY
-http://umperisn.mywire.org/index.php?id=594658&token=DeaTHLesS
-#EXTINF:0,DISCOVERY ID
-https://proud-river-e20b.pantonum1.workers.dev/discs.m3u8
-#EXTINF:0,DISCOVERY
-https://proud-river-e20b.pantonum1.workers.dev/discovery.m3u8
-#EXTINF:0,TARIH TV
-https://proud-river-e20b.pantonum1.workers.dev/tarihtv.m3u8
-#EXTINF:0,HISTORY
-https://proud-river-e20b.pantonum1.workers.dev/history.m3u8
-#EXTINF:0,BBC EARTH
-https://proud-river-e20b.pantonum1.workers.dev/bbc.m3u8
-#EXTINF:0,NAT WILD
-https://saran-live.ercdn.net/natgeowild/index.m3u8
-#EXTINF:0,LOVE NATURE
-https://proud-river-e20b.pantonum1.workers.dev/lovenature.m3u8
-#EXTINF:0,TLC
-https://dogus.daioncdn.net/tlc/tlc.m3u8?app=tlc_web
-#EXTINF:0,DMAX
-https://dogus.daioncdn.net/dmax/dmax.m3u8?app=dmax_web
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TRT1.png" group-title=" ULUSAL", TRT 1 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196699&extension=ts&play_token=vmAan78Qyz
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TRT2.png" group-title=" ULUSAL", TRT 2 
@@ -83,12 +59,36 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197265&ex
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197269&extension=ts&play_token=jjLPIkkc
 #EXTINF:-1 tvg-logo="" group-title=" HABER", EKOL TV 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1257377&extension=ts&play_token=DA2nexCTPP
-#EXTINF:0,TRT DIYANET ÇOCUK
-https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0,DIYANET TV
-https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:0,SEMERKAND TV
+http://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
 #EXTINF:0,LALEGüL TV
 https://lbl.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:0,DIYANET TV
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:0,TRT BELGESEL
+http://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="VIASAT.HISTORY.tr" tvg-name="VIASAT HISTORY" tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgesel",VIASAT EXPLORE
+http://umperisn.mywire.org/index.php?id=594656&token=DeaTHLesS
+#EXTINF:-1 tvg-id="VIASAT.HISTORY.tr" tvg-name="VIASAT HISTORY" tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgesel",VIASAT HISTORY
+http://umperisn.mywire.org/index.php?id=594658&token=DeaTHLesS
+#EXTINF:0,DISCOVERY ID
+https://proud-river-e20b.pantonum1.workers.dev/discs.m3u8
+#EXTINF:0,DISCOVERY
+https://proud-river-e20b.pantonum1.workers.dev/discovery.m3u8
+#EXTINF:0,TARIH TV
+https://proud-river-e20b.pantonum1.workers.dev/tarihtv.m3u8
+#EXTINF:0,HISTORY
+https://proud-river-e20b.pantonum1.workers.dev/history.m3u8
+#EXTINF:0,BBC EARTH
+https://proud-river-e20b.pantonum1.workers.dev/bbc.m3u8
+#EXTINF:0,NAT WILD
+https://saran-live.ercdn.net/natgeowild/index.m3u8
+#EXTINF:0,LOVE NATURE
+https://proud-river-e20b.pantonum1.workers.dev/lovenature.m3u8
+#EXTINF:0,TLC
+https://dogus.daioncdn.net/tlc/tlc.m3u8?app=tlc_web
+#EXTINF:0,DMAX
+https://dogus.daioncdn.net/dmax/dmax.m3u8?app=dmax_web
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Powert%C3%BCrktv.png" group-title=" MÜZIK", POWER TÜRK 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197364&extension=ts&play_token=FkdL4n4O9g
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Powert%C3%BCrktv.png" group-title=" MÜZIK", POWER TV 
@@ -331,6 +331,8 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197411&ex
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0,MINIKA ÇOCUK
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
+#EXTINF:0,TRT DIYANET ÇOCUK
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3LFzchs/images-removebg-preview-(3).png" group-title="SİNEMA/DİZİ KANALLARI",DENİZ POSTASI
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vmjkCM3g/Movie-Smart-Classic-logo.png" group-title="SİNEMA/DİZİ KANALLARI",MOVİE SMART CLASSİC
@@ -527,8 +529,6 @@ https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
 https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
 #EXTINF:0,DOST  TV
 https://dost.stream.emsal.im/tv/live.m3u8
-#EXTINF:0,SEMERKAND TV
-http://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
 #EXTINF:0,MC EU TV
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 #EXTINF:0,KANAL 3
