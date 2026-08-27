@@ -71,6 +71,38 @@ http://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 http://umperisn.mywire.org/index.php?id=594656&token=DeaTHLesS
 #EXTINF:-1 tvg-id="VIASAT.HISTORY.tr" tvg-name="VIASAT HISTORY" tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgesel",VIASAT HISTORY
 http://umperisn.mywire.org/index.php?id=594658&token=DeaTHLesS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Belgesel",DISCOVERY 2
+https://65.108.239.207/discovery/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Belgesel",LOVE NATURE EN
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Belgesel",NATURE TIME FR
+https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist1080_pl.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Belgesel",TRAVELXP EN
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="beINIZ.tr" tvg-name="Tr: B**n IZ HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/BEIN_IZ.png" group-title="TR | BELGESEL",B N IZ
+http://45.138.173.72:8080/b2FYR29KdnlwazlZRE9CSlR1N3pIalRoZW1LTlVUT2Q2UE5pTVpqTmw3TEI2SDZvdlNlUHhmUEpYTTR5STJVTA?output=ts
+#EXTINF:-1 tvg-id="360.tr" tvg-name="Tr: Animal Planet HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/ANIMAL_PLANET_HD.png" group-title="TR | BELGESEL",ANIMAL PLANET
+http://45.138.173.72:8080/b2FYR29KdnlwazlZRE9CSlR1N3pIaGE5SEJpUWIwaFdTTk9LSjJtWjNmU21Yb2FiaCtSU3dJcjlJZ0JKL3dsSg?output=ts
+#EXTINF:-1 tvg-id="ANIMAUX-0xa" tvg-name="Tr: Animaux HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/Animaux-logo.png" group-title="TR | BELGESEL",ANIMAUX
+http://45.138.173.72:8080/b2FYR29KdnlwazlZRE9CSlR1N3pIcUxiWEZ1emFveFpBSW15clBIK0dyWTVmQTJ2NXo1L2x6N0MrMG5ZVDV6OA?output=ts
+#EXTINF:-1 tvg-id="CHASSEPECHE-0xa" tvg-name="Tr: Chasse Peche HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/chasse_peche.png" group-title="TR | BELGESEL",CHASSE PECHE
+http://45.138.173.72:8080/b2FYR29KdnlwazlZRE9CSlR1N3pIdDNocjVYcTdZNmE0UkZUMzZ5QmlPS0JjaTlraW45cmlkRHJIZ2NwYkZwWg?output=ts
+#EXTINF:-1 tvg-id="DocuBox.nl" tvg-name="Tr: Docubox HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/05/docubox.png" group-title="TR | BELGESEL",DOCUBOX
+http://45.138.173.72:8080/b2FYR29KdnlwazlZRE9CSlR1N3pIdVN2cTBiVGI2TkFyaFhCanVtRmZtS0xWN0RzeFprdHRueUh0SWd3ZUJrTw?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Fishing AND Hunting HD" tvg-logo="http://sltv-logo.cms-s.com/logo/HUNGARIAN/macar2021/fh.png" group-title="TR | BELGESEL",FISHING AND HUNTING
+http://45.138.173.72:8080/b2FYR29KdnlwazlZRE9CSlR1N3pIcW1Md2xlL25rUDJldFcwZU1zaUpJQStUYnp5STcvczBRaU1aZHZHQ3I1cg?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Outdoor HD" tvg-logo="https://www.lyngsat.com/logo/tv/oo/outdoor-channel-us.png" group-title="TR | BELGESEL",OUTDOOR
+http://45.138.173.72:8080/b2FYR29KdnlwazlZRE9CSlR1N3pIdVhnU1hYQUd5bmR0eS8wdlJ0aFVnQzNQY0liZis4T1BSeitKTTkzcCt0Qw?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: Viasat Nature/history HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/viasat_nature.png" group-title="TR | BELGESEL",VIASAT NATURE HISTORY
+http://45.138.173.72:8080/b2FYR29KdnlwazlZRE9CSlR1N3pIZ0FYS2FQWDRNWHRhdUs0WnR1Z2U4K01sM203Y1YwOFY3TFI4blk1R0RDeg?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="----- (tr) Yasam Kanallari----- HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TURKIYE_LOGO_SD.png" group-title="TR | YASAM",YASAM KANALLARI
+http://45.138.173.72:8080/b2FYR29KdnlwazlZRE9CSlR1N3pIbGluckZldm4vRlRQN0dGNHNoMXNwY0ZDM1UvcmxnVHdIall5YjZBUE12Qw?output=ts
+#EXTINF:-1 tvg-id="beINGurme.tr" tvg-name="Tr: B**n Gurme HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/07/BEIN_GURME_HD.png" group-title="TR | YASAM",B N GURME
+http://45.138.173.72:8080/b2FYR29KdnlwazlZRE9CSlR1N3pIcFE2REI5ZDNmMnpadzFNVmxYb1A5a0luTjBBYit6ditoMXlkNU1Qb0FpOQ?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: B**n H&e HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/BEIN_H-E_HD.png" group-title="TR | YASAM",B N H E
+http://45.138.173.72:8080/b2FYR29KdnlwazlZRE9CSlR1N3pIaWJnS3lDR3pZaiszMnN6VjlnTlpyZVZZQXArUmh1dTlRbk5RZVgvR2w1aQ?output=ts
+#EXTINF:-1 tvg-id="" tvg-name="Tr: WM TV Woman Kadin HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TV_WOMAN_KADIN_SD.png" group-title="TR | YASAM",WM TV WOMAN KADIN
+http://45.138.173.72:8080/b2FYR29KdnlwazlZRE9CSlR1N3pIanRYRUFaQ1k4R1hEOWFZcDlDN3hBN2ptVHg2SlUxV3RZR05GUUtzeGorcw?output=ts
 #EXTINF:0 group-title="U",DISCOVERY ID
 https://proud-river-e20b.pantonum1.workers.dev/discs.m3u8
 #EXTINF:0 group-title="U",DISCOVERY
@@ -46753,14 +46785,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://hnc-free-viewlift.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Sinema",ISVICRE TV
 https://tivi44.ozelip.com:3269/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Belgesel",DISCOVERY 2
-https://65.108.239.207/discovery/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Belgesel",LOVE NATURE EN
-https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Belgesel",NATURE TIME FR
-https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist1080_pl.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Belgesel",TRAVELXP EN
-https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="TR Spor" tvg-logo="https://i.imgur.com/FabFP5A.png" tvg-id="Dummy" ,TRACE SPORTS STARS
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3zHdkYG.png" group-title="TR Spor",FIGHT BOX
@@ -47243,30 +47267,6 @@ http://45.138.173.72:8080/b2FYR29KdnlwazlZRE9CSlR1N3pIZzBaTlpZM2Znc2UrWTdiZGFsT0
 http://45.138.173.72:8080/b2FYR29KdnlwazlZRE9CSlR1N3pIdkJQNElpdWpZRnkxNFNhUUhEdlpxUVNneHphZEo3Nm5vZ2EyUlI1bi9wVg?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="----- (tr) Belgesel Kanallari----- HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TURKIYE_LOGO_SD.png" group-title="TR | BELGESEL",BELGESEL KANALLARI
 http://45.138.173.72:8080/b2FYR29KdnlwazlZRE9CSlR1N3pIbEJTMzhqU2ZqU2IzcHRqWDYxZXk2Vm5DTEZmSy9TeUk3NFdxYUtDbm5RNA?output=ts
-#EXTINF:-1 tvg-id="beINIZ.tr" tvg-name="Tr: B**n IZ HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/BEIN_IZ.png" group-title="TR | BELGESEL",B N IZ
-http://45.138.173.72:8080/b2FYR29KdnlwazlZRE9CSlR1N3pIalRoZW1LTlVUT2Q2UE5pTVpqTmw3TEI2SDZvdlNlUHhmUEpYTTR5STJVTA?output=ts
-#EXTINF:-1 tvg-id="360.tr" tvg-name="Tr: Animal Planet HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/ANIMAL_PLANET_HD.png" group-title="TR | BELGESEL",ANIMAL PLANET
-http://45.138.173.72:8080/b2FYR29KdnlwazlZRE9CSlR1N3pIaGE5SEJpUWIwaFdTTk9LSjJtWjNmU21Yb2FiaCtSU3dJcjlJZ0JKL3dsSg?output=ts
-#EXTINF:-1 tvg-id="ANIMAUX-0xa" tvg-name="Tr: Animaux HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/07/Animaux-logo.png" group-title="TR | BELGESEL",ANIMAUX
-http://45.138.173.72:8080/b2FYR29KdnlwazlZRE9CSlR1N3pIcUxiWEZ1emFveFpBSW15clBIK0dyWTVmQTJ2NXo1L2x6N0MrMG5ZVDV6OA?output=ts
-#EXTINF:-1 tvg-id="CHASSEPECHE-0xa" tvg-name="Tr: Chasse Peche HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/06/chasse_peche.png" group-title="TR | BELGESEL",CHASSE PECHE
-http://45.138.173.72:8080/b2FYR29KdnlwazlZRE9CSlR1N3pIdDNocjVYcTdZNmE0UkZUMzZ5QmlPS0JjaTlraW45cmlkRHJIZ2NwYkZwWg?output=ts
-#EXTINF:-1 tvg-id="DocuBox.nl" tvg-name="Tr: Docubox HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2020/05/docubox.png" group-title="TR | BELGESEL",DOCUBOX
-http://45.138.173.72:8080/b2FYR29KdnlwazlZRE9CSlR1N3pIdVN2cTBiVGI2TkFyaFhCanVtRmZtS0xWN0RzeFprdHRueUh0SWd3ZUJrTw?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="Tr: Fishing AND Hunting HD" tvg-logo="http://sltv-logo.cms-s.com/logo/HUNGARIAN/macar2021/fh.png" group-title="TR | BELGESEL",FISHING AND HUNTING
-http://45.138.173.72:8080/b2FYR29KdnlwazlZRE9CSlR1N3pIcW1Md2xlL25rUDJldFcwZU1zaUpJQStUYnp5STcvczBRaU1aZHZHQ3I1cg?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="Tr: Outdoor HD" tvg-logo="https://www.lyngsat.com/logo/tv/oo/outdoor-channel-us.png" group-title="TR | BELGESEL",OUTDOOR
-http://45.138.173.72:8080/b2FYR29KdnlwazlZRE9CSlR1N3pIdVhnU1hYQUd5bmR0eS8wdlJ0aFVnQzNQY0liZis4T1BSeitKTTkzcCt0Qw?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="Tr: Viasat Nature/history HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/viasat_nature.png" group-title="TR | BELGESEL",VIASAT NATURE HISTORY
-http://45.138.173.72:8080/b2FYR29KdnlwazlZRE9CSlR1N3pIZ0FYS2FQWDRNWHRhdUs0WnR1Z2U4K01sM203Y1YwOFY3TFI4blk1R0RDeg?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="----- (tr) Yasam Kanallari----- HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TURKIYE_LOGO_SD.png" group-title="TR | YASAM",YASAM KANALLARI
-http://45.138.173.72:8080/b2FYR29KdnlwazlZRE9CSlR1N3pIbGluckZldm4vRlRQN0dGNHNoMXNwY0ZDM1UvcmxnVHdIall5YjZBUE12Qw?output=ts
-#EXTINF:-1 tvg-id="beINGurme.tr" tvg-name="Tr: B**n Gurme HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/07/BEIN_GURME_HD.png" group-title="TR | YASAM",B N GURME
-http://45.138.173.72:8080/b2FYR29KdnlwazlZRE9CSlR1N3pIcFE2REI5ZDNmMnpadzFNVmxYb1A5a0luTjBBYit6ditoMXlkNU1Qb0FpOQ?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="Tr: B**n H&e HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/BEIN_H-E_HD.png" group-title="TR | YASAM",B N H E
-http://45.138.173.72:8080/b2FYR29KdnlwazlZRE9CSlR1N3pIaWJnS3lDR3pZaiszMnN6VjlnTlpyZVZZQXArUmh1dTlRbk5RZVgvR2w1aQ?output=ts
-#EXTINF:-1 tvg-id="" tvg-name="Tr: WM TV Woman Kadin HD" tvg-logo="http://xopen.xyz/wp-content/uploads/2019/06/TV_WOMAN_KADIN_SD.png" group-title="TR | YASAM",WM TV WOMAN KADIN
-http://45.138.173.72:8080/b2FYR29KdnlwazlZRE9CSlR1N3pIanRYRUFaQ1k4R1hEOWFZcDlDN3hBN2ptVHg2SlUxV3RZR05GUUtzeGorcw?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="Tr: Stingray Classica HD" tvg-logo="https://i.imgur.com/EM3FheD.png" group-title="TR | YASAM",STINGRAY CLASSICA
 http://45.138.173.72:8080/b2FYR29KdnlwazlZRE9CSlR1N3pIaG9IeTNuR0xEZVY0S04zVmpuam1qd25LZUFRVXZlNEhTUC84NWM0NHJEbA?output=ts
 #EXTINF:-1 tvg-id="" tvg-name="Tr: English CLUB TV HD" tvg-logo="https://i.hizliresim.com/oxb2d98.png" group-title="TR | YASAM",ENGLISH CLUB TV
