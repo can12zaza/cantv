@@ -3,5 +3,5 @@ https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/M3U/TVI_Reality
 https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/tr.m3u
 https://raw.githubusercontent.com/sahind01/vidmoy/refs/heads/main/filmler/films.m3u
-https://raw.githubusercontent.com/Zerk1903/zerkfilm/refs/heads/main/Filmler.m3u
+
 
