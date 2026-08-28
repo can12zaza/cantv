@@ -1,3 +1,5 @@
-https://raw.githubusercontent.com/yasar323232-hue/M3u-playlist/refs/heads/main/iptv.m3u
-https://raw.githubusercontent.com/can12zaza/my_channels.m3u/refs/heads/main/playlist.m3u
-
+https://raw.githubusercontent.com/hydrokin/M3U/e4e9ba44d54d360ff3de6388220a4dc1019bf34e/tvando.m3u
+https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/tr.m3u
+https://raw.githubusercontent.com/salihakln04/film-dizi-arsiv/refs/heads/main/270513-TR-tv1.m3u
+https://raw.githubusercontent.com/sahind01/vidmoy/refs/heads/main/filmler/filmsss.m3u
