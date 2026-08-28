@@ -5,5 +5,6 @@ https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/tr.m3u
 https://raw.githubusercontent.com/sahind01/vidmoy/refs/heads/main/filmler/films.m3u
 https://raw.githubusercontent.com/can12zaza/my_channels.m3u/refs/heads/main/akom.m3u
 https://raw.githubusercontent.com/can12zaza/my_channels.m3u/refs/heads/main/beachibb.m3u
+https://raw.githubusercontent.com/yasar323232-hue/M3u-playlist/refs/heads/main/iptv.m3u
 
 
