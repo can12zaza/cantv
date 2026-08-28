@@ -1,4 +1,3 @@
-https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/M3U/TVI_Reality.m3u8
 https://raw.githubusercontent.com/yasar323232-hue/M3u-playlist/refs/heads/main/iptv.m3u
 https://raw.githubusercontent.com/can12zaza/my_channels.m3u/refs/heads/main/playlist.m3u
 
