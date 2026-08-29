@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/can12zaza/my_channels.m3u/refs/heads/main/playlist.m3u
 https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/tr.m3u
 https://raw.githubusercontent.com/sahind01/vidmoy/refs/heads/main/filmler/filmsss.m3u
+https://raw.githubusercontent.com/can12zaza/my_channels.m3u/refs/heads/main/playlist.m3u
