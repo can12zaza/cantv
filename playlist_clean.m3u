@@ -1,151 +1,151 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TRT1.png" group-title="ULUSAL", TRT 1 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TRT1.png" group-title="Ulusal", TRT 1 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196699&extension=ts&play_token=vmAan78Qyz
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Atv.png" group-title="ULUSAL", ATV 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Atv.png" group-title="Ulusal", ATV 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196698&extension=ts&play_token=6k77AngOgl
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/showtv.png" group-title="ULUSAL", SHOW TV 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/showtv.png" group-title="Ulusal", SHOW TV 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196697&extension=ts&play_token=S05dySmbjf
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/KanalD.png" group-title="ULUSAL", KANAL D 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/KanalD.png" group-title="Ulusal", KANAL D 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196696&extension=ts&play_token=DYgtNp28Es
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/startv.png" group-title="ULUSAL", STAR TV 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/startv.png" group-title="Ulusal", STAR TV 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196695&extension=ts&play_token=9rZyNWfIPX
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/FOXTV.png" group-title="ULUSAL", NOW TV 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/FOXTV.png" group-title="Ulusal", NOW TV 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196694&extension=ts&play_token=lSQRFJi5TM
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Tv8.png" group-title="ULUSAL", TV 8 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Tv8.png" group-title="Ulusal", TV 8 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196693&extension=ts&play_token=b5WpiwQiiH
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Tv8.png" group-title="ULUSAL", TV 8.5 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Tv8.png" group-title="Ulusal", TV 8.5 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196692&extension=ts&play_token=021Y7YSYE8
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BeyazTV.png" group-title="ULUSAL", BEYAZ TV 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BeyazTV.png" group-title="Ulusal", BEYAZ TV 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196675&extension=ts&play_token=MB5iIE85Ro
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Kanal7.png" group-title="ULUSAL", KANAL 7 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Kanal7.png" group-title="Ulusal", KANAL 7 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196690&extension=ts&play_token=PndCKJQB2u
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Teve2_logo.png" group-title="ULUSAL", TEVE 2 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Teve2_logo.png" group-title="Ulusal", TEVE 2 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196689&extension=ts&play_token=7u6BNeQHj0
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TRT2.png" group-title="ULUSAL", TRT 2 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TRT2.png" group-title="Ulusal", TRT 2 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196688&extension=ts&play_token=xSvgymKo8X
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UKRAINE/TRT_logo_(2018-).svg.png" group-title="ULUSAL", TRT  
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UKRAINE/TRT_logo_(2018-).svg.png" group-title="Ulusal", TRT  
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197438&extension=ts&play_token=zkjkoH1DCe
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/A2.png" group-title="ULUSAL", A2 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/A2.png" group-title="Ulusal", A2 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196687&extension=ts&play_token=DGJnc2zcvx
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/360.png" group-title="ULUSAL", 360 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/360.png" group-title="Ulusal", 360 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196686&extension=ts&play_token=bNDysiy4vA
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/showmax.png" group-title="ULUSAL", SHOW MAX 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/showmax.png" group-title="Ulusal", SHOW MAX 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196700&extension=ts&play_token=fc6mDNoLp1
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/atvavrupa.png" group-title="ULUSAL", ATV AVRUPA
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/atvavrupa.png" group-title="Ulusal", ATV AVRUPA
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196666&extension=ts&play_token=mVvbrNqoax
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/showtv.png" group-title="ULUSAL", SHOW TURK
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/showtv.png" group-title="Ulusal", SHOW TURK
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196664&extension=ts&play_token=qoGE4lge5n
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Euro_D.png" group-title="ULUSAL", EURO D
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Euro_D.png" group-title="Ulusal", EURO D
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196663&extension=ts&play_token=Xly1dUUni8
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Tv8.png" group-title="ULUSAL", TV 8 INT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Tv8.png" group-title="Ulusal", TV 8 INT
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196662&extension=ts&play_token=jn7Qq9d7fI
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Kanal7.png" group-title="ULUSAL", KANAL 7 AVRUPA
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Kanal7.png" group-title="Ulusal", KANAL 7 AVRUPA
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196661&extension=ts&play_token=t2EsW8HHSU
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/kanalfirat.png" group-title="ULUSAL", KANAL FIRAT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/kanalfirat.png" group-title="Ulusal", KANAL FIRAT
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196660&extension=ts&play_token=pTDH5wP4Or
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/MALAYSIA/Logo_of_TV1_(Malaysia).svg%20(1).png" group-title="ULUSAL", TV1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/MALAYSIA/Logo_of_TV1_(Malaysia).svg%20(1).png" group-title="Ulusal", TV1
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196659&extension=ts&play_token=9d3LgPUiM1
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BRT.png" group-title="ULUSAL", BRT 1 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BRT.png" group-title="Ulusal", BRT 1 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196657&extension=ts&play_token=NNkEernreQ
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BRT.png" group-title="ULUSAL", BRT 2 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BRT.png" group-title="Ulusal", BRT 2 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196656&extension=ts&play_token=BfqwEL1Ga7
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Akit_TV.png" group-title="YEREL", AKIT TV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Akit_TV.png" group-title="Yerel", AKIT TV
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197233&extension=ts&play_token=5x13V8PrEV
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/AKILLI.png" group-title="YEREL", AKILLI TV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/AKILLI.png" group-title="Yerel", AKILLI TV
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197231&extension=ts&play_token=xYOCtq7QJV
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Beng%C3%BCt%C3%BCrk_TV.png" group-title="YEREL", BENGÜ TÜRK
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Beng%C3%BCt%C3%BCrk_TV.png" group-title="Yerel", BENGÜ TÜRK
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197227&extension=ts&play_token=BIkfp6yMim
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Cem_TV_logo.png" group-title="YEREL", CEM TV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Cem_TV_logo.png" group-title="Yerel", CEM TV
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197223&extension=ts&play_token=fqcWcqBS9Q
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ekoturk-logo-400.png" group-title="YEREL", EKOTURK TV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ekoturk-logo-400.png" group-title="Yerel", EKOTURK TV
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197215&extension=ts&play_token=bY3WHejOmN
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/kanal_68.png" group-title="YEREL", KANAL 68
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/kanal_68.png" group-title="Yerel", KANAL 68
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197200&extension=ts&play_token=4eItwPJoyj
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/kanalavrupa.png" group-title="YEREL", KANAL AVRUPA
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/kanalavrupa.png" group-title="Yerel", KANAL AVRUPA
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197199&extension=ts&play_token=RV6FOEvIWL
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/kanalb.png" group-title="YEREL", KANAL B
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/kanalb.png" group-title="Yerel", KANAL B
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197198&extension=ts&play_token=6NxyOt8ARr
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/krt%20(2).png" group-title="YEREL", KRT TV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/krt%20(2).png" group-title="Yerel", KRT TV
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197195&extension=ts&play_token=ALQMMnvJJp
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/koytv.png" group-title="YEREL", KÖY TV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/koytv.png" group-title="Yerel", KÖY TV
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197193&extension=ts&play_token=VrCvWFnQOv
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/kontv.png" group-title="YEREL", KON TV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/kontv.png" group-title="Yerel", KON TV
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197191&extension=ts&play_token=PM2eb119cV
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/rumelitv.png" group-title="YEREL", RUMELI TV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/rumelitv.png" group-title="Yerel", RUMELI TV
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197188&extension=ts&play_token=PaNAKhTAov
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/mavikaradeniz.png" group-title="YEREL", MAVI KARADENIZ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/mavikaradeniz.png" group-title="Yerel", MAVI KARADENIZ
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197183&extension=ts&play_token=18GX0jcvL1
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/meltem.png" group-title="YEREL", MELTEM TV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/meltem.png" group-title="Yerel", MELTEM TV
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197182&extension=ts&play_token=GckvrhtdF2
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/pamukkaletv.png" group-title="YEREL", PAMUKKALE TV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/pamukkaletv.png" group-title="Yerel", PAMUKKALE TV
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197179&extension=ts&play_token=OHyYS2HCuW
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ULUSAL.png" group-title="YEREL", ULUSAL KANAL
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ULUSAL.png" group-title="Yerel", ULUSAL KANAL
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197178&extension=ts&play_token=8qxzVqk0m2
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SAT7.png" group-title="YEREL", SAT7 TURK
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SAT7.png" group-title="Yerel", SAT7 TURK
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197177&extension=ts&play_token=lky5iwkG54
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/mc.eu.png" group-title="YEREL", MC EU
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/mc.eu.png" group-title="Yerel", MC EU
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197176&extension=ts&play_token=0TuVDx1Mn3
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TGRT_EU.png" group-title="YEREL", TGRT EU
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TGRT_EU.png" group-title="Yerel", TGRT EU
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197175&extension=ts&play_token=uw8w4RDI5f
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/kayseritv.png" group-title="YEREL", KAYSERI TV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/kayseritv.png" group-title="Yerel", KAYSERI TV
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197173&extension=ts&play_token=k3Ssrmgnnr
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/tv1kayseri.png" group-title="YEREL", TV 1 KAYSERI
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/tv1kayseri.png" group-title="Yerel", TV 1 KAYSERI
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197171&extension=ts&play_token=wgCB9rueyY
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/vatan.png" group-title="YEREL", VAV TV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/vatan.png" group-title="Yerel", VAV TV
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197167&extension=ts&play_token=6Sq7Otufl9
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/VIZYON58.png" group-title="YEREL", VIZYON 58
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/VIZYON58.png" group-title="Yerel", VIZYON 58
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197166&extension=ts&play_token=94CyDe2YRg
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/YOL-TV.png" group-title="YEREL", YOL TV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/YOL-TV.png" group-title="Yerel", YOL TV
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197164&extension=ts&play_token=nDvHZaixWT
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/YILDIZEN.png" group-title="YEREL", YILDIZ EN
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/YILDIZEN.png" group-title="Yerel", YILDIZ EN
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197163&extension=ts&play_token=D8JZhO6bpY
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/UZAYHABER.png" group-title="YEREL", UZAY HABER
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/UZAYHABER.png" group-title="Yerel", UZAY HABER
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197161&extension=ts&play_token=oX2laqQH7Y
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/FINLAND/150px-TV5_Finland_logo_2019.png" group-title="YEREL", TV 5
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/FINLAND/150px-TV5_Finland_logo_2019.png" group-title="Yerel", TV 5
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197160&extension=ts&play_token=dg0fqY7VUH
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Habert%C3%BCrktv.png" group-title="HABER", HABER TÜRK 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Habert%C3%BCrktv.png" group-title="Haber", HABER TÜRK 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197264&extension=ts&play_token=Iw60S9KlXh
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TGRT_Haber.png" group-title="HABER", TGRT HABER 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TGRT_Haber.png" group-title="Haber", TGRT HABER 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197263&extension=ts&play_token=c53adoDCo6
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/trt-haber.png" group-title="HABER", TRT HABER 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/trt-haber.png" group-title="Haber", TRT HABER 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197262&extension=ts&play_token=VItI33IyP6
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TRT_World.png" group-title="HABER", TRT WORLD 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TRT_World.png" group-title="Haber", TRT WORLD 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197261&extension=ts&play_token=cdx7DrYc71
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/CNN_T%C3%BCrk_logo.svg.png" group-title="HABER", CNN TÜRK 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/CNN_T%C3%BCrk_logo.svg.png" group-title="Haber", CNN TÜRK 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197260&extension=ts&play_token=UJ6cx8th1N
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Ahaber_Logo.png" group-title="HABER", A HABER 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Ahaber_Logo.png" group-title="Haber", A HABER 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197259&extension=ts&play_token=lETzv8vz
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ulketv.png" group-title="HABER", ULKE TV 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ulketv.png" group-title="Haber", ULKE TV 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197258&extension=ts&play_token=kT246ZR7mz
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/there.png" group-title="HABER", TV NET 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/there.png" group-title="Haber", TV NET 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197257&extension=ts&play_token=hQlsXbvuXH
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/NTV.png" group-title="HABER", NTV 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/NTV.png" group-title="Haber", NTV 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197266&extension=ts&play_token=4Nw50op3di
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Flash_TV.png" group-title="HABER", FLASH HABER 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Flash_TV.png" group-title="Haber", FLASH HABER 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197265&extension=ts&play_token=QkFNXps4SM
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Haber_Global.png" group-title="HABER", HABER GLOBAL 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Haber_Global.png" group-title="Haber", HABER GLOBAL 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197268&extension=ts&play_token=tGkC8erhpz
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Bloomberg_Television_logo.svg.png" group-title="HABER", BLOOMBERG 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Bloomberg_Television_logo.svg.png" group-title="Haber", BLOOMBERG 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197269&extension=ts&play_token=jjLPIkkc
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/24haber.png" group-title="HABER", 24 HABER 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/24haber.png" group-title="Haber", 24 HABER 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197270&extension=ts&play_token=kbSCfqIRQ7
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/HABER/A NEWS .png" group-title="HABER", A NEWS 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/HABER/A NEWS .png" group-title="Haber", A NEWS 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197271&extension=ts&play_token=Nx8VX4UaJj
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/TRAPARATV.png" group-title="HABER", A PARA 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/TRAPARATV.png" group-title="Haber", A PARA 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197272&extension=ts&play_token=YMedtQj0VQ
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TV100_logo.png" group-title="HABER", TV 100 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TV100_logo.png" group-title="Haber", TV 100 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197273&extension=ts&play_token=fIy9sX6ocp
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TRT_T%C3%BCrk_logosu.png" group-title="HABER", TRT TÜRK 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TRT_T%C3%BCrk_logosu.png" group-title="Haber", TRT TÜRK 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197240&extension=ts&play_token=KJkY5hTnHv
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/halktv.png" group-title="HABER", HALK TV 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/halktv.png" group-title="Haber", HALK TV 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197274&extension=ts&play_token=hmqcrCTD7p
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Tele1.png" group-title="HABER", TELE 1 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Tele1.png" group-title="Haber", TELE 1 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197275&extension=ts&play_token=XlBwIcQt6l
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/krt%20(2).png" group-title="HABER", KRT 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/krt%20(2).png" group-title="Haber", KRT 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197276&extension=ts&play_token=cqRGvvpTWt
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/sozcutv.png" group-title="HABER", SÖZCÜ TV 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/sozcutv.png" group-title="Haber", SÖZCÜ TV 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=540949&extension=ts&play_token=JOFxL2wUlR
-#EXTINF:-1 tvg-logo="" group-title="HABER", EKOL TV 
+#EXTINF:-1 tvg-logo="" group-title="Haber", EKOL TV 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1257377&extension=ts&play_token=DA2nexCTPP
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Powert%C3%BCrktv.png" group-title="Müzik", POWER TÜRK 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197364&extension=ts&play_token=FkdL4n4O9g
@@ -185,80 +185,68 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197414&ex
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197412&extension=ts&play_token=d2rZJutNho
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Cartoon_Network.png" group-title="Cocuk", CARTOON NETWORK
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197411&extension=ts&play_token=6Vh9e7AwnI
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne SERIES.png" group-title="PLATFORM",beIN Series 1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne SERIES.png" group-title="Tivione Platform",beIN Series 1
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471673&extension=ts&play_token=fDOWsHHnSf
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne SERIES.png" group-title="PLATFORM",beIN Series 2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne SERIES.png" group-title="Tivione Platform",beIN Series 2
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471674&extension=ts&play_token=5gfhIkzuQg
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne SERIES.png" group-title="PLATFORM",beIN Series 3
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne SERIES.png" group-title="Tivione Platform",beIN Series 3
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471675&extension=ts&play_token=gzHjnGWvXz
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne SERIES.png" group-title="PLATFORM",beIN Series 4
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne SERIES.png" group-title="Tivione Platform",beIN Series 4
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471676&extension=ts&play_token=x3dLMvs808
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES PREMIERE.png" group-title="PLATFORM", TiviOne MOVIES PREMIERE 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES PREMIERE.png" group-title="Tivione Platform", TiviOne MOVIES PREMIERE 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471678&extension=ts&play_token=pCSHS8y6a9
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES PREMIERE.png" group-title="PLATFORM", TiviOne MOVIES PREMIERE 2 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES PREMIERE.png" group-title="Tivione Platform", TiviOne MOVIES PREMIERE 2 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471679&extension=ts&play_token=5Re2g5Y61Q
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES ACTION.png" group-title="PLATFORM", TiviOne MOVIES ACTION 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES ACTION.png" group-title="Tivione Platform", TiviOne MOVIES ACTION 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471677&extension=ts&play_token=wYvQ6VQYYA
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES STARS.png" group-title="PLATFORM", TiviOne MOVIES STARS 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES STARS.png" group-title="Tivione Platform", TiviOne MOVIES STARS 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471680&extension=ts&play_token=mZ2ehyWIXk
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES TURK.png" group-title="PLATFORM", TiviOne MOVIES TURK 
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES TURK.png" group-title="Tivione Platform", TiviOne MOVIES TURK 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471681&extension=ts&play_token=p8HF9AkTNy
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne BOX OFFICE 1.png" group-title="PLATFORM", TiviOne BOX OFFICE 1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne BOX OFFICE 1.png" group-title="Tivione Platform", TiviOne BOX OFFICE 1
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471698&extension=ts&play_token=ZzrLzmL66r
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne BOX OFFICE 2.png" group-title="PLATFORM", TiviOne BOX OFFICE 2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne BOX OFFICE 2.png" group-title="Tivione Platform", TiviOne BOX OFFICE 2
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471699&extension=ts&play_token=vtxTsTkH2o
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne BOX OFFICE 3.png" group-title="PLATFORM", TiviOne BOX OFFICE 3
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne BOX OFFICE 3.png" group-title="Tivione Platform", TiviOne BOX OFFICE 3
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471700&extension=ts&play_token=i0YM1UnDab
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/DIZISMART MAX.png" group-title="SINEMA PLATFORM", DIZISMART MAX
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/DIZISMART MAX.png" group-title="Sinema Platform", DIZISMART MAX
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471682&extension=ts&play_token=BtvB09wPcF
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/CINE 6.png" group-title="SINEMA PLATFORM", DIZISMART PREMIUM
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/CINE 6.png" group-title="Sinema Platform", DIZISMART PREMIUM
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471683&extension=ts&play_token=M5icembCGP
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/MOVIESMART.png" group-title="SINEMA PLATFORM", MOVIESMART CLASSIC
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/MOVIESMART.png" group-title="Sinema Platform", MOVIESMART CLASSIC
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471684&extension=ts&play_token=txJYZNZE6k
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/MOVIESMART TÜRK.png" group-title="SINEMA PLATFORM", MOVIESMART TÜRK
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/MOVIESMART TÜRK.png" group-title="Sinema Platform", MOVIESMART TÜRK
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471685&extension=ts&play_token=t39wCHGH3S
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV 2.png" group-title="SINEMA PLATFORM",SINEMA TV AKSIYON 2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV 2.png" group-title="Sinema Platform",SINEMA TV AKSIYON 2
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471689&extension=ts&play_token=rlz9LlxLPS
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV 1001.png" group-title="SINEMA PLATFORM", SINEMA TV 1001
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV 1001.png" group-title="Sinema Platform", SINEMA TV 1001
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471686&extension=ts&play_token=yPA99fo4XP
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV 1002.png" group-title="SINEMA PLATFORM", SINEMA TV 1002
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV 1002.png" group-title="Sinema Platform", SINEMA TV 1002
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471687&extension=ts&play_token=HzhZ6vEhES
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV AKSIYON.png" group-title="SINEMA PLATFORM", SINEMA TV AKSIYON
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV AKSIYON.png" group-title="Sinema Platform", SINEMA TV AKSIYON
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471692&extension=ts&play_token=JrSdLylyR5
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV AILE.png" group-title="SINEMA PLATFORM", SINEMA TV AILE
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV AILE.png" group-title="Sinema Platform", SINEMA TV AILE
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471690&extension=ts&play_token=XkCHN9quwY
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV AILE 2.png" group-title="SINEMA PLATFORM", SINEMA TV AILE 2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV AILE 2.png" group-title="Sinema Platform", SINEMA TV AILE 2
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471691&extension=ts&play_token=bcbMRdaja4
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV YERLI.png" group-title="SINEMA PLATFORM", SINEMA TV YERLI
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV YERLI.png" group-title="Sinema Platform", SINEMA TV YERLI
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471695&extension=ts&play_token=4gVsSqTs89
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV YERLI 2.png" group-title="SINEMA PLATFORM", SINEMA TV YERLI 2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV YERLI 2.png" group-title="Sinema Platform", SINEMA TV YERLI 2
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471696&extension=ts&play_token=8QN8Rx0ig8
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV KOMEDI.png" group-title="SINEMA PLATFORM", SINEMA TV KOMEDI
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV KOMEDI.png" group-title="Sinema Platform", SINEMA TV KOMEDI
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471694&extension=ts&play_token=gUDQpjYD0L
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/CINE 6.png" group-title="SINEMA PLATFORM", CINE 6
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/CINE 6.png" group-title="Sinema Platform", CINE 6
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471697&extension=ts&play_token=fBblcTNf3r
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/EPIC DRAMA.png" group-title="SINEMA PLATFORM", EPIC DRAMA
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/EPIC DRAMA.png" group-title="Sinema Platform", EPIC DRAMA
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471701&extension=ts&play_token=POSWGUQYoB
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/FX.png" group-title="SINEMA PLATFORM", FX
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/FX.png" group-title="Sinema Platform", FX
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471702&extension=ts&play_token=cbcl7gAM4x
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/TIVI 6.png" group-title="SINEMA PLATFORM", TIVI 6
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/TIVI 6.png" group-title="Sinema Platform", TIVI 6
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471703&extension=ts&play_token=d61TdntQCe
 #EXTINF:-1 tvg-id="" tvg-name="┃TR┃ BEIN SPORTS 1" group-title="┃TR┃ BEIN SPORTS",BEIN SPORTS 1
 http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=988852&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="┃TR┃ YABAN TV" group-title="┃TR┃ BELGESEL",YABAN TV
 http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=197439&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/PLATFORM/MOVIES PREMIERE.png" group-title="PLATFORM",MOVIES PREMIERE
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:BF&stream=1471678&extension=ts&play_token=pCSHS8y6a9
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/PLATFORM/BOX OFFICE 2.png" group-title="PLATFORM",BEIN BOX OFFICE 2
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:BF&stream=1471699&extension=ts&play_token=vtxTsTkH2o
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/TiviOneENTERTAINMENT/TiviOne-movies-183472.png" group-title="SINEMA YABANCI",MOVIES TURK
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:BF&stream=197155&extension=ts&play_token=bGp1orGGzP
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Eurosport.png" group-title="S SPORTS",EUROSPORT 1
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:BF&stream=708&extension=ts&play_token=9HxnbsQNIJ
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TRT_Spor_logo.png" group-title="SPOR",TRT SPOR
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:BF&stream=709&extension=ts&play_token=AN3cSmXfyI
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.png" group-title="SPOR",TRT SPOR YILDIZ
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CE:BF&stream=18644&extension=ts&play_token=6fextF0Ovq
 #EXTINF:0 group-title="Uncategorized",STAR
 https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web
 #EXTINF:0 group-title="Uncategorized",NOW
@@ -287,13 +275,13 @@ https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 #EXTINF:0 group-title="Uncategorized",TRT KURDI
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-#EXTINF:0 group-title="SPOR", HT SPOR
+#EXTINF:0 group-title="Uncategorized", HT SPOR
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
-#EXTINF:0 group-title="SPOR",EKOL SPORT TV
+#EXTINF:0 group-title="TV",EKOL SPORT TV
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
 #EXTINF:0 group-title="TV",SZC TV
 https://sweet-truth-729d.han686314.workers.dev/?url=https://helga.iptv2022.com/szc_tv/index.m3u8
-#EXTINF:0 group-title="HABER",LIDER HABER
+#EXTINF:0 group-title="Haber",LIDER HABER
 https://liderhaber.han686314.workers.dev/?url=https://lidertv.radyotelekom.com.tr/player/m3u8/9217b6e91d17c38f7d171eb2b3670349/chunklist_w1214941309.m3u8
 #EXTINF:0 group-title="TV",AS TV
 https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
@@ -301,9 +289,11 @@ https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="TV",DW TV (ENGLISH)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
-#EXTINF:0 group-title="BELGESEL",TRT BELGESEL
+#EXTINF:0 group-title="Belgesel",TRT BELGESEL
 http://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0 group-title="SPOR",A SPOR
+#EXTINF:0 group-title="Uncategorized",TRT SPOR
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:0 group-title="Uncategorized",A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:0 group-title="TV",FB TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
@@ -381,49 +371,49 @@ https://saran-live.ercdn.net/natgeowild/index.m3u8
 https://proud-river-e20b.pantonum1.workers.dev/lovenature.m3u8
 #EXTINF:0 group-title="Uncategorized",VIASAT HISTORY
 https://proud-river-e20b.pantonum1.workers.dev/viasathistory.m3u8
-#EXTINF:0 group-title="SPOR",BEIN SPORT 1
+#EXTINF:0 group-title="Uncategorized",BEIN SPORT 1
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydub1.m3u8
-#EXTINF:0 group-title="SPOR",BEIN SPORT 2
+#EXTINF:0 group-title="Uncategorized",BEIN SPORT 2
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydub2.m3u8
-#EXTINF:0 group-title="SPOR",BEIN SPORT 3
+#EXTINF:0 group-title="Uncategorized",BEIN SPORT 3
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydub3.m3u8
-#EXTINF:0 group-title="SPOR",BEIN SPORT 4
+#EXTINF:0 group-title="Uncategorized",BEIN SPORT 4
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydub4.m3u8
-#EXTINF:0 group-title="SPOR",S SPORT
+#EXTINF:0 group-title="Uncategorized",S SPORT
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydus1.m3u8
-#EXTINF:0 group-title="SPOR",S SPORT 2
+#EXTINF:0 group-title="Uncategorized",S SPORT 2
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydus2.m3u8
-#EXTINF:0 group-title="SPOR",TIVIBU SPOR 1
+#EXTINF:0 group-title="Uncategorized",TIVIBU SPOR 1
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydut1.m3u8
-#EXTINF:0 group-title="SPOR",TIVIBU SPOR 2
+#EXTINF:0 group-title="Uncategorized",TIVIBU SPOR 2
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydut2.m3u8
-#EXTINF:0 group-title="SPOR",TIVIBU SPOR 3
+#EXTINF:0 group-title="Uncategorized",TIVIBU SPOR 3
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydut3.m3u8
-#EXTINF:0 group-title="SPOR",BEIN SPORT 5
+#EXTINF:0 group-title="Uncategorized",BEIN SPORT 5
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebs5.m3u8
-#EXTINF:0 group-title="SPOR",BEIN SPORT MAX 1
+#EXTINF:0 group-title="Uncategorized",BEIN SPORT MAX 1
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebsm1.m3u8
-#EXTINF:0 group-title="SPOR",BEIN SPORT MAX 2
+#EXTINF:0 group-title="Uncategorized",BEIN SPORT MAX 2
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivebsm2.m3u8
-#EXTINF:0 group-title="SPOR",S SPORT 1
+#EXTINF:0 group-title="Uncategorized",S SPORT 1
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivess1.m3u8
-#EXTINF:0 group-title="SPOR",TIVIBU SPORT
+#EXTINF:0 group-title="Uncategorized",TIVIBU SPORT
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivets.m3u8
-#EXTINF:0 group-title="SPOR",TIVIBU SPORT 1
+#EXTINF:0 group-title="Uncategorized",TIVIBU SPORT 1
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivets1.m3u8
-#EXTINF:0 group-title="SPOR",TIVIBU SPORT 2
+#EXTINF:0 group-title="Uncategorized",TIVIBU SPORT 2
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivets2.m3u8
-#EXTINF:0 group-title="SPOR",TIVIBU SPORT 3
+#EXTINF:0 group-title="Uncategorized",TIVIBU SPORT 3
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivets3.m3u8
-#EXTINF:0 group-title="SPOR",TIVIBU SPORT 4
+#EXTINF:0 group-title="Uncategorized",TIVIBU SPORT 4
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivets4.m3u8
-#EXTINF:0 group-title="SPOR",SMART SPORT 1
+#EXTINF:0 group-title="Uncategorized",SMART SPORT 1
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivesm1.m3u8
-#EXTINF:0 group-title="SPOR",SMART SPORT 2
+#EXTINF:0 group-title="Uncategorized",SMART SPORT 2
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivesm2.m3u8
-#EXTINF:0 group-title="SPOR",EURO SPORT 1
+#EXTINF:0 group-title="Uncategorized",EURO SPORT 1
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivees1.m3u8
-#EXTINF:0 group-title="SPOR",EURO SPORT 2
+#EXTINF:0 group-title="Uncategorized",EURO SPORT 2
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivees2.m3u8
 #EXTINF:0 group-title="Uncategorized",TABII
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivetb.m3u8
@@ -447,17 +437,19 @@ https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivetb8.m3u8
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamliveexn.m3u8
 #EXTINF:0 group-title="Uncategorized",EXXEN 1
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamliveexn1.m3u8
+#EXTINF:-1 group-title="Ümitm0d-Türk Kanalları" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/02ef58a4-349a-49a6-8df2-82fb71c6554d.png" tvg-name="Trt Spor Yıldız " ,TRT SPOR YıLDıZ
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="TV",TV4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:0 group-title="TV",BEYAZ TV F
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:0 group-title="Uncategorized",BENGU TURK
 https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
-#EXTINF:0 group-title="HABER",TURK HABER TV
+#EXTINF:0 group-title="Haber",TURK HABER TV
 https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
-#EXTINF:0 group-title="HABER",HABER 61
+#EXTINF:0 group-title="Uncategorized",HABER 61
 http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
-#EXTINF:0 group-title="BELGESEL",TGRT BELGESEL
+#EXTINF:0 group-title="Belgesel",TGRT BELGESEL
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8?md5=yJ4adbAK5bE0F93vqFevgw&expires=1687122603
 #EXTINF:0 group-title="Uncategorized",TRT TURK
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
@@ -721,7 +713,7 @@ https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8
 https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://alanyatelevizyonucomtr.teimg.com/alanyatelevizyonu-com-tr/uploads/2023/11/a-t-v-l-o-g-o-1.svg" group-title="YEREL KANALLAR",ATV ALANYA
 https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/chunklist_w116897790.m3u8
-#EXTINF:-1 tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto group-title="YEREL",W=375,FIT=CROP/AQ2ZK1ZK5WSMOKLL/LUYS-LOGO-MV0LOKJNE3TK8OVR.PNG" GROUP-TITLE="YEREL KANALLAR",LUYS TV
+#EXTINF:-1 tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto group-title="YEREL KANALLAR",W=375,FIT=CROP/AQ2ZK1ZK5WSMOKLL/LUYS-LOGO-MV0LOKJNE3TK8OVR.PNG" GROUP-TITLE="YEREL KANALLAR",LUYS TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/mt_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a3w9eFe.png" group-title="YEREL KANALLAR",ALANYA POSTA TV
 https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8
@@ -909,9 +901,629 @@ https://proud-river-e20b.pantonum1.workers.dev/yaban.m3u8
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1 tvg-id="tivibu-spor-4" tvg-name="TR:Tivibu Spor 4" tvg-logo="https://i.hizliresim.com/1y7novn.jpg" group-title="DeaTHLesS-TV",Tivibu Spor 4
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydut4.m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/FOX.png" group-title="✪ ULUSAL",FOX TV
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10732&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/TV8.5HDPLUS.png" group-title="✪ ULUSAL",TV8.5
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10773&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/TV8HD.png" group-title="✪ ULUSAL",TV8 INT
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314614&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/TRT-EBA-TV-HD.png" group-title="✪ ULUSAL",TRT EBA LISE
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314597&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/TEVE2HDPLUS.png" group-title="✪ ULUSAL",TEVE2
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314615&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/3503.png" group-title="✪ ULUSAL",TLC ˢᴰ
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10776&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/360TVHDPLUS.png" group-title="✪ ULUSAL",360 TV
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10761&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/EURONEWSTURK.png" group-title="✪ ULUSAL",EURONEWS
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10779&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/SHOWHD.png" group-title="✪ ULUSAL",SHOWTURK
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314612&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/ATVHD.png" group-title="✪ ULUSAL",ATV EU
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314611&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/Yildizz.png" group-title="✪ ULUSAL",YILDIZ TILBE
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314596&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/c8/Mesaj_TV_logosu.jpg" group-title="✪ ULUSAL",MESAJ TV
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314609&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/EAGLG%c3%9cRMEHD.png" group-title="✪ ULUSAL",BENGU TURK TV
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10759&extension=ts
+#EXTINF:-1 tvg-logo="https://okteve.com/wp-content/uploads/media/c7ba6b360e53641a2da409ec64a9ee46.jpeg" group-title="✪ ULUSAL",BRT 3
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314603&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/KIBRISADATV.png" group-title="✪ ULUSAL",KIBRIS ADA TV
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314601&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/KANALT.png" group-title="✪ ULUSAL",KIBRIS KANAL T
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314602&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/e/ec/Kanal_Sim_Logosu.jpg/220px-Kanal_Sim_Logosu.jpg" group-title="✪ ULUSAL",KANAL SIM
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314600&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/TRT-EBA-TV-HD.png" group-title="✪ ULUSAL",TRT EBA ORTAOKUL
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314598&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/TRT-EBA-TV-HD.png" group-title="✪ ULUSAL",TRT EBA ILKOKUL
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314599&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/EAGLG%c3%9cRMEHD.png" group-title="✪ ULUSAL",TURKMAX GURME
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10781&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/TV8.5HD.png" group-title="✪ ULUSAL HD", TV 8 5 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196792&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/TRT2%20RAW.jpg" group-title="✪ ULUSAL HD", TRT2 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196785&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/SHOWMAX.png" group-title="✪ ULUSAL HD",SHOWMAX 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314591&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/UCANKUSTV.png" group-title="✪ ULUSAL HD",UCANKUS 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314592&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/97/Foxcrimehd.png" group-title="✪ ULUSAL FHD",FOX CRIME 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=170682&extension=ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/360_tv_tr.png" group-title="✪ ULUSAL FHD",KANAL 360  
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=170668&extension=ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/EAGL-movies-premiere-qa-tr.png" group-title="✪ SINEMA",EAGL MOVIES PREMIER 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=170506&extension=ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/EAGL-movies-premiere-2-qa-tr.png" group-title="✪ SINEMA",EAGL MOVIES PREMIERE 2 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=170507&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EAGL/EAGLMOVIES.png" group-title="✪ SINEMA",EAGLMOVIES PREMIER 2
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=27838&extension=ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/EAGL-movies-action-qa-tr.png" group-title="✪ SINEMA",EAGL MOVIES ACTION 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=170504&extension=ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/EAGL-movies-action-2-qa-tr.png" group-title="✪ SINEMA",EAGL MOVIES ACTION 2 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=170505&extension=ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/EAGL-movies-stars-qa-tr.png" group-title="✪ SINEMA",EAGL MOVIES STARS 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=170508&extension=ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/EAGL-movies-family-qa-tr.png" group-title="✪ SINEMA",EAGL MOVIES FAMILY 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=170503&extension=ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/EAGL-movies-turk-qa-tr.png" group-title="✪ SINEMA",EAGL MOVIES TURK 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=170509&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EAGL/EAGLMOVIES.png" group-title="✪ SINEMA",EAGL MOVIE Turk 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=12361&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EAGL/EAGLMOVIES.png" group-title="✪ SINEMA",EAGL MOVIES COMEDY 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=12360&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EAGL/EAGLMOVIES.png" group-title="✪ SINEMA",EAGL MOVIES FESTIVAL 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=12359&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/EAGL-series.png" group-title="✪ SINEMA",EAGL SERIES SCFI 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=170512&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/EAGL-series.png" group-title="✪ SINEMA", EAGL SERIES VICE 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=170514&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/EAGL-series.png" group-title="✪ SINEMA",EAGL SERIES DRAMA 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=170511&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/EAGL-series.png" group-title="✪ SINEMA",EAGL SERIES COMEDY 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=170510&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/EAGL-series.png" group-title="✪ SINEMA", EAGL SERIES 1001 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=170513&extension=ts
+#EXTINF:-1 tvg-logo="http://logodmtv.ddns.net/VOD/logo/MOVIESMART-HD.jpg" group-title="✪ SINEMA",MOVIESMART PREMIUM 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=12377&extension=ts
+#EXTINF:-1 tvg-logo="http://logodmtv.ddns.net/VOD/logo/MOVIESMART-HD.jpg" group-title="✪ SINEMA",MOVIESMART ACTİON 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=12371&extension=ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/moviesmart-classic-tr.png" group-title="✪ SINEMA", MOVİESMART CLASSİC 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=170515&extension=ts
+#EXTINF:-1 tvg-logo="http://logodmtv.ddns.net/VOD/logo/MOVIESMART-HD.jpg" group-title="✪ SINEMA",MOVIESMART TURK 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=12378&extension=ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/moviesmart-turk-tr.png" group-title="✪ SINEMA",MOVİESMART TURK 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=170519&extension=ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/moviesmart-turk-tr.png" group-title="✪ SINEMA",MOVIESMART COCUK 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=170516&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/MOVIE%20CLASSIC.png" group-title="✪ SINEMA", MOVIE CLASSIC 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196849&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/MOVIE%20T%c3%9cRK.jpg" group-title="✪ SINEMA", MOVIE TÜRK 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196850&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/MOVIESINEMAANIMASYON2HD.png" group-title="✪ SINEMA",MOVIES ACTION 2 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=75750&extension=ts
+#EXTINF:-1 tvg-logo="http://i0.wp.com/clubedoaz.com.br/wp-content/uploads/2015/03/CINEBOX-LOGO.png?resize=748 group-title="✪ SINEMA",191" group-title="✪ SINEMA",MOVIES ACTION 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=75730&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/MOVIE%20PREMIUM%202.png" group-title="✪ SINEMA", MOVIE PREMIUM 2 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196824&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/MOVIE%20PREMIUM.png" group-title="✪ SINEMA", MOVIE PREMIUM 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196823&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/D%c4%b0Z%c4%b0SMART%20MAX%20RAW.jpg" group-title="✪ SINEMA",DIZI SMART MAX 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=151777&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/D%c4%b0Z%c4%b0SMART%20MAX%20RAW.jpg" group-title="✪ SINEMA",  DIZI SMART PREMIUM 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=151778&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/S%c4%b0NEMA.jpg" group-title="✪ SINEMA", SİNEMA TV 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196834&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/S%c4%b0NEMA.jpg" group-title="✪ SINEMA", SİNEMA 2 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196827&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/S%c4%b0NEMA%201001.jpg" group-title="✪ SINEMA", SİNEMA 1001 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196825&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/S%c4%b0NEMA.jpg" group-title="✪ SINEMA", SİNEMA 1002 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196826&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/S%c4%b0NEMA.jpg" group-title="✪ SINEMA", SİNEMA AKSİYON 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196828&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/S%c4%b0NEMA.jpg" group-title="✪ SINEMA", SİNEMA AKSİYON 2 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196829&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/S%c4%b0NEMA.jpg" group-title="✪ SINEMA", SİNEMA AİLE 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196830&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/S%c4%b0NEMA.jpg" group-title="✪ SINEMA", SİNEMA AİLE 2 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196831&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/S%c4%b0NEMA.jpg" group-title="✪ SINEMA", SİNEMA KOMEDİ 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196832&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/S%c4%b0NEMA.jpg" group-title="✪ SINEMA", SİNEMA KOMEDİ 2 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196833&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/FILMBOX_HD.png" group-title="✪ SINEMA", FILMBOX 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=151780&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ SINEMA",LIVING AVRUPA YAKASI TV
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314930&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ SINEMA",LIVING BIZIMKILER TV
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314929&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ SINEMA",LIVING VIZYON 1
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314942&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ SINEMA",LIVING VIZYON 2
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314941&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ SINEMA",LIVING VIZYON 3
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314940&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ SINEMA",LIVING CINEMAX 1
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314939&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ SINEMA",LIVING CINEMAX 2
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314938&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ SINEMA",LIVING CINEMAX 3
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314937&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ SINEMA",LIVING CINEMAX 4
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314936&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ SINEMA",LIVING CINEMAX 5
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314935&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ SINEMA",LIVING CINEMAX 6
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314934&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ SINEMA",LIVING TURK
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314932&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ SINEMA",LIVING WESTERN
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314933&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ SINEMA",LIVING KEMAL SUNAL
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314931&extension=ts
+#EXTINF:-1 tvg-logo="https://www.rizedeyiz.com/Arsiv/Icerik/2011/07/12/Resim_1310480030.jpg" group-title="✪ SINEMA",YESILCAM SINEMA
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=151819&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ SINEMA",DINAMIK SALON 1
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314928&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/EAGL_box_office.png" group-title="✪ SINEMA",EAGL BOX OFFİCE 1 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=170520&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EAGL/EAGLBOXOFFICE.png" group-title="✪ SINEMA",EAGL BOX OFFICE 1
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10724&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/EAGL_box_office.png" group-title="✪ SINEMA",EAGL BOX OFFİCE 2 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=170521&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/EAGL_box_office.png" group-title="✪ SINEMA",EAGL BOX OFFİCE 3 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=170522&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/animation.png" group-title="✪ SINEMA", ANIMATION 1 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=151991&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/animation.png" group-title="✪ SINEMA", ANIMATION  2 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=151992&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/animation.png" group-title="✪ SINEMA",KEMAL SUNAL TV
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=151781&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/Tom-and-Jerry.png" group-title="✪ SINEMA",  TOM & JERRY
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=151997&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/D%c4%b0Z%c4%b0%20PREMIUM.jpg" group-title="✪ SINEMA", DİZİ PREMIUM 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196842&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/D%c4%b0Z%c4%b0SMART%20MAX%20RAW.jpg" group-title="✪ SINEMA", DİZİSMART MAX 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196843&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/D%c4%b0Z%c4%b0SMART%20MAX%20RAW.jpg" group-title="✪ SINEMA",DİZİ SMART PREMIUM 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=151776&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",DIZIAX 007 JAMES BOND
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=201801&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",DIZIAX 13.CUMA
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=201819&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",DIZIAX ALACAKARANLIK EFSANESI
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=201805&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",DIZIAX ALIEN VS PREDATOR
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=201826&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",DIZIAX BATMAN TV
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=201808&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",DIZIAX BRUCE LEE TV
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=201798&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",DIZIAX CILGIN DERSHANE
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=201829&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",DIZIAX HARRY POTTER
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=201802&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",DIZIAX HOBBIT TV
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=201807&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",DIZIAX KARANLIKLAR ULKESI
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=201830&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",DIZIAX KARAYIP KORSANLARI
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=201811&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",DIZIAX MAYMUNLAR CEHENEMI
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=201825&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",DIZIAX MUMYA
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=201821&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",DIZIAX ORUMCEK ADAM
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=201810&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",DIZIAX POLIS AKEDEMISI
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=201815&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",DIZIAX RAMBO
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=201827&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",DIZIAX RECEP IVEDIK
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=201804&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",DIZIAX ROCKY BALBOA
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=201803&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",DIZIAX SON DURAK
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=201814&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",DIZIAX STAR TREK
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=201824&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",DIZIAX SUPERMAN TV
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=201809&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",DIZIAX TERMINATOR TV
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=201817&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",DIZIAX TESTERE SAW
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=201816&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",DIZIAX THE BOURNE
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=201822&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",DIZIAX THE MATRİX
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=201823&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",DIZIAX TRANSFORMERS
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=201820&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",DIZIAX X-MEN TV
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=201818&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",DIZIAX ZOR OLUM
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=201812&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",DIZIAX ÖLÜMCÜL DENEY
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=201806&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",   MAX Aksiyon 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=151783&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",  MAX 007 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=151793&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",  MAX Aksiyon 2 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=151785&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",  MAX GOLD 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=151791&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",  MAX Hint Filimleri
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=151794&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",  MAX Orjinal 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=151795&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",  MAX PLUS 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=151792&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",  MAX Premier 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=151784&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",  MAX STAR WARS 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=151796&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",  MAX TURK 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=151790&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",  MAX Vizyon 2 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=151787&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",  MAX Vizyon 3 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=151788&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",  MAX Vizyon 4 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=151789&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",  MAX Vizyon 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=151786&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",  MAX Western 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=151797&extension=ts
+#EXTINF:-1 tvg-logo="https://lo1.in/trk/sina0.png" group-title="✪ BOX OFFICE",SINEMA AKSIYON 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=201709&extension=ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sinema-tv-tr.png" group-title="✪ BOX OFFICE",  SINEMA TV 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=151771&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",  SINEMA TV ACTION 2 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=151767&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BOX OFFICE",  SINEMA TV ACTION 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=151768&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/USA/CINEMAXFHD.png" group-title="✪ BOX OFFICE",SINEMAX COMEDY 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=12367&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/EAGLIZHD.png" group-title="✪ BELGESEL",EAGL IZ 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314487&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/EAGLGÜRMEHD.png" group-title="✪ BELGESEL",EAGL GURME 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314486&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/24%20KITCHEN%20HD.png" group-title="✪ BELGESEL", 24 KITCHEN 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196836&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/HISTORYCHANNELHD.png" group-title="✪ BELGESEL",HISTORY VIASAT
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10735&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Viasat_Nature.png" group-title="✪ BELGESEL",VIASAT NATURE 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314484&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/CANADA/Discovery-Science.png" group-title="✪ BELGESEL",DISCOVERY SCIENCE
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10738&extension=ts
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/754/466/png-clipart-investigation-discovery-television-channel-id-xtra-discovery-channel-others-miscellaneous-television.png" group-title="✪ BELGESEL",DISCOVERY IDX 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=185784&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/DISCOVERY%20CHANNEL.png" group-title="✪ BELGESEL", DISCOVERY CHANNEL 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196839&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/5079.png" group-title="✪ BELGESEL",NATIONAL GEO
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10744&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/5019.png" group-title="✪ BELGESEL",NATIONAL GEO WILD
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10742&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/5019.png" group-title="✪ BELGESEL", NAT GEO WILD 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196852&extension=ts
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991252/600x337.webp?type=channelTile" group-title="✪ BELGESEL",STINGRAY NATURESCAPE 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314475&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BELGESEL",LIVING BELGESEL
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314482&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/DA%20VINCI%20LEARNING%20RAW.jpg" group-title="✪ BELGESEL", DA VINCI LEARNING 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196819&extension=ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/docu_box_hd.png" group-title="✪ BELGESEL", DOCUBOX 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196820&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/NEDERLAND/ANIMALPLANET.png" group-title="✪ BELGESEL",ANIMAL PLANET TR
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10741&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/OUTDOOR.jpg" group-title="✪ BELGESEL", OUTDOOR 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196855&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/NATURE%20ESCAPE.png" group-title="✪ BELGESEL", NATURE ESCAPE 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196853&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/FAST-FUN-HD.png" group-title="✪ BELGESEL",FAST&FUN BOX 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314474&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/5070.png" group-title="✪ COCUK",BOOMERANG
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10753&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Nicktoons_2023_%28outline%29.png/640px-Nicktoons_2023_%28outline%29.png" group-title="✪ COCUK",NICKTOONS
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314448&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/5074.png" group-title="✪ COCUK",DISNEY JUNIOR
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10750&extension=ts
+#EXTINF:-1 tvg-logo="http://logodmtv.ddns.net/logo/5073.png" group-title="✪ COCUK",DISNEY CH
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10751&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/UK/BBCCBEEBIESHD.png" group-title="✪ COCUK",CBEEBIES 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314449&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ COCUK",LIVING NILOYA TV
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314450&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ COCUK",LIVING KELOGLAN TV
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314451&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ COCUK",LIVING HEIDI
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314472&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ COCUK",LIVING EGE ILE GAGA
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314471&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ COCUK",LIVING POKEMON
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314470&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ COCUK",LIVING TRUE TV
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314469&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ COCUK",LIVING HARIKA KANATLAR
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314468&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ COCUK",LIVING MASHA TV
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314467&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ COCUK",LIVING BARBIE TV
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314466&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ COCUK",LIVING PEPPA PIG
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314465&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ COCUK",LIVING KRAL SAKIR TV
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314464&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ COCUK",LIVING RAFADAN TAYFA
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314463&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ COCUK",LIVING PAW PATROL
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314462&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ COCUK",LIVING 44 CATS
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314461&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ COCUK",LIVING ITFAIYECI SAM
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314460&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ COCUK",LIVING MR. BEAN
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314459&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ COCUK",LIVING CAILLOU TV
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314458&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ COCUK",LIVING PIRTIK
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314457&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/%c3%87OCUKSMART.jpg" group-title="✪ COCUK", ÇOCUKSMART 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196860&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/USA/DISNEYXD.png" group-title="✪ COCUK",DISNEY XD
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10749&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/DIZIAX.png" group-title="✪ COCUK",DIZIAX COCUK ALVINNNN 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=151978&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/DIZIAX.png" group-title="✪ COCUK",DIZIAX COCUK HEIDI 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=151979&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/DIZIAX.png" group-title="✪ COCUK",DIZIAX COCUK JURASSIC WORLD 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=151982&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/DIZIAX.png" group-title="✪ COCUK",DIZIAX COCUK KRAL SAKIR 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=151989&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/DIZIAX.png" group-title="✪ COCUK", DIZIAX COCUK SONIC BOOM 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=151984&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/DIZIAX.png" group-title="✪ COCUK",DIZIAX COCUK TRANSFORMERS 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=151983&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/DIZIAX.png" group-title="✪ COCUK",DIZIAX COCUK WAKFU 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=151985&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ EXTRA",LIVING SHOW 1
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314443&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ EXTRA",LIVING SHOW 2
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314444&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ EXTRA",LIVING SHOW 3
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314445&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ EXTRA",LIVING SHOW 4
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314446&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/EAGL%20SPORTS%20HABER.webp" group-title="✪ EAGL SPORTS", EAGL SPORTS HABER 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196816&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/EAGLSPORTS.png" group-title="✪ EAGL SPORTS",EAGLSPORT 1 ()
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10698&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/EAGLSPORTS.png" group-title="✪ EAGL SPORTS",EAGLSPORT 1 FHD
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=1162637&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/EAGLSPORTS.png" group-title="✪ EAGL SPORTS",EAGLSPORT 2 ()
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10697&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/EAGLSPORTS.png" group-title="✪ EAGL SPORTS",EAGLSPORT 3 ()
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10696&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/EAGLSPORTS.png" group-title="✪ EAGL SPORTS",EAGLSPORT 4 ()
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10695&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/EAGLSPORTS.png" group-title="✪ EAGL SPORTS",EAGLSPORT 4 FHD
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=1162634&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/EAGLSPORTS.png" group-title="✪ EAGL SPORTS",EAGLSPORTS 5 ()
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314885&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/EAGLSPORTS.png" group-title="✪ EAGL SPORTS",EAGLSPORTS 5 FHD
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=1162638&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EAGL/EAGLSPORTMAX.png" group-title="✪ EAGL SPORTS",EAGL SPORT MAX  1 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=44444&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/EAGL_SPORTS_MAX.png" group-title="✪ EAGL SPORTS",EAGL SPORTS MAX 1 FHD
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196272&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EAGL/EAGLSPORTMAX.png" group-title="✪ EAGL SPORTS",EAGL SPORT MAX  2 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=44445&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/EAGL_SPORTS_MAX.png" group-title="✪ EAGL SPORTS",EAGL SPORTS MAX 2 FHD
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196274&extension=ts
+#EXTINF:-1 tvg-logo="https://ssport.tv/assets/images/ssport-plus-logo-text-bottom.png" group-title="✪ SPORT",S SPORT PLUS 1 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314883&extension=ts
+#EXTINF:-1 tvg-logo="https://ssport.tv/assets/images/ssport-plus-logo-text-bottom.png" group-title="✪ SPORT",S SPORT PLUS 2 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314881&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/S%20SPORT2.jpg" group-title="✪ SPORT", S SPORT2 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196857&extension=ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-tr.png" group-title="✪ SPORT",S SPORT+1 MAC SAATI
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=170686&extension=ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-tr.png" group-title="✪ SPORT",S SPORT+2 MAC SAATI
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=170687&extension=ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-tr.png" group-title="✪ SPORT",S SPORT+3 MAC SAATI
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=170688&extension=ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-tr.png" group-title="✪ SPORT",S SPORT+4 MAC SAATI
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=170689&extension=ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s-sport-tr.png" group-title="✪ SPORT",S Sport+5 Mac Saati
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=170690&extension=ts
+#EXTINF:-1 tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/EXXEN.png" group-title="✪  EXXEN SPORTS",EXXEN SPORT 1 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=157112&extension=ts
+#EXTINF:-1 tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/EXXEN.png" group-title="✪  EXXEN SPORTS",EXXEN SPORT 2 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=157114&extension=ts
+#EXTINF:-1 tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/EXXEN.png" group-title="✪  EXXEN SPORTS",EXXEN SPORT 3 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=157116&extension=ts
+#EXTINF:-1 tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/EXXEN.png" group-title="✪  EXXEN SPORTS",EXXEN SPORT 4 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=157117&extension=ts
+#EXTINF:-1 tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/EXXEN.png" group-title="✪  EXXEN SPORTS",EXXEN SPORT 5 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=157118&extension=ts
+#EXTINF:-1 tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/EXXEN.png" group-title="✪  EXXEN SPORTS",EXXEN SPORT 6 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=157119&extension=ts
+#EXTINF:-1 tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/EXXEN.png" group-title="✪  EXXEN SPORTS",EXXEN SPORT 7 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=157120&extension=ts
+#EXTINF:-1 tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/EXXEN.png" group-title="✪  EXXEN SPORTS",EXXEN SPORT 8 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=157121&extension=ts
+#EXTINF:-1 tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/EXXEN.png" group-title="✪  EXXEN SPORTS",EXXEN SPORT 9 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=283468&extension=ts
+#EXTINF:-1 tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/EXXEN.png" group-title="✪  EXXEN SPORTS",EXXEN SPORT 10 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=283469&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Smart-spor_635084424044881793.png" group-title="✪ SPORT",SPOR SMART 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=170681&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/smartsport1.jpg" group-title="✪ SPORT", SPORSMART 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196858&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/SMARTSPOR.png" group-title="✪ SPORT",SMART SPOR 1
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10688&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/SPORSMART%202.png" group-title="✪ SPORT", SPORSMART 2 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196859&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ TABII SPORTS",TABii SPOR FHD
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=1195377&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ SPORT",S Sport PLUS 1 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=1195378&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ SPORT",S Sport PLUS 3 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=1195379&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ SPORT",S Sport PLUS 4 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=1195380&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ SPORT",S Sport PLUS 5 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=1195381&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ SPORT",S Sport PLUS 6 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=1195382&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ SPORT",S Sport PLUS 7 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=1195383&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ SPORT",S Sport PLUS 8 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=1195384&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ SPORT",S Sport PLUS 9 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=1195385&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ SPORT",S Sport PLUS 10 ʜᴅ 1080 ( YAYIN ZAMANI AKTİF )
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=1195386&extension=ts
+#EXTINF:-1 tvg-logo="https://mediterranee-audiovisuelle.com/wp-content/uploads/2023/05/TRT-tabii-258x300.jpg" group-title="✪ TABII SPORTS",|TR|TABii SPOR 1 FHD
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=1121579&extension=ts
+#EXTINF:-1 tvg-logo="https://mediterranee-audiovisuelle.com/wp-content/uploads/2023/05/TRT-tabii-258x300.jpg" group-title="✪ TABII SPORTS",|TR|TABii SPOR 2 FHD
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=1121577&extension=ts
+#EXTINF:-1 tvg-logo="https://mediterranee-audiovisuelle.com/wp-content/uploads/2023/05/TRT-tabii-258x300.jpg" group-title="✪ TABII SPORTS",|TR|TABii SPOR 3 FHD
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=1121575&extension=ts
+#EXTINF:-1 tvg-logo="https://mediterranee-audiovisuelle.com/wp-content/uploads/2023/05/TRT-tabii-258x300.jpg" group-title="✪ TABII SPORTS",|TR|TABii SPOR 4 FHD
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=1121573&extension=ts
+#EXTINF:-1 tvg-logo="https://mediterranee-audiovisuelle.com/wp-content/uploads/2023/05/TRT-tabii-258x300.jpg" group-title="✪ TABII SPORTS",|TR||TR|TABii SPOR 4 HD
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=1121572&extension=ts
+#EXTINF:-1 tvg-logo="https://mediterranee-audiovisuelle.com/wp-content/uploads/2023/05/TRT-tabii-258x300.jpg" group-title="✪ TABII SPORTS",|TR|TABii SPOR 5 FHD
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=1121571&extension=ts
+#EXTINF:-1 tvg-logo="https://mediterranee-audiovisuelle.com/wp-content/uploads/2023/05/TRT-tabii-258x300.jpg" group-title="✪ TABII SPORTS",|TR|TABii SPOR 6 FHD
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=1121569&extension=ts
+#EXTINF:-1 tvg-logo="https://mediterranee-audiovisuelle.com/wp-content/uploads/2023/05/TRT-tabii-258x300.jpg" group-title="✪ TABII SPORTS",|TR|TABii SPOR 7 FHD
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=1121567&extension=ts
+#EXTINF:-1 tvg-logo="https://mediterranee-audiovisuelle.com/wp-content/uploads/2023/05/TRT-tabii-258x300.jpg" group-title="✪ TABII SPORTS",|TR|TABii SPOR 8 FHD
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=1121565&extension=ts
+#EXTINF:-1 tvg-logo="https://mediterranee-audiovisuelle.com/wp-content/uploads/2023/05/TRT-tabii-258x300.jpg" group-title="✪ TABII SPORTS",|TR|TABii SPOR 9 FHD
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=1121563&extension=ts
+#EXTINF:-1 tvg-logo="https://mediterranee-audiovisuelle.com/wp-content/uploads/2023/05/TRT-tabii-258x300.jpg" group-title="✪ TABII SPORTS",|TR|TABii SPOR 10 FHD
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=1121561&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/db/TivibuSporLogo1.PNG" group-title="✪ SPORT", TIVIBU SPOR 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196862&extension=ts
+#EXTINF:-1 tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/TVIBUSPOR.png" group-title="✪ SPORT",TIVIBUSPOR 1 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=157125&extension=ts
+#EXTINF:-1 tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/TVIBUSPOR.png" group-title="✪ SPORT",TiViBUSPOR 2 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=157123&extension=ts
+#EXTINF:-1 tvg-logo="http://logodmtv.ddns.net/new_logo/CREATED-CHANNELS/TVIBUSPOR.png" group-title="✪ SPORT",TiViBUSPOR 3 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=157124&extension=ts
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/fL17pH3gPhrwonE_fFBaiYG3pSCjs9N-sMWhd0kAu7UNixXHCBUfnbUchTKfDy4_tzU" group-title="✪ SPORT",TRT 3 SPOR 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314888&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/3515.png" group-title="✪ SPORT", NBA TV 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196854&extension=ts
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKbE9jt1r6EI1Qd10DMbySWofCu8ZIEceJPVXp9cPA=s900-c-k-c0x00ffffff-no-rj" group-title="✪ SPORT",EDGE SPORT 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314798&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ht-spor-buyuk.webp/275px-Ht-spor-buyuk.webp.png" group-title="✪ SPORT",HT SPORT
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=1491513&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/SMARTSPOR.png" group-title="✪ SPORT",YEDEK | SMARTSPOR 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314802&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/SMARTSPOR.png" group-title="✪ SPORT",HAM | SMARTSPOR 2 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314801&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/SARANSPORTHD.png" group-title="✪ SPORT",HAM | SARANSPORT 1
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314800&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/SARANSPORTHD.png" group-title="✪ SPORT",SARANSPORT 2 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314890&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/GSTV.png" group-title="✪ SPORT",GS TV 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314797&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ SPORT",CBC SPORT 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314887&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/FIGHTBOX%20RAW.png" group-title="✪ SPORT", FIGHTBOX 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196821&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/NTVHDPLUS.png" group-title="✪ SPORT",NTV SPOR
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10693&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/EUROSPORT-1.png" group-title="✪ SPORT", EUROSPORT 1 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196844&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/EUROSPORT%202.png" group-title="✪ SPORT", EUROSPORT 2 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196845&extension=ts
+#EXTINF:-1 tvg-logo="https://www.hrt.com.tr/wp-content/uploads/2022/02/HRT-LogoX400-1.png" group-title="✪ YEREL",HRT AKDENIZ
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314392&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/DRTDENIZLITV.png" group-title="✪ YEREL",DRT DENIZLI TV
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314394&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/kent-turk.png" group-title="✪ YEREL",KENT TURK
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314403&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/KOZATVADANA.png" group-title="✪ YEREL",KOZA TV
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314406&extension=ts
+#EXTINF:-1 tvg-logo="https://lo1.in/trk/flg.png" group-title="✪ HABER", iLKE TV ʜᴅ
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=1236190&extension=ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv_tr.png" group-title="✪ HABER",NTV HABER 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=170676&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/szctv.png" group-title="✪ HABER",SÖZCÜ SZC TV
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314430&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/CNNTURKHDPLUS.png" group-title="✪ HABER",CNN TURK
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10777&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/HABERTURK.jpg" group-title="✪ HABER", HABERTURK 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196799&extension=ts
+#EXTINF:-1 tvg-logo="http://iptvtelekom.com/newpicon/haberturk.png" group-title="✪ HABER",HABER TURK 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=170675&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/24%20RAW.jpg" group-title="✪ HABER", 24 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196804&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/HABERTURKHDPLUS.png" group-title="✪ HABER",MEDYA HABER
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314429&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ HABER", EKOL TV ʜᴅ FHD
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=1165404&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ HABER", HABERTURK ʜᴅ FHD
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=1165406&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ HABER", TV 100 ʜᴅ FHD
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=1165402&extension=ts
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/cantv-old6566.logowik.com.webp" group-title="✪ HABER",CAN TV HD
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=865815&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/ARTITV.png" group-title="✪ HABER",ARTI TV 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=185785&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/FLASHTV.png" group-title="✪ HABER",FLASHTV HABBER 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314428&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ HABER",TİVİ 6 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314425&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/BLOOMBERGHT%20RAW.jpg" group-title="✪ HABER", BLOOMBERGHT 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196806&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ HABER",EKOTURK 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314426&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/TRTDIYANET.png" group-title="✪ DIN",TRT DIYANET
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10786&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/SEMERKAND.jpg" group-title="✪ DIN", SEMERKAND 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196861&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ DIN",LALEGUL TV
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=185789&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ DIN",FM TV 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314431&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ DIN",KUDUS TV
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314432&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/KABETV.png" group-title="✪ DIN",KABE TV
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314435&extension=ts
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSYy-OpoQM27uQJDMXxHW2GCzce6AiFnbWr6uKP3Q=s900-c-k-c0x00ffffff-no-rj" group-title="✪ DIN",MEDINE TV
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314438&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ RADIO",NUMBERONE FM TURK
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314374&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ RADIO",NUMBERONE FM
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314375&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ MUZIK",LIVING MUSIC 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314387&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ MUZIK",LIVING SOMINE
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314388&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/KRALPOP.png" group-title="✪ MUZIK",KRALPOP 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314385&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ MUZIK",NR1 TURK 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314377&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/POWERTURKHDPLUS.png" group-title="✪ MUZIK",POWERTURK
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10728&extension=ts
+#EXTINF:-1 tvg-logo="http://logott.firstcloud.me/logo/46678.png" group-title="✪ MUZIK",ANADOLU DERNEK
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314383&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ ULUSAL",Al Turkmenia TV
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=280414&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ ULUSAL",Turkmeneli TV 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=280417&extension=ts
 #EXTINF:-1 tvg-id="4UTV.tr@SD" group-title="TV",4U TV (720p)
 https://hls.4utv.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AHaber.tr@SD" group-title="HABER",A Haber (1080p)
+#EXTINF:-1 tvg-id="AHaber.tr@SD" group-title="Haber",A Haber (1080p)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
 #EXTINF:-1 tvg-id="AfroturkTV.tr@SD" group-title="TV",Afroturk TV (1080p)
 https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8
@@ -953,13 +1565,13 @@ https://canli.edessatv.com/hls/stream.m3u8
 https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8
 #EXTINF:-1 tvg-id="FinansTurkTV.tr@SD" group-title="TV",Finans Turk TV (720p)
 https://yayin30.haber100.com/live/finansturk/playlist.m3u8
-#EXTINF:-1 tvg-id="FlashHaberTV.tr@SD" group-title="HABER",Flash Haber TV
+#EXTINF:-1 tvg-id="FlashHaberTV.tr@SD" group-title="Haber",Flash Haber TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FortunaTV.tr@HD" group-title="TV",Fortuna TV (1080p)
 https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="GZT.tr@SD" group-title="Uncategorized",GZT (1080p)
 https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
-#EXTINF:-1 tvg-id="Haber61TV.tr@SD" group-title="HABER",Haber61 TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Haber61TV.tr@SD" group-title="TV",Haber61 TV (720p) [Not 24/7]
 https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HunatTV.tr@SD" group-title="TV",Hunat TV (480p) [Not 24/7]
 https://59cba4d34b678.streamlock.net/canlitv/hunattv/playlist.m3u8
@@ -1051,9 +1663,9 @@ https://powerturk.blutv.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
 #EXTINF:-1 tvg-id="QafTV.tr@SD" group-title="TV",Qaf TV (1080p)
 https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec275cdba/manifest/video.m3u8
-#EXTINF:-1 tvg-id="SSport.tr@SD" group-title="SPOR",S Sport (720p)
+#EXTINF:-1 tvg-id="SSport.tr@SD" group-title="Uncategorized",S Sport (720p)
 https://corestream.siteyaptim.live/s-sport/index.m3u8
-#EXTINF:-1 tvg-id="SSport2.tr@SD" group-title="SPOR",S Sport 2 (720p)
+#EXTINF:-1 tvg-id="SSport2.tr@SD" group-title="Uncategorized",S Sport 2 (720p)
 https://corestream.siteyaptim.live/s-sport2/index.m3u8
 #EXTINF:-1 tvg-id="Sat7Turk.cy@SD" group-title="Uncategorized",Sat7 Türk (1080p)
 https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
@@ -1061,7 +1673,7 @@ https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5
 #EXTINF:-1 tvg-id="SunRTV.tr@SD" group-title="TV",Sun RTV (720p) [Not 24/7]
 https://tr.socialsmart.tv/suntv/bant1/chunks.m3u8
-#EXTINF:-1 tvg-id="TGRTBelgesel.tr@SD" group-title="BELGESEL",TGRT Belgesel TV (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="TGRTBelgesel.tr@SD" group-title="Belgesel",TGRT Belgesel TV (576p) [Not 24/7]
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TJKTV.tr@SD" group-title="TV",TJK TV (1080p)
 https://tjktv-live.tjk.org/tjktv.m3u8
@@ -1073,13 +1685,13 @@ https://59cba4d34b678.streamlock.net/canlitv/torbatv/playlist.m3u8
 https://tv.ensonhaber.com/tv24/tv24.m3u8
 #EXTINF:-1 tvg-id="TRT3.tr@SD" group-title="Uncategorized",TRT 3 (720p)
 https://tv-trt3.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTBelgesel.tr@SD" group-title="BELGESEL",TRT Belgesel (720p)
+#EXTINF:-1 tvg-id="TRTBelgesel.tr@SD" group-title="Belgesel",TRT Belgesel (720p)
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTCocuk.tr@SD" group-title="Cocuk",TRT Cocuk (1440p)
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr@SD" group-title="Uncategorized",TRT Diyanet Çocuk (720p)
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTSporYildiz.tr@SD" group-title="SPOR",TRT Spor Yildiz (1440p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TRTSporYildiz.tr@SD" group-title="Uncategorized",TRT Spor Yildiz (1440p) [Geo-blocked]
 https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor
 #EXTINF:-1 tvg-id="TV1.tr@SD" group-title="TV",TV 1 (720p)
 https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
@@ -1097,7 +1709,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee2
 https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 tvg-id="Van65TV.tr@SD" group-title="TV",Van 65 TV
 https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8
-#EXTINF:-1 tvg-id="TRTSpor.tr@SD" group-title="SPOR",TRT Spor (720p)
+#EXTINF:-1 tvg-id="TRTSpor.tr@SD" group-title="Uncategorized",TRT Spor (720p)
 https://corestream.siteyaptim.live/trt-spor/index.m3u8
 #EXTINF:-1 tvg-id="ShowTurk.tr@SD" group-title="Uncategorized",Show Turk (1080p)
 https://raw.githubusercontent.com/bnyusuf67-crypto/streams/refs/heads/main/streams/shturk.m3u8
@@ -17125,57 +17737,57 @@ https://vidmody.com/vs/tt0047574
 https://vidmody.com/vs/tt0036723
 #EXTINF:-1 group-title="Müzik" tvg-logo="https://image.tmdb.org/t/p/w500/fKIjJa7N58Wx2MqXZZkiyRzdL1Q.jpg", Üç Küçük Domuzcuk (1933) ⭐ 6.881
 https://vidmody.com/vs/tt0024660
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/gCMAe9HBkqs67bJLeBV5q6cUqyZ.jpg", Annelik Özlemi (2026) ⭐ 8.438
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/gCMAe9HBkqs67bJLeBV5q6cUqyZ.jpg", Annelik Özlemi (2026) ⭐ 8.438
 https://vidmody.com/vs/tt37961750
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/xy5oC3dWw2OuSUHXIBPm6XQLk8n.jpg", Fransa Milli Futbol Takımının İsyanı (2026) ⭐ 6.9
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/xy5oC3dWw2OuSUHXIBPm6XQLk8n.jpg", Fransa Milli Futbol Takımının İsyanı (2026) ⭐ 6.9
 https://vidmody.com/vs/tt37024319
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg", Freefall: A Reckoning for Boeing (2026) ⭐ 6.37
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/oadqt3V5c8j5ZIbYkdfQLcWzI4C.jpg", Freefall: A Reckoning for Boeing (2026) ⭐ 6.37
 https://vidmody.com/vs/tt32889884
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/vKMQlsutWlEFt3yK9mPlaMWnwF7.jpg", Nong Chompoo Kayboldu ve Unutuldu (2026) ⭐ 5.143
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/vKMQlsutWlEFt3yK9mPlaMWnwF7.jpg", Nong Chompoo Kayboldu ve Unutuldu (2026) ⭐ 5.143
 https://vidmody.com/vs/tt39750720
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/9hxgu7n2CdjkXDkoswzz2Mx2QA8.jpg", Toksik Bir Aşk Hikâyesi (2026) ⭐ 6.353
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/9hxgu7n2CdjkXDkoswzz2Mx2QA8.jpg", Toksik Bir Aşk Hikâyesi (2026) ⭐ 6.353
 https://vidmody.com/vs/tt43619305
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/8h3ztnaOKCJpRwn7gPtf68ETJ70.jpg", Hayalet Filler (2026) ⭐ 7.667
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/8h3ztnaOKCJpRwn7gPtf68ETJ70.jpg", Hayalet Filler (2026) ⭐ 7.667
 https://vidmody.com/vs/tt35237771
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/aCx20VHCmrmbjbWU0LNXk7iFFyP.jpg", NOVAK DJOKOVIC: KIŞ KURDU (2026) ⭐ 8.5
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/aCx20VHCmrmbjbWU0LNXk7iFFyP.jpg", NOVAK DJOKOVIC: KIŞ KURDU (2026) ⭐ 8.5
 https://vidmody.com/vs/tt43676563
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/1us6iYG7P600BgSdwjb6mFYCP97.jpg", Euphoria: A Look Back (2026) ⭐ 3.2
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/1us6iYG7P600BgSdwjb6mFYCP97.jpg", Euphoria: A Look Back (2026) ⭐ 3.2
 https://vidmody.com/vs/tt43683795
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/1utWajLPvv1R9ZwkD98s2ZEngS.jpg", Sly (2023) ⭐ 7.224
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/1utWajLPvv1R9ZwkD98s2ZEngS.jpg", Sly (2023) ⭐ 7.224
 https://vidmody.com/vs/tt28254460
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/jntLBq0MLR3hrwKaTQswxACRPMs.jpg", Harry Potter 20. Yıldönümü: Hogwarts'a Dönüş (2022) ⭐ 7.309
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/jntLBq0MLR3hrwKaTQswxACRPMs.jpg", Harry Potter 20. Yıldönümü: Hogwarts'a Dönüş (2022) ⭐ 7.309
 https://vidmody.com/vs/tt16116174
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/bT3c4TSOP8vBmMoXZRDPTII6eDa.jpg", Friends: The Reunion (2021) ⭐ 7.825
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/bT3c4TSOP8vBmMoXZRDPTII6eDa.jpg", Friends: The Reunion (2021) ⭐ 7.825
 https://vidmody.com/vs/tt11337862
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/gWZsBiQtmxN94hXdXfo0PfMMJzT.jpg", Rita Moreno: Kararlı Bir Kız (2021) ⭐ 7.441
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/gWZsBiQtmxN94hXdXfo0PfMMJzT.jpg", Rita Moreno: Kararlı Bir Kız (2021) ⭐ 7.441
 https://vidmody.com/vs/tt10741846
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/xqKPgcDfEOhjuI3HbKXmTAyJhb6.jpg", Kaçış (2021) ⭐ 7.705
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/xqKPgcDfEOhjuI3HbKXmTAyJhb6.jpg", Kaçış (2021) ⭐ 7.705
 https://vidmody.com/vs/tt8430054
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/yIhCI0JJNJ2cz4DtWaxZgVNrr58.jpg", Sosyal İkilem (2020) ⭐ 7.458
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/yIhCI0JJNJ2cz4DtWaxZgVNrr58.jpg", Sosyal İkilem (2020) ⭐ 7.458
 https://vidmody.com/vs/tt11464826
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/7uZdJrpFDrsUddy5mG17lDBNxGx.jpg", Dünya: İnanılmaz Bir Gün (2017) ⭐ 7.7
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/7uZdJrpFDrsUddy5mG17lDBNxGx.jpg", Dünya: İnanılmaz Bir Gün (2017) ⭐ 7.7
 https://vidmody.com/vs/tt6238896
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/wLTAsQeJh8jfBAjMDyJc7MNIziI.jpg", İnsan (2015) ⭐ 8.433
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/wLTAsQeJh8jfBAjMDyJc7MNIziI.jpg", İnsan (2015) ⭐ 8.433
 https://vidmody.com/vs/tt3327994
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/mHeJS9ow6dlbMnCaQ9f5oTk4kAd.jpg", Amy (2015) ⭐ 7.572
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/mHeJS9ow6dlbMnCaQ9f5oTk4kAd.jpg", Amy (2015) ⭐ 7.572
 https://vidmody.com/vs/tt2870648
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/6RVPslv3sczhPvF3H8h7NM3jz5W.jpg", Toprağın Tuzu (2014) ⭐ 8.094
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/6RVPslv3sczhPvF3H8h7NM3jz5W.jpg", Toprağın Tuzu (2014) ⭐ 8.094
 https://vidmody.com/vs/tt3674140
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/qodkea4k0pNUmNTl5TJO2PdTqgW.jpg", Samsara (2011) ⭐ 8.049
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/qodkea4k0pNUmNTl5TJO2PdTqgW.jpg", Samsara (2011) ⭐ 8.049
 https://vidmody.com/vs/tt0770802
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/nZbLCbRoP6iJq5sr8daHQzjnzFh.jpg", Senna (2010) ⭐ 8.107
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/nZbLCbRoP6iJq5sr8daHQzjnzFh.jpg", Senna (2010) ⭐ 8.107
 https://vidmody.com/vs/tt1424432
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/7yXXIWec24htucjsZS1sDuPLqw8.jpg", İç İşler (2010) ⭐ 7.7
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/7yXXIWec24htucjsZS1sDuPLqw8.jpg", İç İşler (2010) ⭐ 7.7
 https://vidmody.com/vs/tt1645089
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/zJBkIPakBXdu3cEgGqKCPHUNXVE.jpg", Kapitalizm: Bir Aşk Hikayesi (2009) ⭐ 7.056
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/zJBkIPakBXdu3cEgGqKCPHUNXVE.jpg", Kapitalizm: Bir Aşk Hikayesi (2009) ⭐ 7.056
 https://vidmody.com/vs/tt1232207
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/7OcgnZ4tCWM9OtphB1WNpP0Mq6I.jpg", Uygunsuz Gerçek (2006) ⭐ 6.9
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/7OcgnZ4tCWM9OtphB1WNpP0Mq6I.jpg", Uygunsuz Gerçek (2006) ⭐ 6.9
 https://vidmody.com/vs/tt0497116
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/7DuALkXeR3CK7xYVnvUAt8dOvWT.jpg", İmparatorun Yolculuğu (2005) ⭐ 7.077
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/7DuALkXeR3CK7xYVnvUAt8dOvWT.jpg", İmparatorun Yolculuğu (2005) ⭐ 7.077
 https://vidmody.com/vs/tt0428803
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/fNG2JOskhQnttmAaj2knM5h59Io.jpg", The Matrix Revisited (2001) ⭐ 6.935
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/fNG2JOskhQnttmAaj2knM5h59Io.jpg", The Matrix Revisited (2001) ⭐ 6.935
 https://vidmody.com/vs/tt0295432
-#EXTINF:-1 group-title="BELGESEL" tvg-logo="https://image.tmdb.org/t/p/w500/7Ksdt70xD3TnGmRdm7f9A3vFzDb.jpg", Çayırın Sakinleri (1996) ⭐ 7.583
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://image.tmdb.org/t/p/w500/7Ksdt70xD3TnGmRdm7f9A3vFzDb.jpg", Çayırın Sakinleri (1996) ⭐ 7.583
 https://vidmody.com/vs/tt0117040
 #EXTINF:-1 group-title="TV film" tvg-logo="https://image.tmdb.org/t/p/w500/OKtXyFe0BwIlZ0BKXxFbez67sy.jpg", Sığınaktaki Kız (2018) ⭐ 7.117
 https://vidmody.com/vs/tt7944094
@@ -17387,7 +17999,7 @@ https://video-auth1.iol.pt/beachcam/bcalagoa/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/bcpraiaverde/playlist.m3u8
 #EXTINF:-1 group-title="BEACH",Madeira - Ponta Pequena – Paul
 https://video-auth1.iol.pt/beachcam/madeirajardimdomar/playlist.m3u8
-#EXTINF:-1 group-title="ULUSAL",Madeira - Jardim do Mar
+#EXTINF:-1 group-title="Ulusal",Madeira - Jardim do Mar
 https://video-auth1.iol.pt/beachcam/jardimdomardois/playlist.m3u8
 #EXTINF:-1 group-title="BEACH",Madeira - Porto Santo
 https://video-auth1.iol.pt/beachcam/bcportosanto/playlist.m3u8
@@ -17397,7 +18009,7 @@ https://video-auth1.iol.pt/beachcam/praiadasrocas/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/bclagoazul/playlist.m3u8
 #EXTINF:-1 group-title="BEACH",Ferreira do Zêzere – Dornes
 https://video-auth1.iol.pt/beachcam/bcdornes/playlist.m3u8
-#EXTINF:-1 group-title="ULUSAL",Viana do Castelo | Afife | Arda
+#EXTINF:-1 group-title="Ulusal",Viana do Castelo | Afife | Arda
 https://video-auth1.iol.pt/beachcam/bcafife/playlist.m3u8
 #EXTINF:-1 group-title="BEACH",Viana do Castelo | Cabedelo
 https://video-auth1.iol.pt/beachcam/bccabedeloviana/playlist.m3u8
@@ -18345,17 +18957,17 @@ https://hoktastream4.webcamera.pl/sudetylift_cam_c6b48c/sudetylift_cam_c6b48c.st
 https://hoktastream1.webcamera.pl/sudetylift_cam_49a571/sudetylift_cam_49a571.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Góry group-title="BEACH", stoki narciarskie",Winterpol Karpacz Biały Jar
 https://hoktastream1.webcamera.pl/zieleniec_cam_fd1045/zieleniec_cam_fd1045.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Góry group-title="SPOR", stoki narciarskie",Centrum Rekreacji i Sportu - KOLOROWA w Karpaczu
+#EXTINF:-1 tvg-logo=""group-title="Góry group-title="BEACH", stoki narciarskie",Centrum Rekreacji i Sportu - KOLOROWA w Karpaczu
 https://hoktastream2.webcamera.pl/kolorowa_cam_9da325/kolorowa_cam_9da325.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Góry group-title="BEACH", stoki narciarskie",Przełęcz Sokola - Narty Rzeczka Góry Sowie
 https://hoktastream4.webcamera.pl/sokola_cam_accadc/sokola_cam_accadc.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Góry group-title="SPOR", stoki narciarskie",Zieleniec Sport Arena - Mieszko
+#EXTINF:-1 tvg-logo=""group-title="Góry group-title="BEACH", stoki narciarskie",Zieleniec Sport Arena - Mieszko
 https://hoktastream3.webcamera.pl/mieszko_cam_e91841/mieszko_cam_e91841.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Góry group-title="SPOR", stoki narciarskie",ZIELENIEC Sport Arena Gryglówka - widok z dolnej stacji narciarskiej
+#EXTINF:-1 tvg-logo=""group-title="Góry group-title="BEACH", stoki narciarskie",ZIELENIEC Sport Arena Gryglówka - widok z dolnej stacji narciarskiej
 https://hoktastream3.webcamera.pl/gryglowka_cam_b3fb22/gryglowka_cam_b3fb22.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Góry group-title="SPOR", stoki narciarskie",Zieleniec Sport Arena – Winterpol
+#EXTINF:-1 tvg-logo=""group-title="Góry group-title="BEACH", stoki narciarskie",Zieleniec Sport Arena – Winterpol
 https://hoktastream4.webcamera.pl/zieleniec_cam_b059be/zieleniec_cam_b059be.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Góry group-title="SPOR", stoki narciarskie",Zieleniec Sport Arena - Winterpol W3 dolna stacja
+#EXTINF:-1 tvg-logo=""group-title="Góry group-title="BEACH", stoki narciarskie",Zieleniec Sport Arena - Winterpol W3 dolna stacja
 https://hoktastream3.webcamera.pl/zieleniec_cam_79fa00/zieleniec_cam_79fa00.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Góry group-title="BEACH", stoki narciarskie",Czarna Góra - Sienna
 https://hoktastream3.webcamera.pl/czarnagora_cam_53a2ce/czarnagora_cam_53a2ce.stream/playlist.m3u8
@@ -18371,7 +18983,7 @@ https://hoktastream4.webcamera.pl/czarnygron_cam_c216b8/czarnygron_cam_c216b8.st
 https://hoktastream3.webcamera.pl/enet24_cam_a07089/enet24_cam_a07089.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Góry group-title="BEACH", stoki narciarskie",COS SZCZYRK - widok na skocznie narciarską NOWOŚĆ
 https://hoktastream3.webcamera.pl/cos_cam_e40c85/cos_cam_e40c85.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Góry group-title="SPOR", stoki narciarskie",Szczyrk - Beskid Sport Arena - widok na dolną stację
+#EXTINF:-1 tvg-logo=""group-title="Góry group-title="BEACH", stoki narciarskie",Szczyrk - Beskid Sport Arena - widok na dolną stację
 https://hoktastream2.webcamera.pl/beskidsport_cam_df0e9e/beskidsport_cam_df0e9e.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Góry group-title="BEACH", stoki narciarskie",SKRZYCZNE - SZCZYRK
 https://hoktastream1.webcamera.pl/cos_cam_877af9/cos_cam_877af9.stream/playlist.m3u8
@@ -18467,7 +19079,7 @@ https://hoktastream2.webcamera.pl/czorsztynski_cam_27b967/czorsztynski_cam_27b96
 https://hoktastream3.webcamera.pl/schroniskapieninskie_cam_fb73aa/schroniskapieninskie_cam_fb73aa.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Góry group-title="BEACH", stoki narciarskie",MASTER SKI Tylicz
 https://hoktastream2.webcamera.pl/masterski_cam_557832/masterski_cam_557832.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Góry group-title="SPOR", stoki narciarskie",MASTER SKI - widok na nową kolej krzesełkową SPORT
+#EXTINF:-1 tvg-logo=""group-title="Góry group-title="BEACH", stoki narciarskie",MASTER SKI - widok na nową kolej krzesełkową SPORT
 https://hoktastream4.webcamera.pl/masterski_cam_68446d/masterski_cam_68446d.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Góry group-title="BEACH", stoki narciarskie",RYTER-ski Raj - ośrodek narciarski w Rytrze
 https://hoktastream1.webcamera.pl/ryterski_cam_4b4c1b/ryterski_cam_4b4c1b.stream/playlist.m3u8
