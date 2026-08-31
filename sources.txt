@@ -3,4 +3,4 @@ https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/tr.m3u
 https://raw.githubusercontent.com/sahind01/vidmoy/refs/heads/main/filmler/films.m3u
 https://raw.githubusercontent.com/can12zaza/my_channels.m3u/refs/heads/main/playlist.m3u
 https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/M3U/TVI_Reality.m3u8
-https://raw.githubusercontent.com/mariuszmjm/M3U8-TV-KAMERA-POLSKA/refs/heads/main/Kamery%20pogodowe.m3u8
+
