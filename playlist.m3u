@@ -23,6 +23,8 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196692&ex
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196687&extension=ts&play_token=DGJnc2zcvx
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/360.png" group-title="Ulusal", 360 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196686&extension=ts&play_token=bNDysiy4vA
+#EXTINF:0 group-title="Uncategorized",EKOL TV
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Teve2_logo.png" group-title="Ulusal", TEVE 2 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196689&extension=ts&play_token=7u6BNeQHj0
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Akit_TV.png" group-title="Yerel", AKIT TV
@@ -41,6 +43,8 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197270&ex
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197258&extension=ts&play_token=kT246ZR7mz
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Habert%C3%BCrktv.png" group-title="Haber", HABER TÜRK 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197264&extension=ts&play_token=Iw60S9KlXh
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TV100_logo.png" group-title="Haber", TV 100 
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197273&extension=ts&play_token=fIy9sX6ocp
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Ahaber_Logo.png" group-title="Haber", A HABER 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197259&extension=ts&play_token=lETzv8vz
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/NTV.png" group-title="Haber", NTV 
@@ -53,6 +57,40 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197265&ex
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197178&extension=ts&play_token=8qxzVqk0m2
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Bloomberg_Television_logo.svg.png" group-title="Haber", BLOOMBERG 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197269&extension=ts&play_token=jjLPIkkc
+#EXTINF:0 group-title="Uncategorized",DIYANET TV
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:0 group-title="Uncategorized",LALEGüL TV
+https://lbl.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:0 group-title="Uncategorized",SEMERKAND TV
+http://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+#EXTINF:0 group-title="Uncategorized",TRT SPOR
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:0 group-title="Uncategorized",A SPOR
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:0 group-title="Uncategorized",TRT 3 - TBMM
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+#EXTINF:0 group-title="Uncategorized", HT SPOR
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+#EXTINF:0 group-title="Uncategorized",EKOL SPORT TV
+https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
+#EXTINF:0 group-title="Belgesel",TRT BELGESEL
+http://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 group-title="Uncategorized",DISCOVERY ID
+https://proud-river-e20b.pantonum1.workers.dev/discs.m3u8
+#EXTINF:0 group-title="Uncategorized",DISCOVERY
+https://proud-river-e20b.pantonum1.workers.dev/discovery.m3u8
+#EXTINF:0 group-title="Tarih",TARIH TV
+https://proud-river-e20b.pantonum1.workers.dev/tarihtv.m3u8
+#EXTINF:0 group-title="Uncategorized",HISTORY
+https://proud-river-e20b.pantonum1.workers.dev/history.m3u8
+#EXTINF:0 group-title="Uncategorized",BBC EARTH
+https://proud-river-e20b.pantonum1.workers.dev/bbc.m3u8
+#EXTINF:0 group-title="Uncategorized",NAT WILD
+https://saran-live.ercdn.net/natgeowild/index.m3u8
+#EXTINF:0 group-title="Uncategorized",LOVE NATURE
+https://proud-river-e20b.pantonum1.workers.dev/lovenature.m3u8
+#EXTINF:0 group-title="Uncategorized",VIASAT HISTORY
+https://proud-river-e20b.pantonum1.workers.dev/viasathistory.m3u8
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Trt_muzik.png" group-title="Müzik", TRT MUZIK 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197363&extension=ts&play_token=bHBz9ZRpwX
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Powert%C3%BCrktv.png" group-title="Müzik", POWER TÜRK 
@@ -155,7 +193,6 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196659&ex
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196657&extension=ts&play_token=NNkEernreQ
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BRT.png" group-title="Ulusal", BRT 2 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196656&extension=ts&play_token=BfqwEL1Ga7
-
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/AKILLI.png" group-title="Yerel", AKILLI TV
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197231&extension=ts&play_token=xYOCtq7QJV
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Beng%C3%BCt%C3%BCrk_TV.png" group-title="Yerel", BENGÜ TÜRK
@@ -184,7 +221,6 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197183&ex
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197182&extension=ts&play_token=GckvrhtdF2
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/pamukkaletv.png" group-title="Yerel", PAMUKKALE TV
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197179&extension=ts&play_token=OHyYS2HCuW
-
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SAT7.png" group-title="Yerel", SAT7 TURK
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197177&extension=ts&play_token=lky5iwkG54
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/mc.eu.png" group-title="Yerel", MC EU
@@ -207,17 +243,12 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197163&ex
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197161&extension=ts&play_token=oX2laqQH7Y
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/FINLAND/150px-TV5_Finland_logo_2019.png" group-title="Yerel", TV 5
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197160&extension=ts&play_token=dg0fqY7VUH
-
-
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TRT_World.png" group-title="Haber", TRT WORLD 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197261&extension=ts&play_token=cdx7DrYc71
-
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/HABER/A NEWS .png" group-title="Haber", A NEWS 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197271&extension=ts&play_token=Nx8VX4UaJj
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/TRAPARATV.png" group-title="Haber", A PARA 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197272&extension=ts&play_token=YMedtQj0VQ
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TV100_logo.png" group-title="Haber", TV 100 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197273&extension=ts&play_token=fIy9sX6ocp
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TRT_T%C3%BCrk_logosu.png" group-title="Haber", TRT TÜRK 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197240&extension=ts&play_token=KJkY5hTnHv
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/halktv.png" group-title="Haber", HALK TV 
@@ -485,18 +516,10 @@ https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="Uncategorized",TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:0 group-title="Uncategorized",TRT 3 - TBMM
-https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 #EXTINF:0 group-title="Uncategorized",TRT KURDI
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="Uncategorized",HABER GLOBAL
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
-#EXTINF:0 group-title="Uncategorized", HT SPOR
-https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
-#EXTINF:0 group-title="Uncategorized",EKOL TV
-https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
-#EXTINF:0 group-title="Uncategorized",EKOL SPORT TV
-https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
 #EXTINF:0 group-title="Uncategorized",HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:0 group-title="Uncategorized",SZC TV
@@ -515,12 +538,7 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="Uncategorized",DW TV (ENGLISH)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
-#EXTINF:0 group-title="Belgesel",TRT BELGESEL
-http://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0 group-title="Uncategorized",TRT SPOR
-https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-#EXTINF:0 group-title="Uncategorized",A SPOR
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+
 #EXTINF:0 group-title="Uncategorized",FB TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:0 group-title="Uncategorized",TRT ÇOCUK
@@ -531,10 +549,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_72
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
 #EXTINF:0 group-title="Uncategorized",TRT DIYANET ÇOCUK
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0 group-title="Uncategorized",DIYANET TV
-https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
-#EXTINF:0 group-title="Uncategorized",LALEGüL TV
-https://lbl.netmedya.net/hls/lalegultv.m3u8
+
 #EXTINF:0 group-title="Müzik",TRT MüZIK
 http://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="Uncategorized",DREAM TüRK
@@ -593,22 +608,7 @@ https://proud-river-e20b.pantonum1.workers.dev/bsseries2.m3u8
 https://proud-river-e20b.pantonum1.workers.dev/bsseries3.m3u8
 #EXTINF:0 group-title="Uncategorized",BEIN SERIES 4
 https://proud-river-e20b.pantonum1.workers.dev/bsseries4.m3u8
-#EXTINF:0 group-title="Uncategorized",DISCOVERY ID
-https://proud-river-e20b.pantonum1.workers.dev/discs.m3u8
-#EXTINF:0 group-title="Uncategorized",DISCOVERY
-https://proud-river-e20b.pantonum1.workers.dev/discovery.m3u8
-#EXTINF:0 group-title="Tarih",TARIH TV
-https://proud-river-e20b.pantonum1.workers.dev/tarihtv.m3u8
-#EXTINF:0 group-title="Uncategorized",HISTORY
-https://proud-river-e20b.pantonum1.workers.dev/history.m3u8
-#EXTINF:0 group-title="Uncategorized",BBC EARTH
-https://proud-river-e20b.pantonum1.workers.dev/bbc.m3u8
-#EXTINF:0 group-title="Uncategorized",NAT WILD
-https://saran-live.ercdn.net/natgeowild/index.m3u8
-#EXTINF:0 group-title="Uncategorized",LOVE NATURE
-https://proud-river-e20b.pantonum1.workers.dev/lovenature.m3u8
-#EXTINF:0 group-title="Uncategorized",VIASAT HISTORY
-https://proud-river-e20b.pantonum1.workers.dev/viasathistory.m3u8
+
 #EXTINF:0 group-title="Uncategorized",BEIN SPORT 1
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydub1.m3u8
 #EXTINF:0 group-title="Uncategorized",BEIN SPORT 2
