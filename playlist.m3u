@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UKRAINE/TRT_logo_(2018-).svg.png" group-title="Ulusal", TRT  
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197438&extension=ts&play_token=zkjkoH1DCe
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TRT1.png" group-title="Ulusal", TRT 1 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196699&extension=ts&play_token=vmAan78Qyz
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TRT2.png" group-title="Ulusal", TRT 2 
@@ -73,6 +75,10 @@ https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:0 group-title="Uncategorized",EKOL SPORT TV
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
+#EXTINF:0 group-title="Uncategorized",TLC
+https://dogus.daioncdn.net/tlc/tlc.m3u8?app=tlc_web
+#EXTINF:0 group-title="Uncategorized",DMAX
+https://dogus.daioncdn.net/dmax/dmax.m3u8?app=dmax_web
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/DMAXHDPLUS.png" group-title="✪ BELGESEL",DMAX 
 http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=170683&extension=ts
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/HISTORYCHANNELHD.png" group-title="✪ BELGESEL",HISTORY
@@ -152,8 +158,7 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=724290&ex
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197344&extension=ts&play_token=XeQODwvtKm
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/FOXTV.png" group-title="Ulusal", NOW TV 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196694&extension=ts&play_token=lSQRFJi5TM
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UKRAINE/TRT_logo_(2018-).svg.png" group-title="Ulusal", TRT  
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197438&extension=ts&play_token=zkjkoH1DCe
+
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/showmax.png" group-title="Ulusal", SHOW MAX 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196700&extension=ts&play_token=fc6mDNoLp1
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TRT1.png" group-title="Ulusal", TRT 1 
