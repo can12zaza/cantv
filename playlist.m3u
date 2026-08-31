@@ -73,24 +73,65 @@ https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:0 group-title="Uncategorized",EKOL SPORT TV
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
-#EXTINF:0 group-title="Belgesel",TRT BELGESEL
-http://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0 group-title="Uncategorized",DISCOVERY ID
-https://proud-river-e20b.pantonum1.workers.dev/discs.m3u8
-#EXTINF:0 group-title="Uncategorized",DISCOVERY
-https://proud-river-e20b.pantonum1.workers.dev/discovery.m3u8
-#EXTINF:0 group-title="Tarih",TARIH TV
-https://proud-river-e20b.pantonum1.workers.dev/tarihtv.m3u8
-#EXTINF:0 group-title="Uncategorized",HISTORY
-https://proud-river-e20b.pantonum1.workers.dev/history.m3u8
-#EXTINF:0 group-title="Uncategorized",BBC EARTH
-https://proud-river-e20b.pantonum1.workers.dev/bbc.m3u8
-#EXTINF:0 group-title="Uncategorized",NAT WILD
-https://saran-live.ercdn.net/natgeowild/index.m3u8
-#EXTINF:0 group-title="Uncategorized",LOVE NATURE
-https://proud-river-e20b.pantonum1.workers.dev/lovenature.m3u8
-#EXTINF:0 group-title="Uncategorized",VIASAT HISTORY
-https://proud-river-e20b.pantonum1.workers.dev/viasathistory.m3u8
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/DMAXHDPLUS.png" group-title="✪ BELGESEL",DMAX 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=170683&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/HISTORYCHANNELHD.png" group-title="✪ BELGESEL",HISTORY
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10736&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/BBCEARTHHD.png" group-title="✪ BELGESEL",BBC EARTH 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314485&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/VIASAT-HISTORY-HD.png" group-title="✪ BELGESEL",VIASAT HISTORY 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=170684&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/VIASAT%20HISTORY.png" group-title="✪ BELGESEL", VIASAT HISTORY 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196835&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/HISTORYCHANNELHD.png" group-title="✪ BELGESEL",HISTORY VIASAT
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10735&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Viasat_Nature.png" group-title="✪ BELGESEL",VIASAT NATURE 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314484&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/DISCOVERYCHANNELHDPLUS.png" group-title="✪ BELGESEL",DISCOVERY
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10740&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/CANADA/Discovery-Science.png" group-title="✪ BELGESEL",DISCOVERY SCIENCE
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10738&extension=ts
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/754/466/png-clipart-investigation-discovery-television-channel-id-xtra-discovery-channel-others-miscellaneous-television.png" group-title="✪ BELGESEL",DISCOVERY IDX 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=185784&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/DISCOVERY%20CHANNEL.png" group-title="✪ BELGESEL", DISCOVERY CHANNEL 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196839&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/CANADA/Discovery-Science.png" group-title="✪ BELGESEL", DISCOVERY SCIENCE 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196841&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/5079.png" group-title="✪ BELGESEL",NATIONAL GEO
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10744&extension=ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-wild-us.png" group-title="✪ BELGESEL", NAT GEO 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196851&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/5019.png" group-title="✪ BELGESEL",NATIONAL GEO WILD
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10742&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/5019.png" group-title="✪ BELGESEL", NAT GEO WILD 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196852&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/LOVE%20NATURE.png" group-title="✪ BELGESEL", LOVE NATURE 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196848&extension=ts
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991252/600x337.webp?type=channelTile" group-title="✪ BELGESEL",STINGRAY NATURESCAPE 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314475&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="✪ BELGESEL",LIVING BELGESEL
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314482&extension=ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt-belgesel-tr.png" group-title="✪ BELGESEL", TRT BELGESEL 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196807&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/TRTBELGESELHDPLUS.png" group-title="✪ BELGESEL",TRT BELGESEL
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10788&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/TRTBELGESELHDPLUS.png" group-title="✪ BELGESEL",TRT BELGESEL 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=170685&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/DA%20VINCI%20LEARNING%20RAW.jpg" group-title="✪ BELGESEL", DA VINCI LEARNING 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196819&extension=ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/docu_box_hd.png" group-title="✪ BELGESEL", DOCUBOX 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196820&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/NEDERLAND/ANIMALPLANET.png" group-title="✪ BELGESEL",ANIMAL PLANET TR
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10741&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/OUTDOOR.jpg" group-title="✪ BELGESEL", OUTDOOR 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196855&extension=ts
+#EXTINF:-1 tvg-logo="http://103.161.34.238/dreamtv/tv/NATURE%20ESCAPE.png" group-title="✪ BELGESEL", NATURE ESCAPE 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196853&extension=ts
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/TURKIYE/FAST-FUN-HD.png" group-title="✪ BELGESEL",FAST&FUN BOX 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314474&extension=ts
+#EXTINF:-1 tvg-logo="http://logodmtv.ddns.net/VOD/logo/yaban-tv.jpg" group-title="✪ BELGESEL",YABAN TV
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10768&extension=ts
+
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Trt_muzik.png" group-title="Müzik", TRT MUZIK 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197363&extension=ts&play_token=bHBz9ZRpwX
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Powert%C3%BCrktv.png" group-title="Müzik", POWER TÜRK 
@@ -189,6 +230,24 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196661&ex
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196660&extension=ts&play_token=pTDH5wP4Or
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/MALAYSIA/Logo_of_TV1_(Malaysia).svg%20(1).png" group-title="Ulusal", TV1
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196659&extension=ts&play_token=9d3LgPUiM1
+#EXTINF:0 group-title="Belgesel",TRT BELGESEL
+http://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 group-title="Uncategorized",DISCOVERY ID
+https://proud-river-e20b.pantonum1.workers.dev/discs.m3u8
+#EXTINF:0 group-title="Uncategorized",DISCOVERY
+https://proud-river-e20b.pantonum1.workers.dev/discovery.m3u8
+#EXTINF:0 group-title="Tarih",TARIH TV
+https://proud-river-e20b.pantonum1.workers.dev/tarihtv.m3u8
+#EXTINF:0 group-title="Uncategorized",HISTORY
+https://proud-river-e20b.pantonum1.workers.dev/history.m3u8
+#EXTINF:0 group-title="Uncategorized",BBC EARTH
+https://proud-river-e20b.pantonum1.workers.dev/bbc.m3u8
+#EXTINF:0 group-title="Uncategorized",NAT WILD
+https://saran-live.ercdn.net/natgeowild/index.m3u8
+#EXTINF:0 group-title="Uncategorized",LOVE NATURE
+https://proud-river-e20b.pantonum1.workers.dev/lovenature.m3u8
+#EXTINF:0 group-title="Uncategorized",VIASAT HISTORY
+https://proud-river-e20b.pantonum1.workers.dev/viasathistory.m3u8
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BRT.png" group-title="Ulusal", BRT 1 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196657&extension=ts&play_token=NNkEernreQ
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BRT.png" group-title="Ulusal", BRT 2 
