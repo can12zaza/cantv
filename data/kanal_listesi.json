@@ -1,94 +1,114 @@
 [
   {
-    "name": "TRT 1",
+    "name": "TRT 4K HD",
     "category": "Ulusal"
   },
   {
-    "name": "TRT 2",
+    "name": "TRT 1 HD",
     "category": "Ulusal"
   },
   {
-    "name": "ATV",
+    "name": "TRT 2 HD",
     "category": "Ulusal"
   },
   {
-    "name": "BEYAZ TV",
+    "name": "ATV HD",
     "category": "Ulusal"
   },
   {
-    "name": "SHOW TV",
+    "name": "BEYAZ TV HD",
     "category": "Ulusal"
   },
   {
-    "name": "KANAL D",
+    "name": "SHOW TV HD",
     "category": "Ulusal"
   },
   {
-    "name": "STAR TV",
+    "name": "STAR TV HD",
     "category": "Ulusal"
   },
   {
-    "name": "TV 8",
+    "name": "KANAL D HD",
     "category": "Ulusal"
   },
   {
-    "name": "TV 8.5",
+    "name": "TV8 HD",
     "category": "Ulusal"
   },
   {
-    "name": "KANAL 7",
+    "name": "TV8.5 HD",
     "category": "Ulusal"
   },
   {
-    "name": "TEVE 2",
+    "name": "KANAL 7 HD",
     "category": "Ulusal"
   },
   {
-    "name": "A2",
+    "name": "A2 HD",
     "category": "Ulusal"
   },
   {
-    "name": "360",
+    "name": "TEVE 2 HD",
     "category": "Ulusal"
   },
   {
-    "name": "TÜRKMENELİ TV",
-    "category": "Ulusal"
+    "name": "TRT DIYANET HD",
+    "category": "Dini"
   },
   {
-    "name": "TRT HABER",
+    "name": "SEMERKAND TV",
+    "category": "Dini"
+  },
+  {
+    "name": "LALEGUL TV",
+    "category": "Dini"
+  },
+  {
+    "name": "MEKKE CANLI",
+    "category": "Dini"
+  },
+  {
+    "name": "MEDINE CANLI",
+    "category": "Dini"
+  },
+  {
+    "name": "AKIT TV HD",
     "category": "Haber"
   },
   {
-    "name": "HABER GLOBAL",
+    "name": "TRT HABER HD",
     "category": "Haber"
   },
   {
-    "name": "CNN TÜRK",
+    "name": "HABER GLOBAL HD",
     "category": "Haber"
   },
   {
-    "name": "TV NET",
+    "name": "CNN TURK HD",
     "category": "Haber"
   },
   {
-    "name": "24 HABER",
+    "name": "TV NET HD",
     "category": "Haber"
   },
   {
-    "name": "ÜLKE TV",
+    "name": "KANAL 24 HD",
     "category": "Haber"
   },
   {
-    "name": "HABER TÜRK",
+    "name": "ULKE TV HD",
     "category": "Haber"
   },
   {
-    "name": "A HABER",
+    "name": "HABERTURK HD",
     "category": "Haber"
   },
   {
-    "name": "ULKE TV",
+    "name": "NTV HABER HD",
+    "category": "Haber"
+  },
+  {
+    "name": "A HABER HD",
     "category": "Haber"
   },
   {
@@ -96,99 +116,135 @@
     "category": "Haber"
   },
   {
-    "name": "NTV",
+    "name": "TV100 HD",
     "category": "Haber"
   },
   {
-    "name": "TV 100",
+    "name": "MECLIS TV",
     "category": "Haber"
+  },
+  {
+    "name": "EKOTURK",
+    "category": "Ekonomi"
+  },
+  {
+    "name": "ULUSAL KANAL",
+    "category": "Haber"
+  },
+  {
+    "name": "BENGUTURK",
+    "category": "Haber"
+  },
+  {
+    "name": "BLOOMBERGHT HD",
+    "category": "Ekonomi"
+  },
+  {
+    "name": "A PARA HD",
+    "category": "Ekonomi"
   },
   {
     "name": "FLASH HABER",
     "category": "Haber"
   },
   {
-    "name": "BLOOMBERG",
+    "name": "CNN INTERNATIONAL HD",
     "category": "Haber"
   },
   {
-    "name": "EKOL TV",
-    "category": "Haber"
-  },
-  {
-    "name": "SEMERKAND TV",
-    "category": "Dini"
-  },
-  {
-    "name": "DIYANET TV",
-    "category": "Dini"
-  },
-  {
-    "name": "TRT BELGESEL",
-    "category": "Dini"
-  },
-  {
-    "name": "VIASAT EXPLORE",
+    "name": "TRT BELGESEL HD",
     "category": "Belgesel"
   },
   {
-    "name": "DISCOVERY ID",
+    "name": "NATIONAL GEOGRAPHIC HD",
     "category": "Belgesel"
   },
   {
-    "name": "DISCOVERY",
+    "name": "NATGEO WILD",
     "category": "Belgesel"
   },
   {
-    "name": "TARIH TV",
+    "name": "INVESTIGATION DISCOVERY HD",
     "category": "Belgesel"
   },
   {
-    "name": "HISTORY",
+    "name": "DISCOVERY CHANNEL HD",
     "category": "Belgesel"
   },
   {
-    "name": "BBC EARTH",
+    "name": "DMAX HD",
     "category": "Belgesel"
   },
   {
-    "name": "NAT WILD",
+    "name": "TLC HD",
     "category": "Belgesel"
   },
   {
-    "name": "NATİONAL GEOGRAPHİC",
+    "name": "VIASAT EXPLORE HD",
     "category": "Belgesel"
   },
   {
-    "name": "LOVE NATURE",
+    "name": "BEIN IZ HD",
     "category": "Belgesel"
   },
   {
-    "name": "TLC",
+    "name": "HISTORY HD",
     "category": "Belgesel"
   },
   {
-    "name": "DMAX",
+    "name": "DA VINCI LEARNING HD",
+    "category": "Çocuk / Belgesel"
+  },
+  {
+    "name": "NATURE ESCAPE HD",
     "category": "Belgesel"
   },
   {
-    "name": "ÇİFTÇİ TV",
-    "category": "Belgesel"
-  },
-  {
-    "name": "TRT SPOR",
-    "category": "Belgesel"
-  },
-  {
-    "name": "HT SPOR",
-    "category": "Belgesel"
-  },
-  {
-    "name": "EUROSPORT 1",
+    "name": "FIGHTSCREEN HD",
     "category": "Spor"
   },
   {
-    "name": "EUROSPORT 2",
+    "name": "LOVE NATURE HD",
+    "category": "Belgesel"
+  },
+  {
+    "name": "BBC EARTH HD",
+    "category": "Belgesel"
+  },
+  {
+    "name": "VIASAT HISTORY HD",
+    "category": "Belgesel"
+  },
+  {
+    "name": "CHASSE & PECHE",
+    "category": "Belgesel"
+  },
+  {
+    "name": "TGRT BELGESEL",
+    "category": "Belgesel"
+  },
+  {
+    "name": "DOCUSCREEN HD",
+    "category": "Belgesel"
+  },
+  {
+    "name": "YABAN TV HD",
+    "category": "Belgesel"
+  },
+  {
+    "name": "HABITAT TV HD",
+    "category": "Belgesel"
+  },
+  {
+    "name": "Tarih TV",
+    "category": "Belgesel"
+  },
+  {
+    "name": "CIFTCI TV",
+    "category": "Belgesel"
+  },
+  {
+    "name": "TRT SPOR HD",
     "category": "Spor"
   },
   {
@@ -196,59 +252,183 @@
     "category": "Spor"
   },
   {
-    "name": "EKOL SPORT TV",
+    "name": "A SPOR HD",
     "category": "Spor"
   },
   {
-    "name": "FB TV",
+    "name": "EKOL TV",
+    "category": "Haber"
+  },
+  {
+    "name": "HT SPOR HD",
     "category": "Spor"
   },
   {
-    "name": "İDMAN TV",
+    "name": "TJK TV HD",
     "category": "Spor"
   },
   {
-    "name": "TJK TV",
+    "name": "EUROSPORT 1 HD",
     "category": "Spor"
   },
   {
-    "name": "TRT MüZIK",
+    "name": "EUROSPORT 2 HD",
     "category": "Spor"
   },
   {
-    "name": "POWER TÜRK",
+    "name": "NBA TV FHD",
     "category": "Spor"
   },
   {
-    "name": "POWER TV",
+    "name": "CBC SPORT HD",
     "category": "Spor"
+  },
+  {
+    "name": "TRT MUZIK HD",
+    "category": "Müzik"
+  },
+  {
+    "name": "KRAL TV",
+    "category": "Müzik"
   },
   {
     "name": "KRAL POP",
+    "category": "Müzik"
+  },
+  {
+    "name": "KRALPOP AKUSTIK",
+    "category": "Müzik"
+  },
+  {
+    "name": "DREAM TURK HD",
+    "category": "Müzik"
+  },
+  {
+    "name": "POWER HD",
+    "category": "Müzik"
+  },
+  {
+    "name": "POWER TURK HD",
+    "category": "Müzik"
+  },
+  {
+    "name": "POWER TURK SLOW",
+    "category": "Müzik"
+  },
+  {
+    "name": "POWER TURK TAPTAZE",
+    "category": "Müzik"
+  },
+  {
+    "name": "NR1 TURK",
+    "category": "Müzik"
+  },
+  {
+    "name": "NR1 HD",
+    "category": "Müzik"
+  },
+  {
+    "name": "DREAM TV",
+    "category": "Müzik"
+  },
+  {
+    "name": "BIEN SPORTS 1 SD",
     "category": "Spor"
   },
   {
-    "name": "NR1",
-    "category": "Müzik"
+    "name": "BEIN HABER HD",
+    "category": "Spor / Haber"
   },
   {
-    "name": "NR1 TÜRK",
-    "category": "Müzik"
+    "name": "BEIN SPORTS 2",
+    "category": "Spor"
   },
   {
-    "name": "DREAM TURK",
-    "category": "Müzik"
+    "name": "BEIN SPORTS 3 HD",
+    "category": "Spor"
   },
   {
-    "name": "TMB",
-    "category": "Müzik"
+    "name": "BEIN SPORTS 4",
+    "category": "Spor"
   },
   {
-    "name": "TRT MUZIK",
-    "category": "Müzik"
+    "name": "BEIN SPORTS 5",
+    "category": "Spor"
   },
   {
-    "name": "DREAM TüRK",
-    "category": "Müzik"
+    "name": "BEIN SPORTS MAX HD",
+    "category": "Spor"
+  },
+  {
+    "name": "BEIN SPORTS MAX HD 2",
+    "category": "Spor"
+  },
+  {
+    "name": "BEIN CONNECT HD",
+    "category": "Spor "
+  },
+  {
+    "name": "BEIN CONNECT HD -4",
+    "category": "Spor / Eğlence"
+  },
+  {
+    "name": "BEIN CONNECT HD -5",
+    "category": "Spor "
+  },
+  {
+    "name": "S SPORT HD",
+    "category": "Spor"
+  },
+  {
+    "name": "beIN BOXOFFICE-1-HD",
+    "category": "Sinema"
+  },
+  {
+    "name": "beIN BOXOFFICE-2-HD",
+    "category": "Sinema"
+  },
+  {
+    "name": "beIN BOXOFFICE-3-HD",
+    "category": "Sinema"
+  },
+  {
+    "name": "beIN MOVIES ACTION HD",
+    "category": "Sinema"
+  },
+  {
+    "name": "beIN MOVIES ACTION HD 2",
+    "category": "Sinema"
+  },
+  {
+    "name": "beIN MOVIES PREMIER HD",
+    "category": "Sinema"
+  },
+  {
+    "name": "beIN MOVIES STARS HD",
+    "category": "Sinema"
+  },
+  {
+    "name": "beIN MOVIES FAMILY HD",
+    "category": "Sinema"
+  },
+  {
+    "name": "beIN MOVIES TURK HD",
+    "category": "Sinema"
+  },
+  {
+    "name": "beIN SERIES 1 HD",
+    "category": "Dizi"
+  },
+  {
+    "name": "beIN SERIES 2 HD",
+    "category": "Dizi"
+  },
+  {
+    "name": "beIN SERIES 3 HD",
+    "category": "Dizi"
+  },
+  {
+    "name": "beIN SERIES 4 HD",
+    "category": "Dizi"
   }
 ]
