@@ -1,0 +1,254 @@
+[
+  {
+    "name": "TRT 1",
+    "category": "Ulusal"
+  },
+  {
+    "name": "TRT 2",
+    "category": "Ulusal"
+  },
+  {
+    "name": "ATV",
+    "category": "Ulusal"
+  },
+  {
+    "name": "BEYAZ TV",
+    "category": "Ulusal"
+  },
+  {
+    "name": "SHOW TV",
+    "category": "Ulusal"
+  },
+  {
+    "name": "KANAL D",
+    "category": "Ulusal"
+  },
+  {
+    "name": "STAR TV",
+    "category": "Ulusal"
+  },
+  {
+    "name": "TV 8",
+    "category": "Ulusal"
+  },
+  {
+    "name": "TV 8.5",
+    "category": "Ulusal"
+  },
+  {
+    "name": "KANAL 7",
+    "category": "Ulusal"
+  },
+  {
+    "name": "TEVE 2",
+    "category": "Ulusal"
+  },
+  {
+    "name": "A2",
+    "category": "Ulusal"
+  },
+  {
+    "name": "360",
+    "category": "Ulusal"
+  },
+  {
+    "name": "TÜRKMENELİ TV",
+    "category": "Ulusal"
+  },
+  {
+    "name": "TRT HABER",
+    "category": "Haber"
+  },
+  {
+    "name": "HABER GLOBAL",
+    "category": "Haber"
+  },
+  {
+    "name": "CNN TÜRK",
+    "category": "Haber"
+  },
+  {
+    "name": "TV NET",
+    "category": "Haber"
+  },
+  {
+    "name": "24 HABER",
+    "category": "Haber"
+  },
+  {
+    "name": "ÜLKE TV",
+    "category": "Haber"
+  },
+  {
+    "name": "HABER TÜRK",
+    "category": "Haber"
+  },
+  {
+    "name": "A HABER",
+    "category": "Haber"
+  },
+  {
+    "name": "ULKE TV",
+    "category": "Haber"
+  },
+  {
+    "name": "TGRT HABER",
+    "category": "Haber"
+  },
+  {
+    "name": "NTV",
+    "category": "Haber"
+  },
+  {
+    "name": "TV 100",
+    "category": "Haber"
+  },
+  {
+    "name": "FLASH HABER",
+    "category": "Haber"
+  },
+  {
+    "name": "BLOOMBERG",
+    "category": "Haber"
+  },
+  {
+    "name": "EKOL TV",
+    "category": "Haber"
+  },
+  {
+    "name": "SEMERKAND TV",
+    "category": "Dini"
+  },
+  {
+    "name": "DIYANET TV",
+    "category": "Dini"
+  },
+  {
+    "name": "TRT BELGESEL",
+    "category": "Dini"
+  },
+  {
+    "name": "VIASAT EXPLORE",
+    "category": "Belgesel"
+  },
+  {
+    "name": "DISCOVERY ID",
+    "category": "Belgesel"
+  },
+  {
+    "name": "DISCOVERY",
+    "category": "Belgesel"
+  },
+  {
+    "name": "TARIH TV",
+    "category": "Belgesel"
+  },
+  {
+    "name": "HISTORY",
+    "category": "Belgesel"
+  },
+  {
+    "name": "BBC EARTH",
+    "category": "Belgesel"
+  },
+  {
+    "name": "NAT WILD",
+    "category": "Belgesel"
+  },
+  {
+    "name": "NATİONAL GEOGRAPHİC",
+    "category": "Belgesel"
+  },
+  {
+    "name": "LOVE NATURE",
+    "category": "Belgesel"
+  },
+  {
+    "name": "TLC",
+    "category": "Belgesel"
+  },
+  {
+    "name": "DMAX",
+    "category": "Belgesel"
+  },
+  {
+    "name": "ÇİFTÇİ TV",
+    "category": "Belgesel"
+  },
+  {
+    "name": "TRT SPOR",
+    "category": "Belgesel"
+  },
+  {
+    "name": "HT SPOR",
+    "category": "Belgesel"
+  },
+  {
+    "name": "EUROSPORT 1",
+    "category": "Spor"
+  },
+  {
+    "name": "EUROSPORT 2",
+    "category": "Spor"
+  },
+  {
+    "name": "TRT SPOR YILDIZ",
+    "category": "Spor"
+  },
+  {
+    "name": "EKOL SPORT TV",
+    "category": "Spor"
+  },
+  {
+    "name": "FB TV",
+    "category": "Spor"
+  },
+  {
+    "name": "İDMAN TV",
+    "category": "Spor"
+  },
+  {
+    "name": "TJK TV",
+    "category": "Spor"
+  },
+  {
+    "name": "TRT MüZIK",
+    "category": "Spor"
+  },
+  {
+    "name": "POWER TÜRK",
+    "category": "Spor"
+  },
+  {
+    "name": "POWER TV",
+    "category": "Spor"
+  },
+  {
+    "name": "KRAL POP",
+    "category": "Spor"
+  },
+  {
+    "name": "NR1",
+    "category": "Müzik"
+  },
+  {
+    "name": "NR1 TÜRK",
+    "category": "Müzik"
+  },
+  {
+    "name": "DREAM TURK",
+    "category": "Müzik"
+  },
+  {
+    "name": "TMB",
+    "category": "Müzik"
+  },
+  {
+    "name": "TRT MUZIK",
+    "category": "Müzik"
+  },
+  {
+    "name": "DREAM TüRK",
+    "category": "Müzik"
+  }
+]
