@@ -332,10 +332,19 @@
       ]
     },
     {
-      "name": "KANAL 24 HD",
+      "name": "24 HD",
       "category": "Haber",
-      "status": "not_found",
-      "attempts": []
+      "status": "working",
+      "url": "https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "attempts": [
+        {
+          "url": "https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": true,
+          "reason": "http-200"
+        }
+      ]
     },
     {
       "name": "ÜLKE TV HD",
@@ -878,9 +887,7 @@
     {
       "name": "Tarih TV",
       "category": "Belgesel",
-      "status": "working",
-      "url": "https://vavoo.biz-az.workers.dev/play/385695705243789b6f2c45.m3u8",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "status": "not_found",
       "attempts": [
         {
           "url": "https://proud-river-e20b.pantonum1.workers.dev/tarihtv.m3u8",
@@ -891,8 +898,14 @@
         {
           "url": "https://vavoo.biz-az.workers.dev/play/385695705243789b6f2c45.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200"
+          "ok": false,
+          "reason": "http-429"
+        },
+        {
+          "url": "https://proud-river-e20b.pantonum1.workers.dev/tarihtv.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-502"
         }
       ]
     },
@@ -954,7 +967,7 @@
       "name": "TRT SPOR YILDIZ",
       "category": "Spor",
       "status": "working",
-      "url": "http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=170680&extension=ts",
+      "url": "http://umperisn.mywire.org/index.php?id=2019&token=DeaTHLesS",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "attempts": [
         {
@@ -971,18 +984,6 @@
         },
         {
           "url": "http://umperisn.mywire.org/index.php?id=2019&token=DeaTHLesS",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "ConnectTimeout"
-        },
-        {
-          "url": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-403"
-        },
-        {
-          "url": "http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=170680&extension=ts",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200"
