@@ -1,7 +1,7 @@
 {
   "total_channels": 108,
-  "matched": 73,
-  "not_found": 35,
+  "matched": 74,
+  "not_found": 34,
   "source_errors": [],
   "channels": [
     {
@@ -338,7 +338,7 @@
       "attempts": []
     },
     {
-      "name": "ULKE TV HD",
+      "name": "ÜLKE TV HD",
       "category": "Haber",
       "status": "working",
       "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197258&extension=ts&play_token=kT246ZR7mz",
@@ -878,7 +878,9 @@
     {
       "name": "Tarih TV",
       "category": "Belgesel",
-      "status": "not_found",
+      "status": "working",
+      "url": "https://vavoo.biz-az.workers.dev/play/385695705243789b6f2c45.m3u8",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "attempts": [
         {
           "url": "https://proud-river-e20b.pantonum1.workers.dev/tarihtv.m3u8",
@@ -889,14 +891,8 @@
         {
           "url": "https://vavoo.biz-az.workers.dev/play/385695705243789b6f2c45.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "ReadTimeout"
-        },
-        {
-          "url": "https://proud-river-e20b.pantonum1.workers.dev/tarihtv.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-502"
+          "ok": true,
+          "reason": "http-200"
         }
       ]
     },
