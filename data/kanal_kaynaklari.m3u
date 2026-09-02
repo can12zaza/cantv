@@ -102,7 +102,7 @@ https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
 #EXTINF:-1 tvg-name="TRT SPOR HD" group-title="Spor",TRT SPOR HD
 http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=10783&extension=ts
 #EXTINF:-1 tvg-name="TRT SPOR YILDIZ" group-title="Spor",TRT SPOR YILDIZ
-http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=170680&extension=ts
+http://umperisn.mywire.org/index.php?id=2019&token=DeaTHLesS
 #EXTINF:-1 tvg-name="A SPOR HD" group-title="Spor",A SPOR HD
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1 tvg-name="EKOL TV" group-title="Haber",EKOL TV
@@ -139,6 +139,22 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197358&ex
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197359&extension=ts&play_token=VTomsfRgFY
 #EXTINF:-1 tvg-name="S SPORT HD" group-title="Spor",S SPORT HD
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydus1.m3u8
+#EXTINF:-1 tvg-name="SİNEMA 1001" group-title="Sinema",SİNEMA 1001
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196825&extension=ts
+#EXTINF:-1 tvg-name="SİNEMA 1002" group-title="Sinema",SİNEMA 1002
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196826&extension=ts
+#EXTINF:-1 tvg-name="SİNEMA AKSİYON" group-title="Sinema",SİNEMA AKSİYON
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196828&extension=ts
+#EXTINF:-1 tvg-name="SİNEMA AKSİYON 2 " group-title="Sinema",SİNEMA AKSİYON 2 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196829&extension=ts
+#EXTINF:-1 tvg-name="SİNEMA AİLE " group-title="Sinema",SİNEMA AİLE 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196830&extension=ts
+#EXTINF:-1 tvg-name="SİNEMA AİLE 2 " group-title="Sinema",SİNEMA AİLE 2 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196831&extension=ts
+#EXTINF:-1 tvg-name="SİNEMA KOMEDİ " group-title="Sinema",SİNEMA KOMEDİ 
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196832&extension=ts
+#EXTINF:-1 tvg-name="SİNEMA KOMEDİ 2" group-title="Sinema",SİNEMA KOMEDİ 2
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196833&extension=ts
 #EXTINF:-1 tvg-name="beIN SERIES 1 HD" group-title="Dizi",beIN SERIES 1 HD
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471673&extension=ts&play_token=fDOWsHHnSf
 #EXTINF:-1 tvg-name="beIN SERIES 2 HD" group-title="Dizi",beIN SERIES 2 HD
