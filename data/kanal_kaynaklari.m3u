@@ -36,7 +36,7 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197233&ex
 #EXTINF:-1 tvg-name="TRT HABER HD" group-title="Haber",TRT HABER HD
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197262&extension=ts&play_token=VItI33IyP6
 #EXTINF:-1 tvg-name="HABER GLOBAL HD" group-title="Haber",HABER GLOBAL HD
-https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197268&extension=ts&play_token=tGkC8erhpz
 #EXTINF:-1 tvg-name="CNN TURK HD" group-title="Haber",CNN TURK HD
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197260&extension=ts&play_token=UJ6cx8th1N
 #EXTINF:-1 tvg-name="TV NET HD" group-title="Haber",TV NET HD
@@ -70,7 +70,7 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197265&ex
 #EXTINF:-1 tvg-name="TRT BELGESEL HD" group-title="Belgesel",TRT BELGESEL HD
 http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196807&extension=ts
 #EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC HD" group-title="Belgesel",NATIONAL GEOGRAPHIC HD
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:C0:8F:65&stream=197433&extension=ts&play_token=vIAFFKePWW
+http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196851&extension=ts
 #EXTINF:-1 tvg-name="NATGEO WILD" group-title="Belgesel",NATGEO WILD
 http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196852&extension=ts
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL HD" group-title="Belgesel",DISCOVERY CHANNEL HD
@@ -120,7 +120,7 @@ http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=196854&extension=ts
 #EXTINF:-1 tvg-name="CBC SPORT HD" group-title="Spor",CBC SPORT HD
 http://sup-4k.org/play/live.php?mac=00:1A:79:A9:BA:5B&stream=314887&extension=ts
 #EXTINF:-1 tvg-name="TRT MUZIK HD" group-title="Müzik",TRT MUZIK HD
-http://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197363&extension=ts&play_token=bHBz9ZRpwX
 #EXTINF:-1 tvg-name="KRAL TV" group-title="Müzik",KRAL TV
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197360&extension=ts&play_token=06puQPiAQ5
 #EXTINF:-1 tvg-name="KRAL POP" group-title="Müzik",KRAL POP
