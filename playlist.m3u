@@ -2355,8 +2355,6 @@ https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8
 https://corestream.siteyaptim.live/trt-spor/index.m3u8
 #EXTINF:-1 tvg-id="ShowTurk.tr@SD",Show Turk (1080p)
 https://raw.githubusercontent.com/bnyusuf67-crypto/streams/refs/heads/main/streams/shturk.m3u8
-#EXTINF:-1 tvg-id="SozcuTV.tr@SD",Sozcu TV (1080p)
-http://5.178.103.239:55/yt1/szctv.m3u8
 #EXTINF:-1 tvg-id="ATVAvrupa.tr@SD",ATV Avrupa (576p)
 https://flask-api-hls-atvavrupahdtrkvz-live.onrender.com/hls_stream/master.m3u8
 #EXTINF:-1 group-title="Dram" tvg-logo="https://image.tmdb.org/t/p/w500/2t9xi7rmYzvd5P7kPg0wWHNqOfp.jpg", Gizemli Kadın (2026) ⭐ 6.379
