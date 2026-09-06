@@ -56,7 +56,7 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197263&ex
 #EXTINF:-1 tvg-name="TV100 HD" group-title="Haber",TV100 HD
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197273&extension=ts&play_token=fIy9sX6ocp
 #EXTINF:-1 tvg-name="EKOTURK" group-title="Ekonomi",EKOTURK
-http://umperisn.mywire.org/index.php?id=594217&token=DeaTHLesS
+http://superiptv21.com/live/erayrende/ilttuta39/2d69a9ce-a25a-4042-ae0b-9789f6f7a8f6.m3u?output=ts
 #EXTINF:-1 tvg-name="ULUSAL KANAL" group-title="Haber",ULUSAL KANAL
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197178&extension=ts&play_token=8qxzVqk0m2
 #EXTINF:-1 tvg-name="BENGUTURK" group-title="Haber",BENGUTURK
@@ -70,51 +70,51 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197265&ex
 #EXTINF:-1 tvg-name="CNN INTERNATIONAL HD" group-title="Haber",CNN INTERNATIONAL HD
 http://elit64.eu:2086/barisakin643564/kin643564/205508?output=ts
 #EXTINF:-1 tvg-name="TRT BELGESEL" group-title="Belgesel",TRT BELGESEL
-http://umperisn.mywire.org/index.php?id=1993&token=DeaTHLesS
+http://superiptv21.com/live/erayrende/ilttuta39/656ebd7c-b56e-4439-90ba-3311d1fcb46c.m3u?output=ts
 #EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" group-title="Belgesel",NATIONAL GEOGRAPHIC
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:C0:8F:65&stream=197433&extension=ts&play_token=vIAFFKePWW
 #EXTINF:-1 tvg-name="NATGEO WILD" group-title="Belgesel",NATGEO WILD
-http://umperisn.mywire.org/index.php?id=594678&token=DeaTHLesS
+http://elit64.eu:2086/barisakin643564/kin643564/106?output=ts
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL" group-title="Belgesel",DISCOVERY CHANNEL
-http://umperisn.mywire.org/index.php?id=594674&token=DeaTHLesS
+http://superiptv21.com/live/erayrende/ilttuta39/db3008c7-02fb-41af-8b99-34e10d569f12.m3u?output=ts
 #EXTINF:-1 tvg-name="DMAX" group-title="Belgesel",DMAX
 https://dogus.daioncdn.net/dmax/dmax.m3u8?app=dmax_web
 #EXTINF:-1 tvg-name="TLC" group-title="Belgesel",TLC
 https://dogus.daioncdn.net/tlc/tlc.m3u8?app=tlc_web
 #EXTINF:-1 tvg-name="VIASAT EXPLORE" group-title="Belgesel",VIASAT EXPLORE
-http://umperisn.mywire.org/index.php?id=594656&token=DeaTHLesS
+http://superiptv21.com/live/erayrende/ilttuta39/a9d14c3c-b7b2-4a47-83aa-a361ada39615.m3u?output=ts
 #EXTINF:-1 tvg-name="BEIN IZ" group-title="Belgesel",BEIN IZ
 http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/19078/index.m3u8
 #EXTINF:-1 tvg-name="HISTORY " group-title="Belgesel",HISTORY 
-http://umperisn.mywire.org/index.php?id=594667&token=DeaTHLesS
+http://45.138.173.72:8080/OERXRGdCUExrankyVkxTNitZY2tXOFg0VVAwdmpDeVgzZmZqcENPbERJRT0?output=ts
 #EXTINF:-1 tvg-name="DA VINCI LEARNING" group-title="Çocuk / Belgesel",DA VINCI LEARNING
 http://elit64.eu:2086/barisakin643564/kin643564/207671?output=ts
 #EXTINF:-1 tvg-name="NATURE ESCAPE HD" group-title="Belgesel",NATURE ESCAPE HD
 http://elit64.eu:2086/barisakin643564/kin643564/78949?output=ts
 #EXTINF:-1 tvg-name="LOVE NATURE" group-title="Belgesel",LOVE NATURE
-http://umperisn.mywire.org/index.php?id=594669&token=DeaTHLesS
+http://superiptv21.com/live/erayrende/ilttuta39/e6c0d979-a624-4473-bb58-e2defbd7c907.m3u?output=ts
 #EXTINF:-1 tvg-name="BBC EARTH " group-title="Belgesel",BBC EARTH 
-http://umperisn.mywire.org/index.php?id=594660&token=DeaTHLesS
+http://superiptv21.com/live/erayrende/ilttuta39/bba3f221-e4da-4a6d-b835-fab9c3197b4d.m3u?output=ts
 #EXTINF:-1 tvg-name="VIASAT HISTORY" group-title="Belgesel",VIASAT HISTORY
-http://umperisn.mywire.org/index.php?id=594658&token=DeaTHLesS
+http://superiptv21.com/live/erayrende/ilttuta39/fca0bcec-69fe-42e8-8942-a766563eb82b.m3u?output=ts
 #EXTINF:-1 tvg-name="CHASSE & PECHE" group-title="Belgesel",CHASSE & PECHE
 http://superiptv21.com/live/erayrende/ilttuta39/dea5fad5-14b2-4cce-9f87-ab113953c371.m3u?output=ts
 #EXTINF:-1 tvg-name="TGRT BELGESEL" group-title="Belgesel",TGRT BELGESEL
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8?md5=yJ4adbAK5bE0F93vqFevgw&expires=1687122603
 #EXTINF:-1 tvg-name="DOCUSCREEN " group-title="Belgesel",DOCUSCREEN 
-http://superiptv21.com/live/erayrende/ilttuta39/324304a1-0293-4cda-ae6a-8fbed5ee2ebf.m3u?output=ts
+http://superiptv21.com/live/erayrende/ilttuta39/3a135a55-956e-499c-bad8-f8198f4fb287.m3u?output=ts
 #EXTINF:-1 tvg-name="YABAN TV" group-title="Belgesel",YABAN TV
 http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=197439&extension=ts
 #EXTINF:-1 tvg-name="HABITAT TV" group-title="Belgesel",HABITAT TV
-http://umperisn.mywire.org/index.php?id=594651&token=DeaTHLesS
+http://elit64.eu:2086/barisakin643564/kin643564/243379?output=ts
 #EXTINF:-1 tvg-name="Tarih TV" group-title="Belgesel",Tarih TV
-http://umperisn.mywire.org/index.php?id=594663&token=DeaTHLesS
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/tarih-tv/playlist.m3u8
 #EXTINF:-1 tvg-name="CIFTCI TV" group-title="Belgesel",CIFTCI TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
 #EXTINF:-1 tvg-name="TRT SPOR" group-title="Spor",TRT SPOR
-http://umperisn.mywire.org/index.php?id=2015&token=DeaTHLesS
+http://superiptv21.com/live/erayrende/ilttuta39/8a5f372f-59a9-4fe2-af11-adf72e216039.m3u?output=ts
 #EXTINF:-1 tvg-name="TRT SPOR YILDIZ" group-title="Spor",TRT SPOR YILDIZ
-http://umperisn.mywire.org/index.php?id=2019&token=DeaTHLesS
+https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor&ppid=e67f6aa79d604002f37ace34d2ca101c
 #EXTINF:-1 tvg-name="A SPOR" group-title="Spor",A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1 tvg-name="EKOL TV" group-title="Haber",EKOL TV
@@ -128,11 +128,11 @@ https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivees1.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 2 HD" group-title="Spor",EUROSPORT 2 HD
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivees2.m3u8
 #EXTINF:-1 tvg-name="NBA TV" group-title="Spor",NBA TV
-http://umperisn.mywire.org/index.php?id=2048&token=DeaTHLesS
+http://superiptv21.com/live/erayrende/ilttuta39/43318fc7-6304-4681-a79c-671eb9755b2b.m3u?output=ts
 #EXTINF:-1 tvg-name="TRT MUZIK" group-title="Müzik",TRT MUZIK
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197363&extension=ts&play_token=bHBz9ZRpwX
 #EXTINF:-1 tvg-name="KRAL TV" group-title="Müzik",KRAL TV
-http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197360&extension=ts&play_token=06puQPiAQ5
 #EXTINF:-1 tvg-name="KRAL POP" group-title="Müzik",KRAL POP
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197361&extension=ts&play_token=88YQcnlyZu
 #EXTINF:-1 tvg-name="KRALPOP AKUSTIK" group-title="Müzik",KRALPOP AKUSTIK
@@ -152,17 +152,15 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197358&ex
 #EXTINF:-1 tvg-name="NR1 HD" group-title="Müzik",NR1 HD
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197359&extension=ts&play_token=VTomsfRgFY
 #EXTINF:-1 tvg-name="DREAM TV" group-title="Müzik",DREAM TV
-http://umperisn.mywire.org/index.php?id=595432&token=DeaTHLesS
+http://superiptv21.com/live/erayrende/ilttuta39/d8d9294f-5f4a-4d17-b4cb-c02d940154c1.m3u?output=ts
 #EXTINF:-1 tvg-name="BEIN SPORTS 2" group-title="Spor",BEIN SPORTS 2
-http://umperisn.mywire.org/index.php?id=2206&token=DeaTHLesS
+https://avva.magnitude.workers.dev/?url=https://avvaupdate.com/bein2/index.m3u8?o=1%26e=1781703872%26tk=51d8cf311c0961e87873898f38494c8d
 #EXTINF:-1 tvg-name="BEIN SPORTS 3 HD" group-title="Spor",BEIN SPORTS 3 HD
-http://umperisn.mywire.org/index.php?id=491883&token=DeaTHLesS
+https://avva.magnitude.workers.dev/?url=https://avvaupdate.com/bein3/index.m3u8?o=1%26e=1781703872%26tk=51d8cf311c0961e87873898f38494c8d
 #EXTINF:-1 tvg-name="BEIN SPORTS 4" group-title="Spor",BEIN SPORTS 4
-http://umperisn.mywire.org/index.php?id=2212&token=DeaTHLesS
+https://avva.magnitude.workers.dev/?url=https://avvaupdate.com/bein4/index.m3u8?o=1%26e=1781703872%26tk=51d8cf311c0961e87873898f38494c8d
 #EXTINF:-1 tvg-name="BEIN SPORTS 5" group-title="Spor",BEIN SPORTS 5
-http://umperisn.mywire.org/index.php?id=423873&token=DeaTHLesS
-#EXTINF:-1 tvg-name="BEIN SPORTS MAX 2" group-title="Spor",BEIN SPORTS MAX 2
-http://umperisn.mywire.org/index.php?id=2217&token=DeaTHLesS
+https://avva.magnitude.workers.dev/?url=https://avvaupdate.com/bein5/index.m3u8?o=1%26e=1781703872%26tk=51d8cf311c0961e87873898f38494c8d
 #EXTINF:-1 tvg-name="BEIN CONNECT 4" group-title="Spor / Eğlence",BEIN CONNECT 4
 http://superiptv21.com/live/erayrende/ilttuta39/feadd582-d282-48d2-9510-b12e5c4f01f1.m3u?output=ts
 #EXTINF:-1 tvg-name="BEIN CONNECT 5" group-title="Spor ",BEIN CONNECT 5
@@ -170,35 +168,27 @@ http://superiptv21.com/live/erayrende/ilttuta39/cf5b89a9-a7c5-466e-a797-98af4d06
 #EXTINF:-1 tvg-name="S SPORT" group-title="Spor",S SPORT
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydus1.m3u8
 #EXTINF:-1 tvg-name="beIN BOXOFFICE-1-HD" group-title="Sinema",beIN BOXOFFICE-1-HD
-http://umperisn.mywire.org/index.php?id=591405&token=DeaTHLesS
+http://superiptv21.com/live/erayrende/ilttuta39/b3f77183-35d6-454d-aa33-4d705b523836.m3u?output=ts
 #EXTINF:-1 tvg-name="beIN BOXOFFICE 2" group-title="Sinema",beIN BOXOFFICE 2
-http://umperisn.mywire.org/index.php?id=591403&token=DeaTHLesS
+http://superiptv21.com/live/erayrende/ilttuta39/97b4aa30-aa52-4bea-ab1e-de426a35dba1.m3u?output=ts
 #EXTINF:-1 tvg-name="beIN BOXOFFICE 3" group-title="Sinema",beIN BOXOFFICE 3
-http://umperisn.mywire.org/index.php?id=591401&token=DeaTHLesS
-#EXTINF:-1 tvg-name="beIN MOVIES ACTION HD" group-title="Sinema",beIN MOVIES ACTION HD
-http://umperisn.mywire.org/index.php?id=591399&token=DeaTHLesS
+http://superiptv21.com/live/erayrende/ilttuta39/d0bc8932-cd8a-40e8-9f50-afbf31293684.m3u?output=ts
 #EXTINF:-1 tvg-name="SİNEMA 1001" group-title="Sinema",SİNEMA 1001
-https://sharelink.anonimltc.workers.dev/g/phcwm9.m3u8
+http://superiptv21.com/live/erayrende/ilttuta39/65e1ac06-d193-425b-8e6c-68543c4f82f2.m3u?output=ts
 #EXTINF:-1 tvg-name="SİNEMA 1002" group-title="Sinema",SİNEMA 1002
 http://superiptv21.com/live/erayrende/ilttuta39/77296fca-f37f-4b64-9467-df7e8e8c7116.m3u?output=ts
 #EXTINF:-1 tvg-name="SİNEMA AKSİYON" group-title="Sinema",SİNEMA AKSİYON
-https://sharelink.anonimltc.workers.dev/g/tahkxy.m3u8
+http://superiptv21.com/live/erayrende/ilttuta39/26b75dec-2cdf-430a-ad96-51f83fcf4aa6.m3u?output=ts
 #EXTINF:-1 tvg-name="SİNEMA AKSİYON 2 " group-title="Sinema",SİNEMA AKSİYON 2 
 http://superiptv21.com/live/erayrende/ilttuta39/a51c62e1-199f-4271-bd9c-d2d714204230.m3u?output=ts
 #EXTINF:-1 tvg-name="SİNEMA AİLE " group-title="Sinema",SİNEMA AİLE 
-https://sharelink.anonimltc.workers.dev/g/8m95e5.m3u8
+http://superiptv21.com/live/erayrende/ilttuta39/00ab09d5-fad5-429b-b765-53de52fbd50d.m3u?output=ts
 #EXTINF:-1 tvg-name="SİNEMA AİLE 2 " group-title="Sinema",SİNEMA AİLE 2 
-http://superiptv21.com/live/erayrende/ilttuta39/dd0008aa-5436-4fdd-b779-b69da6dfb6c7.m3u?output=ts
+http://45.138.173.72:8080/OERXRGdCUExrankyVkxTNitZY2tXd3F3TUZrckN4WVFBUjRySC85WERUVG0rVkM3YlpzWmxYZWpQWENYdkVCZA?output=ts
 #EXTINF:-1 tvg-name="SİNEMA KOMEDİ " group-title="Sinema",SİNEMA KOMEDİ 
-https://sharelink.anonimltc.workers.dev/g/hy364t.m3u8
+http://superiptv21.com/live/erayrende/ilttuta39/8bdd1f34-0816-4679-a312-1ec45990b72f.m3u?output=ts
 #EXTINF:-1 tvg-name="SİNEMA KOMEDİ 2" group-title="Sinema",SİNEMA KOMEDİ 2
 http://superiptv21.com/live/erayrende/ilttuta39/a4c160b5-0c65-450e-99f3-8d404968f237.m3u?output=ts
-#EXTINF:-1 tvg-name="beIN MOVIES STARS HD" group-title="Sinema",beIN MOVIES STARS HD
-http://umperisn.mywire.org/index.php?id=591391&token=DeaTHLesS
-#EXTINF:-1 tvg-name="beIN MOVIES FAMILY HD" group-title="Sinema",beIN MOVIES FAMILY HD
-http://umperisn.mywire.org/index.php?id=591397&token=DeaTHLesS
-#EXTINF:-1 tvg-name="beIN MOVIES TURK HD" group-title="Sinema",beIN MOVIES TURK HD
-http://umperisn.mywire.org/index.php?id=591389&token=DeaTHLesS
 #EXTINF:-1 tvg-name="beIN SERIES 1 HD" group-title="Dizi",beIN SERIES 1 HD
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471673&extension=ts&play_token=fDOWsHHnSf
 #EXTINF:-1 tvg-name="beIN SERIES 2 HD" group-title="Dizi",beIN SERIES 2 HD
