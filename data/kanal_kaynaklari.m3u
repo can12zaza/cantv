@@ -4,11 +4,11 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197438&ex
 #EXTINF:-1 tvg-name="TRT 1 HD" group-title="Ulusal",TRT 1 HD
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196699&extension=ts&play_token=vmAan78Qyz
 #EXTINF:-1 tvg-name="TRT 2 HD" group-title="Ulusal",TRT 2 HD
-https://sweet-truth-729d.han686314.workers.dev/?url=https://helga.iptv2022.com/sh/trt_2/index.m3u8
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196688&extension=ts&play_token=xSvgymKo8X
 #EXTINF:-1 tvg-name="ATV HD" group-title="Ulusal",ATV HD
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196698&extension=ts&play_token=6k77AngOgl
 #EXTINF:-1 tvg-name="BEYAZ TV HD" group-title="Ulusal",BEYAZ TV HD
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196691&extension=ts&play_token=8QiYAaqw7G
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196675&extension=ts&play_token=MB5iIE85Ro
 #EXTINF:-1 tvg-name="SHOW TV HD" group-title="Ulusal",SHOW TV HD
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196697&extension=ts&play_token=S05dySmbjf
 #EXTINF:-1 tvg-name="STAR TV HD" group-title="Ulusal",STAR TV HD
@@ -55,10 +55,8 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197259&ex
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197263&extension=ts&play_token=c53adoDCo6
 #EXTINF:-1 tvg-name="TV100 HD" group-title="Haber",TV100 HD
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197273&extension=ts&play_token=fIy9sX6ocp
-#EXTINF:-1 tvg-name="MECLIS TV" group-title="Haber",MECLIS TV
-https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 #EXTINF:-1 tvg-name="EKOTURK" group-title="Ekonomi",EKOTURK
-http://elit64.eu:2086/barisakin643564/kin643564/205520?output=ts
+http://superiptv21.com/live/erayrende/ilttuta39/2d69a9ce-a25a-4042-ae0b-9789f6f7a8f6.m3u?output=ts
 #EXTINF:-1 tvg-name="ULUSAL KANAL" group-title="Haber",ULUSAL KANAL
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197178&extension=ts&play_token=8qxzVqk0m2
 #EXTINF:-1 tvg-name="BENGUTURK" group-title="Haber",BENGUTURK
@@ -134,7 +132,7 @@ http://superiptv21.com/live/erayrende/ilttuta39/43318fc7-6304-4681-a79c-671eb975
 #EXTINF:-1 tvg-name="TRT MUZIK" group-title="Müzik",TRT MUZIK
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197363&extension=ts&play_token=bHBz9ZRpwX
 #EXTINF:-1 tvg-name="KRAL TV" group-title="Müzik",KRAL TV
-http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197360&extension=ts&play_token=06puQPiAQ5
 #EXTINF:-1 tvg-name="KRAL POP" group-title="Müzik",KRAL POP
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197361&extension=ts&play_token=88YQcnlyZu
 #EXTINF:-1 tvg-name="KRALPOP AKUSTIK" group-title="Müzik",KRALPOP AKUSTIK
@@ -174,15 +172,15 @@ http://superiptv21.com/live/erayrende/ilttuta39/d0bc8932-cd8a-40e8-9f50-afbf3129
 #EXTINF:-1 tvg-name="SİNEMA 1001" group-title="Sinema",SİNEMA 1001
 https://sharelink.anonimltc.workers.dev/g/phcwm9.m3u8
 #EXTINF:-1 tvg-name="SİNEMA 1002" group-title="Sinema",SİNEMA 1002
-http://45.138.173.72:8080/OERXRGdCUExrankyVkxTNitZY2tXN2djRWcrYTdOeVBJL2prb3NOMTloRG1QMXRMQXExUmRzWFBBSXpnNzhWWA?output=ts
+http://superiptv21.com/live/erayrende/ilttuta39/77296fca-f37f-4b64-9467-df7e8e8c7116.m3u?output=ts
 #EXTINF:-1 tvg-name="SİNEMA AKSİYON" group-title="Sinema",SİNEMA AKSİYON
 https://sharelink.anonimltc.workers.dev/g/tahkxy.m3u8
 #EXTINF:-1 tvg-name="SİNEMA AKSİYON 2 " group-title="Sinema",SİNEMA AKSİYON 2 
-http://45.138.173.72:8080/OERXRGdCUExrankyVkxTNitZY2tXKzhjaGRXRFIwMDBFOFVGNmQraStaVE9VR2dPTDVjdjF6OFI3YUMzTDduVA?output=ts
+http://superiptv21.com/live/erayrende/ilttuta39/a51c62e1-199f-4271-bd9c-d2d714204230.m3u?output=ts
 #EXTINF:-1 tvg-name="SİNEMA AİLE " group-title="Sinema",SİNEMA AİLE 
 https://sharelink.anonimltc.workers.dev/g/8m95e5.m3u8
 #EXTINF:-1 tvg-name="SİNEMA AİLE 2 " group-title="Sinema",SİNEMA AİLE 2 
-http://45.138.173.72:8080/OERXRGdCUExrankyVkxTNitZY2tXd3F3TUZrckN4WVFBUjRySC85WERUVG0rVkM3YlpzWmxYZWpQWENYdkVCZA?output=ts
+http://superiptv21.com/live/erayrende/ilttuta39/dd0008aa-5436-4fdd-b779-b69da6dfb6c7.m3u?output=ts
 #EXTINF:-1 tvg-name="SİNEMA KOMEDİ " group-title="Sinema",SİNEMA KOMEDİ 
 https://sharelink.anonimltc.workers.dev/g/hy364t.m3u8
 #EXTINF:-1 tvg-name="SİNEMA KOMEDİ 2" group-title="Sinema",SİNEMA KOMEDİ 2
@@ -191,7 +189,5 @@ http://superiptv21.com/live/erayrende/ilttuta39/a4c160b5-0c65-450e-99f3-8d404968
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471673&extension=ts&play_token=fDOWsHHnSf
 #EXTINF:-1 tvg-name="beIN SERIES 2 HD" group-title="Dizi",beIN SERIES 2 HD
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471674&extension=ts&play_token=5gfhIkzuQg
-#EXTINF:-1 tvg-name="beIN SERIES 3 HD" group-title="Dizi",beIN SERIES 3 HD
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471675&extension=ts&play_token=gzHjnGWvXz
 #EXTINF:-1 tvg-name="beIN SERIES 4 HD" group-title="Dizi",beIN SERIES 4 HD
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471676&extension=ts&play_token=x3dLMvs808
