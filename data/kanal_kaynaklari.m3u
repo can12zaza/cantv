@@ -92,7 +92,7 @@ http://superiptv21.com/live/erayrende/ilttuta39/dea5fad5-14b2-4cce-9f87-ab113953
 #EXTINF:-1 tvg-name="TGRT BELGESEL" group-title="Belgesel",TGRT BELGESEL
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8?md5=yJ4adbAK5bE0F93vqFevgw&expires=1687122603
 #EXTINF:-1 tvg-name="DOCUSCREEN " group-title="Belgesel",DOCUSCREEN 
-http://superiptv21.com/live/erayrende/ilttuta39/3a135a55-956e-499c-bad8-f8198f4fb287.m3u?output=ts
+http://superiptv21.com/live/erayrende/ilttuta39/324304a1-0293-4cda-ae6a-8fbed5ee2ebf.m3u?output=ts
 #EXTINF:-1 tvg-name="YABAN TV" group-title="Belgesel",YABAN TV
 http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=197439&extension=ts
 #EXTINF:-1 tvg-name="HABITAT TV" group-title="Belgesel",HABITAT TV
@@ -144,13 +144,11 @@ http://umperisn.mywire.org/index.php?id=595432&token=DeaTHLesS
 #EXTINF:-1 tvg-name="BEIN SPORTS 2" group-title="Spor",BEIN SPORTS 2
 http://umperisn.mywire.org/index.php?id=2206&token=DeaTHLesS
 #EXTINF:-1 tvg-name="BEIN SPORTS 3 HD" group-title="Spor",BEIN SPORTS 3 HD
-http://umperisn.mywire.org/index.php?id=2209&token=DeaTHLesS
+http://umperisn.mywire.org/index.php?id=2210&token=DeaTHLesS
 #EXTINF:-1 tvg-name="BEIN SPORTS 4" group-title="Spor",BEIN SPORTS 4
-https://avva.magnitude.workers.dev/?url=https://avvaupdate.com/bein4/index.m3u8?o=1%26e=1781703872%26tk=51d8cf311c0961e87873898f38494c8d
+http://umperisn.mywire.org/index.php?id=491884&token=DeaTHLesS
 #EXTINF:-1 tvg-name="BEIN SPORTS 5" group-title="Spor",BEIN SPORTS 5
-http://umperisn.mywire.org/index.php?id=423873&token=DeaTHLesS
-#EXTINF:-1 tvg-name="BEIN SPORTS MAX 2" group-title="Spor",BEIN SPORTS MAX 2
-http://umperisn.mywire.org/index.php?id=2217&token=DeaTHLesS
+https://purple-fog-7608.han686314.workers.dev/selcukbeinsports5.m3u8
 #EXTINF:-1 tvg-name="BEIN CONNECT 4" group-title="Spor / Eğlence",BEIN CONNECT 4
 http://superiptv21.com/live/erayrende/ilttuta39/feadd582-d282-48d2-9510-b12e5c4f01f1.m3u?output=ts
 #EXTINF:-1 tvg-name="BEIN CONNECT 5" group-title="Spor ",BEIN CONNECT 5
@@ -166,19 +164,19 @@ http://umperisn.mywire.org/index.php?id=591401&token=DeaTHLesS
 #EXTINF:-1 tvg-name="beIN MOVIES ACTION HD" group-title="Sinema",beIN MOVIES ACTION HD
 http://umperisn.mywire.org/index.php?id=591399&token=DeaTHLesS
 #EXTINF:-1 tvg-name="SİNEMA 1001" group-title="Sinema",SİNEMA 1001
-http://superiptv21.com/live/erayrende/ilttuta39/65e1ac06-d193-425b-8e6c-68543c4f82f2.m3u?output=ts
+https://sharelink.anonimltc.workers.dev/g/phcwm9.m3u8
 #EXTINF:-1 tvg-name="SİNEMA 1002" group-title="Sinema",SİNEMA 1002
 http://superiptv21.com/live/erayrende/ilttuta39/77296fca-f37f-4b64-9467-df7e8e8c7116.m3u?output=ts
 #EXTINF:-1 tvg-name="SİNEMA AKSİYON" group-title="Sinema",SİNEMA AKSİYON
-http://superiptv21.com/live/erayrende/ilttuta39/26b75dec-2cdf-430a-ad96-51f83fcf4aa6.m3u?output=ts
+https://sharelink.anonimltc.workers.dev/g/tahkxy.m3u8
 #EXTINF:-1 tvg-name="SİNEMA AKSİYON 2 " group-title="Sinema",SİNEMA AKSİYON 2 
 http://superiptv21.com/live/erayrende/ilttuta39/a51c62e1-199f-4271-bd9c-d2d714204230.m3u?output=ts
 #EXTINF:-1 tvg-name="SİNEMA AİLE " group-title="Sinema",SİNEMA AİLE 
-http://superiptv21.com/live/erayrende/ilttuta39/1e91357c-9f6b-4aa4-8551-2a1c60cd6df9.m3u?output=ts
+https://sharelink.anonimltc.workers.dev/g/8m95e5.m3u8
 #EXTINF:-1 tvg-name="SİNEMA AİLE 2 " group-title="Sinema",SİNEMA AİLE 2 
 http://superiptv21.com/live/erayrende/ilttuta39/dd0008aa-5436-4fdd-b779-b69da6dfb6c7.m3u?output=ts
 #EXTINF:-1 tvg-name="SİNEMA KOMEDİ " group-title="Sinema",SİNEMA KOMEDİ 
-http://superiptv21.com/live/erayrende/ilttuta39/b8b7176a-e659-4aa4-80d8-6220cb5a2ee6.m3u?output=ts
+https://sharelink.anonimltc.workers.dev/g/hy364t.m3u8
 #EXTINF:-1 tvg-name="SİNEMA KOMEDİ 2" group-title="Sinema",SİNEMA KOMEDİ 2
 http://superiptv21.com/live/erayrende/ilttuta39/a4c160b5-0c65-450e-99f3-8d404968f237.m3u?output=ts
 #EXTINF:-1 tvg-name="beIN MOVIES STARS HD" group-title="Sinema",beIN MOVIES STARS HD
