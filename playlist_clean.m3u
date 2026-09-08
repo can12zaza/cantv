@@ -10963,6 +10963,8 @@ https://corestream.siteyaptim.live/trt-spor/index.m3u8
 https://raw.githubusercontent.com/bnyusuf67-crypto/streams/refs/heads/main/streams/shturk.m3u8
 #EXTINF:-1 tvg-id="ATVAvrupa.tr@SD" group-title="U",ATV Avrupa (576p)
 https://flask-api-hls-atvavrupahdtrkvz-live.onrender.com/hls_stream/master.m3u8
+#EXTINF:-1 tvg-id="Ekoturk.tr@SD" group-title="U",Ekoturk (720p)
+https://cdn.ekoturk.net/hls/master.m3u8
 #EXTINF:-1 group-title="Dram" tvg-logo="https://image.tmdb.org/t/p/w500/2t9xi7rmYzvd5P7kPg0wWHNqOfp.jpg", Gizemli Kadın (2026) ⭐ 6.32
 https://vidmody.com/vs/tt37275992
 #EXTINF:-1 group-title="Dram" tvg-logo="https://image.tmdb.org/t/p/w500/a25CyXmPJx6SrVFA9yirJTL9iAH.jpg", Barreda (2026) ⭐ 7.022
