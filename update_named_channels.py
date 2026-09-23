@@ -1,18 +1,28 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+
 """
-update_named_channels.py
+CAN TV - Named Channel Updater
 
 Amaç:
 - data/kanal_listesi.json içindeki sabit kanal isimlerini korur.
+- categories şeklindeki JSON yapısını destekler:
+    {
+        "Ulusal": ["TRT 1", "ATV"],
+        "Haber": ["TRT HABER", "NTV"]
+    }
 - sources.txt içindeki M3U kaynaklarını indirir.
-- Kaynaklardaki kanal adlarını sabit isimlerle eşleştirir.
+- Kaynaklardaki kanal adlarını sabit kanal isimleriyle eşleştirir.
 - Eşleşen URL'yi HTTP olarak kontrol eder.
 - Çalışan adayları data/kanal_kaynaklari.m3u dosyasına yazar.
-- Böylece ana playlist üreticisine eklenebilecek ayrı bir "kanal katmanı" oluşur.
+- data/kanal_raporu.json raporunu oluşturur.
+- Aynı kanal için birden fazla çalışan kaynak varsa kalite puanı
+  yüksek olanı öncelikli olarak seçer.
 
-Bu script internette rastgele yayın URL'si keşfetmez ve URL uydurmaz.
-Yalnızca sources.txt içinde zaten tanımlı kaynakları kullanır.
+ÖNEMLİ:
+Bu script internette rastgele yayın URL'si keşfetmez.
+URL uydurmaz.
+Yalnızca sources.txt içinde tanımlı kaynakları kullanır.
 """
 
 import re
@@ -26,186 +36,827 @@ try:
 except ImportError:
     requests = None
 
+
+# ============================================================
+# DOSYA YOLLARI
+# ============================================================
+
 ROOT = Path(__file__).resolve().parent
 DATA = ROOT / "data"
+
 CHANNELS_FILE = DATA / "kanal_listesi.json"
 SOURCES_FILE = ROOT / "sources.txt"
+
 OUT_FILE = DATA / "kanal_kaynaklari.m3u"
 REPORT_FILE = DATA / "kanal_raporu.json"
 
+
+# ============================================================
+# AYARLAR
+# ============================================================
+
 TIMEOUT = 12
-UA = "Mozilla/5.0 (compatible; CAN-TV-Channel-Matcher/1.0)"
+
+UA = "Mozilla/5.0 (compatible; CAN-TV-Channel-Matcher/2.0)"
+
+
+# ============================================================
+# METİN NORMALİZASYONU
+# ============================================================
 
 def norm(text):
+    """
+    Kanal isimlerini karşılaştırma için normalize eder.
+    """
+
     s = (text or "").upper()
-    s = s.replace("İ", "I").replace("Ş", "S").replace("Ğ", "G")
-    s = s.replace("Ü", "U").replace("Ö", "O").replace("Ç", "C")
-    s = re.sub(r'[\[\]\(\)\{\}]', ' ', s)
-    s = re.sub(r'\b(FHD|UHD|HD|SD|4K|HEVC|H265|H264)\b', ' ', s)
-    s = re.sub(r'[^A-Z0-9]+', ' ', s)
-    return re.sub(r'\s+', ' ', s).strip()
+
+    # Türkçe karakterler
+    s = s.replace("İ", "I")
+    s = s.replace("Ş", "S")
+    s = s.replace("Ğ", "G")
+    s = s.replace("Ü", "U")
+    s = s.replace("Ö", "O")
+    s = s.replace("Ç", "C")
+
+    # Parantez vb.
+    s = re.sub(r"[\[\]\(\)\{\}]", " ", s)
+
+    # Yayın kalite ifadelerini kaldır
+    s = re.sub(
+        r"\b(FHD|UHD|HD|SD|4K|HEVC|H265|H264)\b",
+        " ",
+        s
+    )
+
+    # Harf/rakam dışındakileri boşluk yap
+    s = re.sub(r"[^A-Z0-9]+", " ", s)
+
+    # Fazla boşlukları temizle
+    return re.sub(r"\s+", " ", s).strip()
+
+
+# ============================================================
+# KANAL ALIASLARI
+# ============================================================
 
 ALIASES = {
-    norm("TV 8"): {norm("TV8"), norm("TV 8")},
-    norm("TV 8.5"): {norm("TV8.5"), norm("TV 8.5"), norm("TV8 5")},
-    norm("HABER TÜRK"): {norm("HABERTURK"), norm("HABER TURK"), norm("HABER TÜRK")},
-    norm("NATIONAL GEOGRAPHIC"): {norm("NAT GEO"), norm("NATIONAL GEOGRAPHIC"), norm("NAT GEO HD")},
-    norm("NAT WILD"): {norm("NAT WILD"), norm("NATIONAL WILD")},
-    norm("DISCOVERY ID"): {norm("DISCOVERY ID"), norm("ID DISCOVERY")},
-    norm("NR1"): {norm("NR1"), norm("NR1 TV")},
-    norm("NR1 TÜRK"): {norm("NR1 TURK"), norm("NR1 TÜRK")},
-    norm("DREAM TURK"): {norm("DREAM TURK"), norm("DREAM TÜRK")},
-    norm("TRT MUZIK"): {norm("TRT MUZIK"), norm("TRT MÜZIK"), norm("TRT MÜZİK")},
+    norm("TV 8"): {
+        norm("TV8"),
+        norm("TV 8"),
+    },
+
+    norm("TV 8.5"): {
+        norm("TV8.5"),
+        norm("TV 8.5"),
+        norm("TV8 5"),
+    },
+
+    norm("HABER TÜRK"): {
+        norm("HABERTURK"),
+        norm("HABER TURK"),
+        norm("HABER TÜRK"),
+    },
+
+    norm("NATIONAL GEOGRAPHIC"): {
+        norm("NAT GEO"),
+        norm("NATIONAL GEOGRAPHIC"),
+        norm("NAT GEO HD"),
+    },
+
+    norm("NATIONAL GEOGRAPHIC WILD"): {
+        norm("NAT GEO WILD"),
+        norm("NATIONAL GEOGRAPHIC WILD"),
+        norm("NATIONAL WILD"),
+        norm("NAT WILD"),
+    },
+
+    norm("DISCOVERY ID"): {
+        norm("DISCOVERY ID"),
+        norm("ID DISCOVERY"),
+    },
+
+    norm("NR1"): {
+        norm("NR1"),
+        norm("NR1 TV"),
+        norm("NUMBER1"),
+        norm("NUMBER 1"),
+    },
+
+    norm("NR1 TÜRK"): {
+        norm("NR1 TURK"),
+        norm("NR1 TÜRK"),
+        norm("NUMBER1 TÜRK"),
+        norm("NUMBER 1 TÜRK"),
+    },
+
+    norm("DREAM TÜRK"): {
+        norm("DREAM TURK"),
+        norm("DREAM TÜRK"),
+    },
+
+    norm("TRT MÜZİK"): {
+        norm("TRT MUZIK"),
+        norm("TRT MÜZIK"),
+        norm("TRT MÜZİK"),
+    },
+
+    norm("TRT DİYANET"): {
+        norm("TRT DIYANET"),
+        norm("TRT DİYANET"),
+    },
+
+    norm("TRT DİYANET ÇOCUK"): {
+        norm("TRT DIYANET COCUK"),
+        norm("TRT DİYANET ÇOCUK"),
+    },
+
+    norm("BENGÜTÜRK"): {
+        norm("BENGUTURK"),
+        norm("BENGÜTÜRK"),
+    },
+
+    norm("BLOOMBERG HT"): {
+        norm("BLOOMBERGHT"),
+        norm("BLOOMBERG HT"),
+    },
+
+    norm("EKOTÜRK"): {
+        norm("EKOTURK"),
+        norm("EKOTÜRK"),
+    },
+
+    norm("LIFETIME"): {
+        norm("LIFE TIME"),
+        norm("LIFETIME"),
+    },
+
+    norm("KRAL FM"): {
+        norm("KRAL FM"),
+        norm("KIRAL FM"),
+    },
+
+    norm("KRAL POP"): {
+        norm("KRAL POP"),
+        norm("KIRAL POP"),
+    },
 }
 
+
+# ============================================================
+# SOURCES.TXT OKU
+# ============================================================
+
 def read_sources():
+    """
+    sources.txt içindeki URL'leri okur.
+    """
+
     if not SOURCES_FILE.exists():
+        print(f"[HATA] sources.txt bulunamadı: {SOURCES_FILE}")
         return []
-    return [
-        x.strip() for x in SOURCES_FILE.read_text(encoding="utf-8", errors="ignore").splitlines()
-        if x.strip() and not x.lstrip().startswith("#")
-    ]
+
+    sources = []
+
+    for line in SOURCES_FILE.read_text(
+        encoding="utf-8",
+        errors="ignore"
+    ).splitlines():
+
+        line = line.strip()
+
+        if not line:
+            continue
+
+        if line.startswith("#"):
+            continue
+
+        sources.append(line)
+
+    return sources
+
+
+# ============================================================
+# KAYNAK İNDİR
+# ============================================================
 
 def fetch(url):
+    """
+    M3U kaynağını indirir.
+    """
+
     if requests:
-        r = requests.get(url, timeout=TIMEOUT, headers={"User-Agent": UA})
-        r.raise_for_status()
-        return r.text
-    req = Request(url, headers={"User-Agent": UA})
-    with urlopen(req, timeout=TIMEOUT) as r:
-        return r.read().decode("utf-8", errors="ignore")
+        response = requests.get(
+            url,
+            timeout=TIMEOUT,
+            headers={"User-Agent": UA},
+        )
+
+        response.raise_for_status()
+
+        return response.text
+
+    request = Request(
+        url,
+        headers={"User-Agent": UA}
+    )
+
+    with urlopen(request, timeout=TIMEOUT) as response:
+        return response.read().decode(
+            "utf-8",
+            errors="ignore"
+        )
+
+
+# ============================================================
+# M3U PARSE
+# ============================================================
 
 def parse_m3u(text, source):
+    """
+    M3U içinden:
+
+    display
+    url
+    EXTINF
+    source
+
+    bilgilerini çıkarır.
+    """
+
     lines = text.splitlines()
+
     result = []
+
     i = 0
+
     while i < len(lines):
-        if lines[i].startswith("#EXTINF"):
-            ext = lines[i]
+
+        line = lines[i].strip()
+
+        if line.startswith("#EXTINF"):
+
+            ext = line
+
             url = ""
+
             j = i + 1
+
+            # Boş satırları geç
             while j < len(lines) and not lines[j].strip():
                 j += 1
-            if j < len(lines) and not lines[j].startswith("#"):
+
+            # URL satırı
+            if (
+                j < len(lines)
+                and not lines[j].strip().startswith("#")
+            ):
                 url = lines[j].strip()
+
             if url:
-                m = ext.split(",", 1)
-                display = m[1].strip() if len(m) == 2 else "KANAL"
-                result.append((display, url, ext, source))
+
+                parts = ext.split(",", 1)
+
+                if len(parts) == 2:
+                    display = parts[1].strip()
+                else:
+                    display = "KANAL"
+
+                result.append(
+                    (
+                        display,
+                        url,
+                        ext,
+                        source
+                    )
+                )
+
             i = j + 1
+
         else:
             i += 1
+
     return result
 
+
+# ============================================================
+# KANAL EŞLEŞTİRME
+# ============================================================
+
 def channel_match(target, candidate):
-    a, b = norm(target), norm(candidate)
+    """
+    Sabit kanal adı ile kaynak kanal adını karşılaştırır.
+    """
+
+    a = norm(target)
+    b = norm(candidate)
+
     if not a or not b:
         return False
-    if b == a:
+
+    # Tam eşleşme
+    if a == b:
         return True
-    if b in ALIASES.get(a, set()) or a in ALIASES.get(b, set()):
+
+    # Alias eşleşmesi
+    if b in ALIASES.get(a, set()):
         return True
-    # Exact token sequence after removing quality suffixes.
-    if re.sub(r'\s+', '', a) == re.sub(r'\s+', '', b):
+
+    if a in ALIASES.get(b, set()):
         return True
+
+    # Boşluksuz eşleşme
+    a_compact = re.sub(r"\s+", "", a)
+    b_compact = re.sub(r"\s+", "", b)
+
+    if a_compact == b_compact:
+        return True
+
     return False
 
+
+# ============================================================
+# YAYIN KONTROLÜ
+# ============================================================
+
 def check_stream(url):
+    """
+    URL'nin HTTP olarak cevap verip vermediğini kontrol eder.
+    """
+
     try:
-        if not urlparse(url).scheme in ("http", "https"):
+
+        parsed = urlparse(url)
+
+        if parsed.scheme not in ("http", "https"):
             return False, "unsupported-scheme"
+
         if requests:
-            r = requests.get(
-                url, timeout=TIMEOUT, headers={"User-Agent": UA},
-                stream=True, allow_redirects=True
+
+            response = requests.get(
+                url,
+                timeout=TIMEOUT,
+                headers={"User-Agent": UA},
+                stream=True,
+                allow_redirects=True,
             )
-            ok = 200 <= r.status_code < 400
-            r.close()
-            return ok, f"http-{r.status_code}"
-        req = Request(url, headers={"User-Agent": UA})
-        with urlopen(req, timeout=TIMEOUT) as r:
-            return 200 <= getattr(r, "status", 200) < 400, f"http-{getattr(r, 'status', 200)}"
+
+            status = response.status_code
+
+            ok = 200 <= status < 400
+
+            response.close()
+
+            return ok, f"http-{status}"
+
+        request = Request(
+            url,
+            headers={"User-Agent": UA}
+        )
+
+        with urlopen(
+            request,
+            timeout=TIMEOUT
+        ) as response:
+
+            status = getattr(
+                response,
+                "status",
+                200
+            )
+
+            return (
+                200 <= status < 400,
+                f"http-{status}"
+            )
+
     except Exception as e:
+
         return False, type(e).__name__
 
+
+# ============================================================
+# KALİTE PUANI
+# ============================================================
+
 def quality_score(text):
+    """
+    Kanal isminden yayın kalitesi puanı çıkarır.
+
+    4K / UHD = 4
+    FHD      = 3
+    HD       = 2
+    SD       = 1
+    Diğer    = 0
+    """
+
     u = (text or "").upper()
-    if "4K" in u: return 4
-    if "UHD" in u: return 4
-    if "FHD" in u or "FULL HD" in u: return 3
-    if "HD" in u: return 2
-    if "SD" in u: return 1
+
+    if "4K" in u:
+        return 4
+
+    if "UHD" in u:
+        return 4
+
+    if "FHD" in u or "FULL HD" in u:
+        return 3
+
+    if "HD" in u:
+        return 2
+
+    if "SD" in u:
+        return 1
+
     return 0
 
+
+# ============================================================
+# MAIN
+# ============================================================
+
 def main():
-    channels = json.loads(CHANNELS_FILE.read_text(encoding="utf-8"))
+
+    # --------------------------------------------------------
+    # KANAL LİSTESİNİ OKU
+    # --------------------------------------------------------
+
+    if not CHANNELS_FILE.exists():
+
+        print(
+            f"[HATA] Kanal listesi bulunamadı: "
+            f"{CHANNELS_FILE}"
+        )
+
+        return 1
+
+    try:
+
+        channels = json.loads(
+            CHANNELS_FILE.read_text(
+                encoding="utf-8"
+            )
+        )
+
+    except Exception as e:
+
+        print(
+            f"[HATA] kanal_listesi.json okunamadı: {e}"
+        )
+
+        return 1
+
+    # JSON yapısının dictionary olması gerekiyor
+    if not isinstance(channels, dict):
+
+        print(
+            "[HATA] kanal_listesi.json yapısı hatalı."
+        )
+
+        print(
+            "Beklenen yapı: "
+            '{"Ulusal": ["TRT 1", "ATV"]}'
+        )
+
+        return 1
+
+    # --------------------------------------------------------
+    # KAYNAKLARI OKU
+    # --------------------------------------------------------
+
     sources = read_sources()
 
-    candidates = []
-    source_errors = []
-    for src in sources:
-        try:
-            text = fetch(src)
-            candidates.extend(parse_m3u(text, src))
-            print(f"[OK] kaynak: {src}")
-        except Exception as e:
-            source_errors.append({"source": src, "error": str(e)})
-            print(f"[HATA] kaynak: {src} -> {e}")
+    if not sources:
 
-    out = ["#EXTM3U"]
+        print(
+            "[HATA] sources.txt içinde kaynak bulunamadı."
+        )
+
+        return 1
+
+    # --------------------------------------------------------
+    # KAYNAKLARDAN KANALLARI TOPLA
+    # --------------------------------------------------------
+
+    candidates = []
+
+    source_errors = []
+
+    for src in sources:
+
+        try:
+
+            text = fetch(src)
+
+            parsed = parse_m3u(
+                text,
+                src
+            )
+
+            candidates.extend(parsed)
+
+            print(
+                f"[OK] kaynak: {src}"
+            )
+
+            print(
+                f"     bulunan kayıt: {len(parsed)}"
+            )
+
+        except Exception as e:
+
+            source_errors.append(
+                {
+                    "source": src,
+                    "error": str(e),
+                }
+            )
+
+            print(
+                f"[HATA] kaynak: {src} -> {e}"
+            )
+
+    # --------------------------------------------------------
+    # TOPLAM GERÇEK KANAL SAYISI
+    # --------------------------------------------------------
+
+    total_channels = 0
+
+    for category, channel_names in channels.items():
+
+        if isinstance(channel_names, list):
+
+            total_channels += len(channel_names)
+
+    # --------------------------------------------------------
+    # ÇIKTI VE RAPOR
+    # --------------------------------------------------------
+
+    out = [
+        "#EXTM3U"
+    ]
+
     report = {
-        "total_channels": len(channels),
+
+        "total_channels": total_channels,
+
         "matched": 0,
+
         "not_found": 0,
+
         "source_errors": source_errors,
+
         "channels": []
     }
 
-    for ch in channels:
-        name = ch["name"]
-        category = ch["category"]
-        matches = [x for x in candidates if channel_match(name, x[0])]
-        # Önce daha yüksek kaliteyi dene, sonra diğer adayları.
-        matches.sort(key=lambda x: quality_score(x[0]), reverse=True)
+    # --------------------------------------------------------
+    # KANALLARI KATEGORİ KATEGORİ İŞLE
+    # --------------------------------------------------------
 
-        chosen = None
-        attempts = []
-        for display, url, ext, source in matches:
-            ok, reason = check_stream(url)
-            attempts.append({"url": url, "source": source, "ok": ok, "reason": reason})
-            if ok:
-                chosen = (display, url, ext, source)
-                break
+    for category, channel_names in channels.items():
 
-        if chosen:
-            display, url, ext, source = chosen
-            # Kaynaktaki metadata yerine bizim sabit kanal adımızı ve kategorimizi kullan.
-            out.append(f'#EXTINF:-1 tvg-name="{name}" group-title="{category}",{name}')
-            out.append(url)
-            report["matched"] += 1
-            report["channels"].append({
-                "name": name, "category": category, "status": "working",
-                "url": url, "source": source, "attempts": attempts
-            })
-            print(f"[ÇALIŞIYOR] {name} <- {url}")
-        else:
-            report["not_found"] += 1
-            report["channels"].append({
-                "name": name, "category": category, "status": "not_found",
-                "attempts": attempts
-            })
-            print(f"[BULUNAMADI] {name}")
+        # Güvenlik kontrolü
+        if not isinstance(
+            channel_names,
+            list
+        ):
+            continue
 
-    OUT_FILE.write_text("\n".join(out) + "\n", encoding="utf-8")
-    REPORT_FILE.write_text(
-        json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8"
+        print()
+        print(
+            f"========== {category} =========="
+        )
+
+        for name in channel_names:
+
+            # Kanal adı string değilse atla
+            if not isinstance(name, str):
+                continue
+
+            name = name.strip()
+
+            if not name:
+                continue
+
+            # ------------------------------------------------
+            # AD EŞLEŞMELERİNİ BUL
+            # ------------------------------------------------
+
+            matches = [
+                x
+                for x in candidates
+                if channel_match(
+                    name,
+                    x[0]
+                )
+            ]
+
+            # ------------------------------------------------
+            # KALİTEYE GÖRE SIRALA
+            # ------------------------------------------------
+
+            matches.sort(
+                key=lambda x: quality_score(x[0]),
+                reverse=True
+            )
+
+            # ------------------------------------------------
+            # ÇALIŞAN KAYNAK BUL
+            # ------------------------------------------------
+
+            chosen = None
+
+            attempts = []
+
+            for (
+                display,
+                url,
+                ext,
+                source
+            ) in matches:
+
+                ok, reason = check_stream(
+                    url
+                )
+
+                attempts.append(
+                    {
+                        "url": url,
+                        "source": source,
+                        "ok": ok,
+                        "reason": reason,
+                        "display": display,
+                        "quality": quality_score(
+                            display
+                        ),
+                    }
+                )
+
+                if ok:
+
+                    chosen = (
+                        display,
+                        url,
+                        ext,
+                        source
+                    )
+
+                    break
+
+            # ------------------------------------------------
+            # ÇALIŞAN KAYNAK BULUNDU
+            # ------------------------------------------------
+
+            if chosen:
+
+                (
+                    display,
+                    url,
+                    ext,
+                    source
+                ) = chosen
+
+                # Kaynaktaki ismi kullanma.
+                # Bizim sabit kanal ismimizi kullan.
+                out.append(
+                    f'#EXTINF:-1 '
+                    f'tvg-name="{name}" '
+                    f'group-title="{category}",'
+                    f'{name}'
+                )
+
+                out.append(url)
+
+                report["matched"] += 1
+
+                report["channels"].append(
+                    {
+                        "name": name,
+                        "category": category,
+                        "status": "working",
+                        "url": url,
+                        "source": source,
+                        "matched_display": display,
+                        "quality": quality_score(
+                            display
+                        ),
+                        "attempts": attempts,
+                    }
+                )
+
+                print(
+                    f"[ÇALIŞIYOR] "
+                    f"{name} <- {url}"
+                )
+
+            # ------------------------------------------------
+            # KAYNAK BULUNAMADI
+            # ------------------------------------------------
+
+            else:
+
+                report["not_found"] += 1
+
+                report["channels"].append(
+                    {
+                        "name": name,
+                        "category": category,
+                        "status": "not_found",
+                        "attempts": attempts,
+                    }
+                )
+
+                if matches:
+
+                    print(
+                        f"[BULUNDU AMA ÇALIŞMIYOR] "
+                        f"{name}"
+                    )
+
+                else:
+
+                    print(
+                        f"[BULUNAMADI] "
+                        f"{name}"
+                    )
+
+    # --------------------------------------------------------
+    # ÇIKTI KLASÖRÜNÜ GARANTİ ET
+    # --------------------------------------------------------
+
+    DATA.mkdir(
+        parents=True,
+        exist_ok=True
     )
 
+    # --------------------------------------------------------
+    # M3U DOSYASINI YAZ
+    # --------------------------------------------------------
+
+    OUT_FILE.write_text(
+        "\n".join(out) + "\n",
+        encoding="utf-8"
+    )
+
+    # --------------------------------------------------------
+    # RAPORU YAZ
+    # --------------------------------------------------------
+
+    REPORT_FILE.write_text(
+        json.dumps(
+            report,
+            ensure_ascii=False,
+            indent=2
+        ),
+        encoding="utf-8"
+    )
+
+    # --------------------------------------------------------
+    # SONUÇ
+    # --------------------------------------------------------
+
     print()
-    print(f"Toplam : {report['total_channels']}")
-    print(f"Eşleşen/çalışan : {report['matched']}")
-    print(f"Bulunamayan : {report['not_found']}")
-    print(f"Çıktı : {OUT_FILE}")
+    print("=" * 60)
+    print("CAN TV - Named Channel Updater")
+    print("=" * 60)
+
+    print(
+        f"Toplam kanal       : "
+        f"{report['total_channels']}"
+    )
+
+    print(
+        f"Eşleşen / çalışan  : "
+        f"{report['matched']}"
+    )
+
+    print(
+        f"Bulunamayan        : "
+        f"{report['not_found']}"
+    )
+
+    print(
+        f"Kaynak hatası      : "
+        f"{len(report['source_errors'])}"
+    )
+
+    print(
+        f"Çıktı              : "
+        f"{OUT_FILE}"
+    )
+
+    print(
+        f"Rapor              : "
+        f"{REPORT_FILE}"
+    )
+
+    print("=" * 60)
+
+    return 0
+
+
+# ============================================================
+# PROGRAM BAŞLANGICI
+# ============================================================
 
 if __name__ == "__main__":
-    main()
+    raise SystemExit(main())
