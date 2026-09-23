@@ -98,7 +98,7 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=18631&exten
 #EXTINF:-1 tvg-name="BEIN SPORTS 1" group-title="Spor",BEIN SPORTS 1
 http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=988852&extension=ts
 #EXTINF:-1 tvg-name="BEIN SPORTS 2" group-title="Spor",BEIN SPORTS 2
-http://umperisn.mywire.org/index.php?id=2207&token=DeaTHLesS
+http://umperisn.mywire.org/index.php?id=2206&token=DeaTHLesS
 #EXTINF:-1 tvg-name="BEIN SPORTS 3" group-title="Spor",BEIN SPORTS 3
 http://umperisn.mywire.org/index.php?id=2210&token=DeaTHLesS
 #EXTINF:-1 tvg-name="BEIN SPORTS 4" group-title="Spor",BEIN SPORTS 4
@@ -107,6 +107,8 @@ http://umperisn.mywire.org/index.php?id=2213&token=DeaTHLesS
 http://umperisn.mywire.org/index.php?id=423873&token=DeaTHLesS
 #EXTINF:-1 tvg-name="BEIN SPORTS MAX 2" group-title="Spor",BEIN SPORTS MAX 2
 http://umperisn.mywire.org/index.php?id=2217&token=DeaTHLesS
+#EXTINF:-1 tvg-name="BEIN SPORTS HABER" group-title="Spor",BEIN SPORTS HABER
+http://umperisn.mywire.org/index.php?id=2194&token=DeaTHLesS
 #EXTINF:-1 tvg-name="FB TV" group-title="Spor",FB TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT MÜZİK" group-title="Müzik",TRT MÜZİK

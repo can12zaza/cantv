@@ -1,7 +1,7 @@
 {
   "total_channels": 190,
-  "matched": 142,
-  "not_found": 48,
+  "matched": 143,
+  "not_found": 47,
   "source_errors": [],
   "channels": [
     {
@@ -1143,13 +1143,21 @@
       "name": "BEIN SPORTS 2",
       "category": "Spor",
       "status": "working",
-      "url": "http://umperisn.mywire.org/index.php?id=2207&token=DeaTHLesS",
+      "url": "http://umperisn.mywire.org/index.php?id=2206&token=DeaTHLesS",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
       "matched_display": "BEIN SPORTS 2",
       "quality": 0,
       "attempts": [
         {
           "url": "http://umperisn.mywire.org/index.php?id=2207&token=DeaTHLesS",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
+          "ok": false,
+          "reason": "http-403",
+          "display": "BEIN SPORTS 2",
+          "quality": 0
+        },
+        {
+          "url": "http://umperisn.mywire.org/index.php?id=2206&token=DeaTHLesS",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
           "ok": true,
           "reason": "http-200",
@@ -1251,69 +1259,17 @@
     {
       "name": "BEIN SPORTS HABER",
       "category": "Spor",
-      "status": "not_found",
+      "status": "working",
+      "url": "http://umperisn.mywire.org/index.php?id=2194&token=DeaTHLesS",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
+      "matched_display": "BEIN SPORTS HABER",
+      "quality": 0,
       "attempts": [
         {
           "url": "http://umperisn.mywire.org/index.php?id=2194&token=DeaTHLesS",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-          "ok": false,
-          "reason": "http-403",
-          "display": "BEIN SPORTS HABER",
-          "quality": 0
-        },
-        {
-          "url": "http://umperisn.mywire.org/index.php?id=620421&token=DeaTHLesS",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-          "ok": false,
-          "reason": "http-403",
-          "display": "BEIN SPORTS HABER",
-          "quality": 0
-        },
-        {
-          "url": "http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/76",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-          "ok": false,
-          "reason": "ConnectTimeout",
-          "display": "beIN SPORTS HABER",
-          "quality": 0
-        },
-        {
-          "url": "http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/76",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-          "ok": false,
-          "reason": "ConnectTimeout",
-          "display": "BEIN SPORTS HABER",
-          "quality": 0
-        },
-        {
-          "url": "https://square-leaf-d613.panorea1000.workers.dev/?xml=ch751",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-          "ok": false,
-          "reason": "ReadTimeout",
-          "display": "BEIN SPORTS HABER",
-          "quality": 0
-        },
-        {
-          "url": "http://ruzgarplayer.site:8080/mesut@1903/QCPQ20S55x/418439?output=ts",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-          "ok": false,
-          "reason": "http-401",
-          "display": "BEIN SPORTS HABER",
-          "quality": 0
-        },
-        {
-          "url": "http://ruzgarplayer.site:8080/mesut@1903/QCPQ20S55x/418440?output=ts",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-          "ok": false,
-          "reason": "http-401",
-          "display": "BEIN SPORTS HABER",
-          "quality": 0
-        },
-        {
-          "url": "http://ruzgarplayer.site:8080/mesut@1903/QCPQ20S55x/417137?output=ts",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-          "ok": false,
-          "reason": "http-401",
+          "ok": true,
+          "reason": "http-200",
           "display": "BEIN SPORTS HABER",
           "quality": 0
         }
