@@ -1,15 +1,15 @@
 {
   "total_channels": 190,
-  "matched": 141,
-  "not_found": 49,
+  "matched": 134,
+  "not_found": 56,
   "source_errors": [],
   "channels": [
     {
       "name": "TRT 4K",
       "category": "Ulusal",
       "status": "working",
-      "url": "http://umperisn.mywire.org/index.php?id=1841&token=DeaTHLesS",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
+      "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197438&extension=ts&play_token=zkjkoH1DCe",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "matched_display": "TRT",
       "quality": 0,
       "attempts": [
@@ -24,22 +24,6 @@
         {
           "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197438&extension=ts&play_token=zkjkoH1DCe",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "ConnectionError",
-          "display": "TRT",
-          "quality": 0
-        },
-        {
-          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197438&extension=ts&play_token=zkjkoH1DCe",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "ConnectionError",
-          "display": "TRT",
-          "quality": 0
-        },
-        {
-          "url": "http://umperisn.mywire.org/index.php?id=1841&token=DeaTHLesS",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
           "ok": true,
           "reason": "http-200",
           "display": "TRT",
@@ -260,21 +244,13 @@
       "name": "A2",
       "category": "Ulusal",
       "status": "working",
-      "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196671&extension=ts&play_token=9oLEqeVHKo",
+      "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196687&extension=ts&play_token=DGJnc2zcvx",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "matched_display": "A2",
       "quality": 0,
       "attempts": [
         {
           "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196687&extension=ts&play_token=DGJnc2zcvx",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-502",
-          "display": "A2",
-          "quality": 0
-        },
-        {
-          "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196671&extension=ts&play_token=9oLEqeVHKo",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
@@ -287,29 +263,13 @@
       "name": "360",
       "category": "Ulusal",
       "status": "working",
-      "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196702&extension=ts&play_token=iAHsflTbYZ",
+      "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196686&extension=ts&play_token=bNDysiy4vA",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "matched_display": "360",
       "quality": 0,
       "attempts": [
         {
           "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196686&extension=ts&play_token=bNDysiy4vA",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "ConnectionError",
-          "display": "360",
-          "quality": 0
-        },
-        {
-          "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196670&extension=ts&play_token=GXnCN0D780",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "ReadTimeout",
-          "display": "360",
-          "quality": 0
-        },
-        {
-          "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196702&extension=ts&play_token=iAHsflTbYZ",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
@@ -360,25 +320,17 @@
       "name": "BENGÜTÜRK",
       "category": "Ulusal",
       "status": "working",
-      "url": "https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8",
+      "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197227&extension=ts&play_token=BIkfp6yMim",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "BENGü TüRK",
+      "matched_display": "BENGÜ TÜRK",
       "quality": 0,
       "attempts": [
         {
           "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197227&extension=ts&play_token=BIkfp6yMim",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-502",
-          "display": "BENGÜ TÜRK",
-          "quality": 0
-        },
-        {
-          "url": "https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
-          "display": "BENGü TüRK",
+          "display": "BENGÜ TÜRK",
           "quality": 0
         }
       ]
@@ -406,21 +358,13 @@
       "name": "TRT HABER",
       "category": "Haber",
       "status": "working",
-      "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197249&extension=ts&play_token=qj1ZGcBagQ",
+      "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197262&extension=ts&play_token=VItI33IyP6",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "matched_display": "TRT HABER",
       "quality": 0,
       "attempts": [
         {
           "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197262&extension=ts&play_token=VItI33IyP6",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-502",
-          "display": "TRT HABER",
-          "quality": 0
-        },
-        {
-          "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197249&extension=ts&play_token=qj1ZGcBagQ",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
@@ -433,29 +377,13 @@
       "name": "HABER GLOBAL",
       "category": "Haber",
       "status": "working",
-      "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197294&extension=ts&play_token=jUY2fYSa3k",
+      "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197268&extension=ts&play_token=tGkC8erhpz",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "matched_display": "HABER GLOBAL",
       "quality": 0,
       "attempts": [
         {
           "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197268&extension=ts&play_token=tGkC8erhpz",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-502",
-          "display": "HABER GLOBAL",
-          "quality": 0
-        },
-        {
-          "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197244&extension=ts&play_token=om2rV48Tfv",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-502",
-          "display": "HABER GLOBAL",
-          "quality": 0
-        },
-        {
-          "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197294&extension=ts&play_token=jUY2fYSa3k",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
@@ -468,21 +396,13 @@
       "name": "CNN TÜRK",
       "category": "Haber",
       "status": "working",
-      "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197253&extension=ts&play_token=2Ocs1xojEE",
+      "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197260&extension=ts&play_token=UJ6cx8th1N",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "matched_display": "CNN TÜRK",
       "quality": 0,
       "attempts": [
         {
           "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197260&extension=ts&play_token=UJ6cx8th1N",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-502",
-          "display": "CNN TÜRK",
-          "quality": 0
-        },
-        {
-          "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197253&extension=ts&play_token=2Ocs1xojEE",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
@@ -722,17 +642,13 @@
     {
       "name": "CNN INTERNATIONAL",
       "category": "Haber",
-      "status": "working",
-      "url": "http://elit64.eu:2086/habibabikomsu/auCxPqcin4/205508?output=ts",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-      "matched_display": "CNN INTERNATIONAL",
-      "quality": 0,
+      "status": "not_found",
       "attempts": [
         {
           "url": "http://elit64.eu:2086/habibabikomsu/auCxPqcin4/205508?output=ts",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-          "ok": true,
-          "reason": "http-200",
+          "ok": false,
+          "reason": "http-458",
           "display": "CNN INTERNATIONAL",
           "quality": 0
         }
@@ -741,17 +657,13 @@
     {
       "name": "BBC WORLD NEWS",
       "category": "Haber",
-      "status": "working",
-      "url": "http://elit64.eu:2086/habibabikomsu/auCxPqcin4/205509?output=ts",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-      "matched_display": "BBC WORLD NEWS",
-      "quality": 0,
+      "status": "not_found",
       "attempts": [
         {
           "url": "http://elit64.eu:2086/habibabikomsu/auCxPqcin4/205509?output=ts",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-          "ok": true,
-          "reason": "http-200",
+          "ok": false,
+          "reason": "http-458",
           "display": "BBC WORLD NEWS",
           "quality": 0
         }
@@ -855,7 +767,7 @@
       "name": "TRT SPOR YILDIZ",
       "category": "Spor",
       "status": "working",
-      "url": "http://umperisn.mywire.org/index.php?id=2019&token=DeaTHLesS",
+      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=18644&extension=ts&play_token=6fextF0Ovq",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "matched_display": "TRT SPOR YILDIZ",
       "quality": 0,
@@ -878,6 +790,30 @@
         },
         {
           "url": "http://umperisn.mywire.org/index.php?id=2019&token=DeaTHLesS",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "ConnectionError",
+          "display": "TRT SPOR YILDIZ",
+          "quality": 0
+        },
+        {
+          "url": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-403",
+          "display": "Trt Spor Yıldız",
+          "quality": 0
+        },
+        {
+          "url": "http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=557154&extension=ts&play_token=g9h8nHg27a",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-511",
+          "display": "TRT SPOR YILDIZ",
+          "quality": 0
+        },
+        {
+          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=18644&extension=ts&play_token=6fextF0Ovq",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
@@ -985,7 +921,7 @@
       "name": "NBA TV",
       "category": "Spor",
       "status": "working",
-      "url": "http://umperisn.mywire.org/index.php?id=2048&token=DeaTHLesS",
+      "url": "http://eu.kartal38.com:8080/I2SsWS2dG9/WrwyXGZaQ8/111087?output=ts",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
       "matched_display": "NBA TV",
       "quality": 0,
@@ -1002,12 +938,68 @@
           "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=698&extension=ts&play_token=4UiZfn9q52",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": false,
-          "reason": "http-502",
+          "reason": "http-407",
           "display": "NBA TV",
           "quality": 0
         },
         {
           "url": "http://umperisn.mywire.org/index.php?id=2048&token=DeaTHLesS",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
+          "ok": false,
+          "reason": "ConnectionError",
+          "display": "NBA TV",
+          "quality": 0
+        },
+        {
+          "url": "http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/67",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
+          "ok": false,
+          "reason": "ConnectTimeout",
+          "display": "NBA TV",
+          "quality": 0
+        },
+        {
+          "url": "http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=401275&extension=ts&play_token=8dxlB4C5pP",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
+          "ok": false,
+          "reason": "http-511",
+          "display": "NBA TV",
+          "quality": 0
+        },
+        {
+          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=18632&extension=ts&play_token=IRVq8iaqGk",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
+          "ok": false,
+          "reason": "http-407",
+          "display": "NBA TV",
+          "quality": 0
+        },
+        {
+          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=698&extension=ts&play_token=4UiZfn9q52",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
+          "ok": false,
+          "reason": "http-407",
+          "display": "NBA TV",
+          "quality": 0
+        },
+        {
+          "url": "http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/67",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
+          "ok": false,
+          "reason": "ConnectTimeout",
+          "display": "NBA TV",
+          "quality": 0
+        },
+        {
+          "url": "http://elit64.eu:2086/habibabikomsu/auCxPqcin4/185591?output=ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
+          "ok": false,
+          "reason": "http-458",
+          "display": "NBA TV",
+          "quality": 0
+        },
+        {
+          "url": "http://eu.kartal38.com:8080/I2SsWS2dG9/WrwyXGZaQ8/111087?output=ts",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
           "ok": true,
           "reason": "http-200",
@@ -1063,11 +1055,7 @@
     {
       "name": "SPORTS TV",
       "category": "Spor",
-      "status": "working",
-      "url": "http://elit64.eu:2086/habibabikomsu/auCxPqcin4/185594?output=ts",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-      "matched_display": "SPORTSTV",
-      "quality": 0,
+      "status": "not_found",
       "attempts": [
         {
           "url": "https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8",
@@ -1089,7 +1077,7 @@
           "url": "http://umperisn.mywire.org/index.php?id=196080&token=DeaTHLesS",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
           "ok": false,
-          "reason": "http-407",
+          "reason": "ConnectTimeout",
           "display": "SPORTS TV",
           "quality": 0
         },
@@ -1136,9 +1124,17 @@
         {
           "url": "http://elit64.eu:2086/habibabikomsu/auCxPqcin4/185594?output=ts",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-          "ok": true,
-          "reason": "http-200",
+          "ok": false,
+          "reason": "http-458",
           "display": "SPORTSTV",
+          "quality": 0
+        },
+        {
+          "url": "http://eu.kartal38.com:8080/I2SsWS2dG9/WrwyXGZaQ8/94888?output=ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
+          "ok": false,
+          "reason": "http-403",
+          "display": "SPORTS TV",
           "quality": 0
         }
       ]
@@ -1217,17 +1213,41 @@
       "name": "BEIN SPORTS 1",
       "category": "Spor",
       "status": "working",
-      "url": "http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=988852&extension=ts",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "BEIN SPORTS 1",
+      "url": "http://nexusconnects.org:80/play/live.php?mac=00:1B:79:47:72:00&stream=988867&extension=ts&play_token=a34h1OJXxe",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
+      "matched_display": "BEİN SPORTS 1",
       "quality": 0,
       "attempts": [
         {
           "url": "http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=988852&extension=ts",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-407",
+          "display": "BEIN SPORTS 1",
+          "quality": 0
+        },
+        {
+          "url": "http://nexusconnects.org:80/play/live.php?mac=00:1B:79:47:72:00&stream=988849&extension=ts&play_token=zYB5znYiYr",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
+          "ok": false,
+          "reason": "http-407",
+          "display": "BEİN SPORTS 1",
+          "quality": 0
+        },
+        {
+          "url": "http://nexusconnects.org:80/play/live.php?mac=00:1B:79:47:72:00&stream=988851&extension=ts&play_token=i9P5KZaJhe",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
+          "ok": false,
+          "reason": "http-407",
+          "display": "BEİN SPORTS 1",
+          "quality": 0
+        },
+        {
+          "url": "http://nexusconnects.org:80/play/live.php?mac=00:1B:79:47:72:00&stream=988867&extension=ts&play_token=a34h1OJXxe",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
           "ok": true,
           "reason": "http-200",
-          "display": "BEIN SPORTS 1",
+          "display": "BEİN SPORTS 1",
           "quality": 0
         }
       ]
@@ -1236,21 +1256,13 @@
       "name": "BEIN SPORTS 2",
       "category": "Spor",
       "status": "working",
-      "url": "http://umperisn.mywire.org/index.php?id=2206&token=DeaTHLesS",
+      "url": "http://umperisn.mywire.org/index.php?id=2207&token=DeaTHLesS",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
       "matched_display": "BEIN SPORTS 2",
       "quality": 0,
       "attempts": [
         {
           "url": "http://umperisn.mywire.org/index.php?id=2207&token=DeaTHLesS",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-          "ok": false,
-          "reason": "http-403",
-          "display": "BEIN SPORTS 2",
-          "quality": 0
-        },
-        {
-          "url": "http://umperisn.mywire.org/index.php?id=2206&token=DeaTHLesS",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
           "ok": true,
           "reason": "http-200",
@@ -1282,21 +1294,13 @@
       "name": "BEIN SPORTS 4",
       "category": "Spor",
       "status": "working",
-      "url": "http://umperisn.mywire.org/index.php?id=2212&token=DeaTHLesS",
+      "url": "http://umperisn.mywire.org/index.php?id=2213&token=DeaTHLesS",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
       "matched_display": "BEIN SPORTS 4",
       "quality": 0,
       "attempts": [
         {
           "url": "http://umperisn.mywire.org/index.php?id=2213&token=DeaTHLesS",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-          "ok": false,
-          "reason": "http-403",
-          "display": "BEIN SPORTS 4",
-          "quality": 0
-        },
-        {
-          "url": "http://umperisn.mywire.org/index.php?id=2212&token=DeaTHLesS",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
           "ok": true,
           "reason": "http-200",
@@ -1309,21 +1313,13 @@
       "name": "BEIN SPORTS 5",
       "category": "Spor",
       "status": "working",
-      "url": "http://umperisn.mywire.org/index.php?id=620422&token=DeaTHLesS",
+      "url": "http://umperisn.mywire.org/index.php?id=423873&token=DeaTHLesS",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
       "matched_display": "BEIN SPORTS 5",
       "quality": 0,
       "attempts": [
         {
           "url": "http://umperisn.mywire.org/index.php?id=423873&token=DeaTHLesS",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-          "ok": false,
-          "reason": "http-403",
-          "display": "BEIN SPORTS 5",
-          "quality": 0
-        },
-        {
-          "url": "http://umperisn.mywire.org/index.php?id=620422&token=DeaTHLesS",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
           "ok": true,
           "reason": "http-200",
@@ -1341,7 +1337,11 @@
     {
       "name": "BEIN SPORTS MAX 2",
       "category": "Spor",
-      "status": "not_found",
+      "status": "working",
+      "url": "http://umperisn.mywire.org/index.php?id=2217&token=DeaTHLesS",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
+      "matched_display": "BEIN SPORTS MAX 2",
+      "quality": 0,
       "attempts": [
         {
           "url": "http://umperisn.mywire.org/index.php?id=551689&token=DeaTHLesS",
@@ -1354,33 +1354,9 @@
         {
           "url": "http://umperisn.mywire.org/index.php?id=2217&token=DeaTHLesS",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-          "ok": false,
-          "reason": "http-403",
+          "ok": true,
+          "reason": "http-200",
           "display": "BEIN SPORTS MAX 2",
-          "quality": 0
-        },
-        {
-          "url": "http://umperisn.mywire.org/index.php?id=620288&token=DeaTHLesS",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-          "ok": false,
-          "reason": "http-405",
-          "display": "BEIN SPORTS MAX 2",
-          "quality": 0
-        },
-        {
-          "url": "http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/77",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-          "ok": false,
-          "reason": "ConnectTimeout",
-          "display": "beIN SPORTS MAX 2",
-          "quality": 0
-        },
-        {
-          "url": "http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/78",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-          "ok": false,
-          "reason": "ConnectTimeout",
-          "display": "beIN SPORTS MAX 2",
           "quality": 0
         }
       ]
@@ -1452,21 +1428,13 @@
       "name": "KRAL TV",
       "category": "Müzik",
       "status": "working",
-      "url": "http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8",
+      "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197360&extension=ts&play_token=06puQPiAQ5",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "matched_display": "KRAL TV",
       "quality": 0,
       "attempts": [
         {
           "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197360&extension=ts&play_token=06puQPiAQ5",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-407",
-          "display": "KRAL TV",
-          "quality": 0
-        },
-        {
-          "url": "http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
@@ -1497,17 +1465,13 @@
     {
       "name": "KRALPOP AKUSTİK",
       "category": "Müzik",
-      "status": "working",
-      "url": "http://elit64.eu:2086/habibabikomsu/auCxPqcin4/85900?output=ts",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-      "matched_display": "KRAL POP AKUSTIK",
-      "quality": 0,
+      "status": "not_found",
       "attempts": [
         {
           "url": "http://elit64.eu:2086/habibabikomsu/auCxPqcin4/85900?output=ts",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-          "ok": true,
-          "reason": "http-200",
+          "ok": false,
+          "reason": "http-458",
           "display": "KRAL POP AKUSTIK",
           "quality": 0
         }
@@ -1771,17 +1735,13 @@
     {
       "name": "TRT DİYANET",
       "category": "Dini",
-      "status": "working",
-      "url": "http://elit64.eu:2086/habibabikomsu/auCxPqcin4/242?output=ts",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-      "matched_display": "TRT DIYANET",
-      "quality": 0,
+      "status": "not_found",
       "attempts": [
         {
           "url": "http://elit64.eu:2086/habibabikomsu/auCxPqcin4/242?output=ts",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-          "ok": true,
-          "reason": "http-200",
+          "ok": false,
+          "reason": "http-458",
           "display": "TRT DIYANET",
           "quality": 0
         }
@@ -1871,30 +1831,18 @@
     {
       "name": "BEIN MOVIES PREMIERE",
       "category": "Sinema",
-      "status": "not_found",
+      "status": "working",
+      "url": "http://umperisn.mywire.org/index.php?id=591393&token=DeaTHLesS",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
+      "matched_display": "BEIN MOVIES PREMIERE",
+      "quality": 0,
       "attempts": [
         {
           "url": "http://umperisn.mywire.org/index.php?id=591393&token=DeaTHLesS",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-          "ok": false,
-          "reason": "http-407",
+          "ok": true,
+          "reason": "http-200",
           "display": "BEIN MOVIES PREMIERE",
-          "quality": 0
-        },
-        {
-          "url": "http://umperisn.mywire.org/index.php?id=591392&token=DeaTHLesS",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-          "ok": false,
-          "reason": "http-407",
-          "display": "BEIN MOVIES PREMIERE",
-          "quality": 0
-        },
-        {
-          "url": "http://190502.tomtv.eu:80/MustafaozdemR7808/z189b8mv2r/225",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-          "ok": false,
-          "reason": "ConnectTimeout",
-          "display": "beIN Movies Premiere",
           "quality": 0
         }
       ]
@@ -1902,21 +1850,17 @@
     {
       "name": "BEIN MOVIES PREMIERE 2",
       "category": "Sinema",
-      "status": "not_found",
+      "status": "working",
+      "url": "http://umperisn.mywire.org/index.php?id=591395&token=DeaTHLesS",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
+      "matched_display": "BEIN MOVIES PREMIERE 2",
+      "quality": 0,
       "attempts": [
         {
           "url": "http://umperisn.mywire.org/index.php?id=591395&token=DeaTHLesS",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-          "ok": false,
-          "reason": "http-407",
-          "display": "BEIN MOVIES PREMIERE 2",
-          "quality": 0
-        },
-        {
-          "url": "http://umperisn.mywire.org/index.php?id=591394&token=DeaTHLesS",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-          "ok": false,
-          "reason": "http-407",
+          "ok": true,
+          "reason": "http-200",
           "display": "BEIN MOVIES PREMIERE 2",
           "quality": 0
         }
@@ -1945,21 +1889,13 @@
       "name": "BEIN MOVIES STARS",
       "category": "Sinema",
       "status": "working",
-      "url": "http://umperisn.mywire.org/index.php?id=591390&token=DeaTHLesS",
+      "url": "http://umperisn.mywire.org/index.php?id=591391&token=DeaTHLesS",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
       "matched_display": "BEIN MOVIES STARS",
       "quality": 0,
       "attempts": [
         {
           "url": "http://umperisn.mywire.org/index.php?id=591391&token=DeaTHLesS",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-          "ok": false,
-          "reason": "http-407",
-          "display": "BEIN MOVIES STARS",
-          "quality": 0
-        },
-        {
-          "url": "http://umperisn.mywire.org/index.php?id=591390&token=DeaTHLesS",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
           "ok": true,
           "reason": "http-200",
@@ -2372,25 +2308,17 @@
       "name": "BEIN SERIES 2",
       "category": "Dizi",
       "status": "working",
-      "url": "http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=1471674&extension=ts",
+      "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471674&extension=ts&play_token=5gfhIkzuQg",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "BEIN SERIES 2",
+      "matched_display": "beIN Series 2",
       "quality": 0,
       "attempts": [
         {
           "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471674&extension=ts&play_token=5gfhIkzuQg",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-502",
-          "display": "beIN Series 2",
-          "quality": 0
-        },
-        {
-          "url": "http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=1471674&extension=ts",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
-          "display": "BEIN SERIES 2",
+          "display": "beIN Series 2",
           "quality": 0
         }
       ]
@@ -2477,7 +2405,7 @@
       "name": "TRT BELGESEL",
       "category": "Belgesel",
       "status": "working",
-      "url": "http://176.65.153.12:6001/play/a04h/index.m3u8",
+      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197441&extension=ts&play_token=2YxNaeWuvv",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "matched_display": "TRT BELGESEL",
       "quality": 0,
@@ -2524,14 +2452,6 @@
         },
         {
           "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197441&extension=ts&play_token=2YxNaeWuvv",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-502",
-          "display": "TRT BELGESEL",
-          "quality": 0
-        },
-        {
-          "url": "http://176.65.153.12:6001/play/a04h/index.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
@@ -2863,17 +2783,29 @@
     {
       "name": "DA VINCI LEARNING",
       "category": "Belgesel",
-      "status": "working",
-      "url": "http://elit64.eu:2086/habibabikomsu/auCxPqcin4/207671?output=ts",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-      "matched_display": "DA VINCI LEARNING",
-      "quality": 0,
+      "status": "not_found",
       "attempts": [
         {
           "url": "http://elit64.eu:2086/habibabikomsu/auCxPqcin4/207671?output=ts",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-          "ok": true,
-          "reason": "http-200",
+          "ok": false,
+          "reason": "http-458",
+          "display": "DA VINCI LEARNING",
+          "quality": 0
+        },
+        {
+          "url": "http://elit64.eu:2086/habibabikomsu/auCxPqcin4/85?output=ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
+          "ok": false,
+          "reason": "http-458",
+          "display": "DA VINCI LEARNING",
+          "quality": 0
+        },
+        {
+          "url": "http://elit64.eu:2086/habibabikomsu/auCxPqcin4/114?output=ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
+          "ok": false,
+          "reason": "http-458",
           "display": "DA VINCI LEARNING",
           "quality": 0
         }
@@ -2882,17 +2814,13 @@
     {
       "name": "NATURE ESCAPE",
       "category": "Belgesel",
-      "status": "working",
-      "url": "http://elit64.eu:2086/habibabikomsu/auCxPqcin4/78949?output=ts",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-      "matched_display": "NATURE ESCAPE",
-      "quality": 0,
+      "status": "not_found",
       "attempts": [
         {
           "url": "http://elit64.eu:2086/habibabikomsu/auCxPqcin4/78949?output=ts",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-          "ok": true,
-          "reason": "http-200",
+          "ok": false,
+          "reason": "http-458",
           "display": "NATURE ESCAPE",
           "quality": 0
         }
@@ -2926,17 +2854,13 @@
     {
       "name": "DOCUSCREEN",
       "category": "Belgesel",
-      "status": "working",
-      "url": "http://elit64.eu:2086/habibabikomsu/auCxPqcin4/265762?output=ts",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-      "matched_display": "DOCUSCREEN",
-      "quality": 0,
+      "status": "not_found",
       "attempts": [
         {
           "url": "http://elit64.eu:2086/habibabikomsu/auCxPqcin4/265762?output=ts",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-          "ok": true,
-          "reason": "http-200",
+          "ok": false,
+          "reason": "http-458",
           "display": "DOCUSCREEN",
           "quality": 0
         }
@@ -3029,17 +2953,13 @@
     {
       "name": "CHASSE & PECHE",
       "category": "Belgesel",
-      "status": "working",
-      "url": "http://elit64.eu:2086/habibabikomsu/auCxPqcin4/34659?output=ts",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-      "matched_display": "CHASSE PECHE",
-      "quality": 0,
+      "status": "not_found",
       "attempts": [
         {
           "url": "http://elit64.eu:2086/habibabikomsu/auCxPqcin4/34659?output=ts",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-          "ok": true,
-          "reason": "http-200",
+          "ok": false,
+          "reason": "http-458",
           "display": "CHASSE PECHE",
           "quality": 0
         }
@@ -3144,29 +3064,13 @@
       "name": "BABY TV",
       "category": "Çocuk",
       "status": "working",
-      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197418&extension=ts&play_token=pFntdTqMqE",
+      "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197418&extension=ts&play_token=pFntdTqMqE",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "matched_display": "BABY TV",
       "quality": 0,
       "attempts": [
         {
           "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197418&extension=ts&play_token=pFntdTqMqE",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-502",
-          "display": "BABY TV",
-          "quality": 0
-        },
-        {
-          "url": "http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=501810&extension=ts&play_token=boDYIbIpZw",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-511",
-          "display": "BABY TV",
-          "quality": 0
-        },
-        {
-          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197418&extension=ts&play_token=pFntdTqMqE",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
@@ -3178,11 +3082,7 @@
     {
       "name": "DISNEY JUNIOR",
       "category": "Çocuk",
-      "status": "working",
-      "url": "http://elit64.eu:2086/habibabikomsu/auCxPqcin4/207679?output=ts",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-      "matched_display": "DISNEY JUNIOR",
-      "quality": 0,
+      "status": "not_found",
       "attempts": [
         {
           "url": "http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=200300&extension=ts&play_token=8cv2bWXVaY",
@@ -3203,8 +3103,24 @@
         {
           "url": "http://elit64.eu:2086/habibabikomsu/auCxPqcin4/207679?output=ts",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
-          "ok": true,
-          "reason": "http-200",
+          "ok": false,
+          "reason": "http-458",
+          "display": "DISNEY JUNIOR",
+          "quality": 0
+        },
+        {
+          "url": "http://elit64.eu:2086/habibabikomsu/auCxPqcin4/84?output=ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
+          "ok": false,
+          "reason": "http-458",
+          "display": "DISNEY JUNIOR",
+          "quality": 0
+        },
+        {
+          "url": "http://ruzgarplayer.site:8080/mesut@1903/QCPQ20S55x/72793?output=ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
+          "ok": false,
+          "reason": "http-401",
           "display": "DISNEY JUNIOR",
           "quality": 0
         }
@@ -3297,21 +3213,13 @@
       "name": "A PARA",
       "category": "Ekonomi",
       "status": "working",
-      "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197238&extension=ts&play_token=9z7GNwor9A",
+      "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197272&extension=ts&play_token=YMedtQj0VQ",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "matched_display": "A PARA",
       "quality": 0,
       "attempts": [
         {
           "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197272&extension=ts&play_token=YMedtQj0VQ",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-502",
-          "display": "A PARA",
-          "quality": 0
-        },
-        {
-          "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197238&extension=ts&play_token=9z7GNwor9A",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
@@ -3446,13 +3354,21 @@
       "name": "TARIM TV",
       "category": "Tarım",
       "status": "working",
-      "url": "http://umperisn.mywire.org/index.php?id=594649&token=DeaTHLesS",
+      "url": "http://umperisn.mywire.org/index.php?id=594648&token=DeaTHLesS",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
       "matched_display": "TARIM TV",
       "quality": 0,
       "attempts": [
         {
           "url": "http://umperisn.mywire.org/index.php?id=594649&token=DeaTHLesS",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
+          "ok": false,
+          "reason": "ConnectionError",
+          "display": "TARIM TV",
+          "quality": 0
+        },
+        {
+          "url": "http://umperisn.mywire.org/index.php?id=594648&token=DeaTHLesS",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Canli/refs/heads/main/tr.m3u",
           "ok": true,
           "reason": "http-200",
@@ -3560,21 +3476,13 @@
       "name": "A NEWS",
       "category": "Uluslararası",
       "status": "working",
-      "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197239&extension=ts&play_token=xp5X57KHYf",
+      "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197271&extension=ts&play_token=Nx8VX4UaJj",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "matched_display": "A NEWS",
       "quality": 0,
       "attempts": [
         {
           "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197271&extension=ts&play_token=Nx8VX4UaJj",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-502",
-          "display": "A NEWS",
-          "quality": 0
-        },
-        {
-          "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197239&extension=ts&play_token=xp5X57KHYf",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
