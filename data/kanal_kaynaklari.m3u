@@ -65,6 +65,10 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197265&ex
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197178&extension=ts&play_token=8qxzVqk0m2
 #EXTINF:-1 tvg-name="MECLİS TV" group-title="Haber",MECLİS TV
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+#EXTINF:-1 tvg-name="CNN INTERNATIONAL" group-title="Haber",CNN INTERNATIONAL
+http://elit64.eu:2086/habibabikomsu/auCxPqcin4/205508?output=ts
+#EXTINF:-1 tvg-name="BBC WORLD NEWS" group-title="Haber",BBC WORLD NEWS
+http://elit64.eu:2086/habibabikomsu/auCxPqcin4/205509?output=ts
 #EXTINF:-1 tvg-name="TRT WORLD" group-title="Haber",TRT WORLD
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197261&extension=ts&play_token=cdx7DrYc71
 #EXTINF:-1 tvg-name="TRT SPOR" group-title="Spor",TRT SPOR
@@ -82,27 +86,27 @@ https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivees1.m3u8
 #EXTINF:-1 tvg-name="EUROSPORT 2" group-title="Spor",EUROSPORT 2
 https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivees2.m3u8
 #EXTINF:-1 tvg-name="NBA TV" group-title="Spor",NBA TV
-http://eu.kartal38.com:8080/I2SsWS2dG9/WrwyXGZaQ8/111087?output=ts
+http://elit64.eu:2086/habibabikomsu/auCxPqcin4/185591?output=ts
 #EXTINF:-1 tvg-name="S SPORT" group-title="Spor",S SPORT
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydus1.m3u8
 #EXTINF:-1 tvg-name="S SPORT 2" group-title="Spor",S SPORT 2
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydus2.m3u8
+#EXTINF:-1 tvg-name="SPORTS TV" group-title="Spor",SPORTS TV
+https://square-leaf-d613.panorea1000.workers.dev/?xml=ch754
 #EXTINF:-1 tvg-name="SPOR SMART" group-title="Spor",SPOR SMART
 https://square-leaf-d613.panorea1000.workers.dev/?xml=ch790
 #EXTINF:-1 tvg-name="SPOR SMART 2" group-title="Spor",SPOR SMART 2
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=18631&extension=ts&play_token=B2l3zE1IqA
 #EXTINF:-1 tvg-name="BEIN SPORTS 1" group-title="Spor",BEIN SPORTS 1
-http://nexusconnects.org:80/play/live.php?mac=00:1B:79:47:72:00&stream=988867&extension=ts&play_token=a34h1OJXxe
+http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=988852&extension=ts
 #EXTINF:-1 tvg-name="BEIN SPORTS 2" group-title="Spor",BEIN SPORTS 2
-http://umperisn.mywire.org/index.php?id=2207&token=DeaTHLesS
+https://avva.magnitude.workers.dev/?url=https://avvaupdate.com/bein2/index.m3u8?o=1%26e=1781703872%26tk=51d8cf311c0961e87873898f38494c8d
 #EXTINF:-1 tvg-name="BEIN SPORTS 3" group-title="Spor",BEIN SPORTS 3
-http://umperisn.mywire.org/index.php?id=2210&token=DeaTHLesS
+https://avva.magnitude.workers.dev/?url=https://avvaupdate.com/bein3/index.m3u8?o=1%26e=1781703872%26tk=51d8cf311c0961e87873898f38494c8d
 #EXTINF:-1 tvg-name="BEIN SPORTS 4" group-title="Spor",BEIN SPORTS 4
-http://umperisn.mywire.org/index.php?id=2213&token=DeaTHLesS
+https://avva.magnitude.workers.dev/?url=https://avvaupdate.com/bein4/index.m3u8?o=1%26e=1781703872%26tk=51d8cf311c0961e87873898f38494c8d
 #EXTINF:-1 tvg-name="BEIN SPORTS 5" group-title="Spor",BEIN SPORTS 5
-http://umperisn.mywire.org/index.php?id=423873&token=DeaTHLesS
-#EXTINF:-1 tvg-name="BEIN SPORTS MAX 2" group-title="Spor",BEIN SPORTS MAX 2
-http://umperisn.mywire.org/index.php?id=2217&token=DeaTHLesS
+https://avva.magnitude.workers.dev/?url=https://avvaupdate.com/bein5/index.m3u8?o=1%26e=1781703872%26tk=51d8cf311c0961e87873898f38494c8d
 #EXTINF:-1 tvg-name="BEIN SPORTS HABER" group-title="Spor",BEIN SPORTS HABER
 http://176.65.153.66:6003/play/a00y/index.m3u8
 #EXTINF:-1 tvg-name="FB TV" group-title="Spor",FB TV
@@ -113,10 +117,12 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197363&ex
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197360&extension=ts&play_token=06puQPiAQ5
 #EXTINF:-1 tvg-name="KRAL POP" group-title="Müzik",KRAL POP
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197361&extension=ts&play_token=88YQcnlyZu
+#EXTINF:-1 tvg-name="KRALPOP AKUSTİK" group-title="Müzik",KRALPOP AKUSTİK
+http://elit64.eu:2086/habibabikomsu/auCxPqcin4/85900?output=ts
 #EXTINF:-1 tvg-name="DREAM TÜRK" group-title="Müzik",DREAM TÜRK
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-name="DREAM TV" group-title="Müzik",DREAM TV
-http://umperisn.mywire.org/index.php?id=595432&token=DeaTHLesS
+http://elit64.eu:2086/habibabikomsu/auCxPqcin4/211?output=ts
 #EXTINF:-1 tvg-name="POWER TÜRK" group-title="Müzik",POWER TÜRK
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197364&extension=ts&play_token=FkdL4n4O9g
 #EXTINF:-1 tvg-name="POWER TÜRK SLOW" group-title="Müzik",POWER TÜRK SLOW
@@ -131,32 +137,16 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197358&ex
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197358&extension=ts&play_token=7iPd5Weu0a
 #EXTINF:-1 tvg-name="DİYANET TV" group-title="Dini",DİYANET TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TRT DİYANET" group-title="Dini",TRT DİYANET
+http://elit64.eu:2086/habibabikomsu/auCxPqcin4/242?output=ts
 #EXTINF:-1 tvg-name="TRT DİYANET ÇOCUK" group-title="Dini",TRT DİYANET ÇOCUK
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="SEMERKAND TV" group-title="Dini",SEMERKAND TV
 http://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="LALEGÜL TV" group-title="Dini",LALEGÜL TV
 https://lbl.netmedya.net/hls/lalegultv.m3u8
-#EXTINF:-1 tvg-name="BEIN MOVIES PREMIERE" group-title="Sinema",BEIN MOVIES PREMIERE
-http://umperisn.mywire.org/index.php?id=591393&token=DeaTHLesS
-#EXTINF:-1 tvg-name="BEIN MOVIES PREMIERE 2" group-title="Sinema",BEIN MOVIES PREMIERE 2
-http://umperisn.mywire.org/index.php?id=591395&token=DeaTHLesS
-#EXTINF:-1 tvg-name="BEIN MOVIES TURK" group-title="Sinema",BEIN MOVIES TURK
-http://umperisn.mywire.org/index.php?id=591389&token=DeaTHLesS
-#EXTINF:-1 tvg-name="BEIN MOVIES STARS" group-title="Sinema",BEIN MOVIES STARS
-http://umperisn.mywire.org/index.php?id=591391&token=DeaTHLesS
-#EXTINF:-1 tvg-name="BEIN MOVIES ACTION" group-title="Sinema",BEIN MOVIES ACTION
-http://umperisn.mywire.org/index.php?id=591398&token=DeaTHLesS
-#EXTINF:-1 tvg-name="BEIN MOVIES FAMILY" group-title="Sinema",BEIN MOVIES FAMILY
-http://umperisn.mywire.org/index.php?id=591397&token=DeaTHLesS
-#EXTINF:-1 tvg-name="BEIN BOXOFFICE 1" group-title="Sinema",BEIN BOXOFFICE 1
-http://umperisn.mywire.org/index.php?id=591405&token=DeaTHLesS
-#EXTINF:-1 tvg-name="BEIN BOXOFFICE 2" group-title="Sinema",BEIN BOXOFFICE 2
-http://umperisn.mywire.org/index.php?id=591403&token=DeaTHLesS
-#EXTINF:-1 tvg-name="BEIN BOXOFFICE 3" group-title="Sinema",BEIN BOXOFFICE 3
-http://umperisn.mywire.org/index.php?id=591401&token=DeaTHLesS
 #EXTINF:-1 tvg-name="SİNEMA TV" group-title="Sinema",SİNEMA TV
-http://umperisn.mywire.org/index.php?id=591415&token=DeaTHLesS
+http://elit64.eu:2086/habibabikomsu/auCxPqcin4/146?output=ts
 #EXTINF:-1 tvg-name="SİNEMA TV 2" group-title="Sinema",SİNEMA TV 2
 https://proud-river-e20b.pantonum1.workers.dev/sinema2.m3u8
 #EXTINF:-1 tvg-name="SİNEMA 1001" group-title="Sinema",SİNEMA 1001
@@ -190,9 +180,9 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197427&exte
 #EXTINF:-1 tvg-name="DISCOVERY ID" group-title="Belgesel",DISCOVERY ID
 https://proud-river-e20b.pantonum1.workers.dev/discs.m3u8
 #EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" group-title="Belgesel",NATIONAL GEOGRAPHIC
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:C0:8F:65&stream=197433&extension=ts&play_token=vIAFFKePWW
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197433&extension=ts&play_token=vIAFFKePWW
 #EXTINF:-1 tvg-name="NAT GEO" group-title="Belgesel",NAT GEO
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:C0:8F:65&stream=197433&extension=ts&play_token=vIAFFKePWW
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197433&extension=ts&play_token=vIAFFKePWW
 #EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD" group-title="Belgesel",NATIONAL GEOGRAPHIC WILD
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197432&extension=ts&play_token=EgZySyAGug
 #EXTINF:-1 tvg-name="NAT GEO WILD" group-title="Belgesel",NAT GEO WILD
@@ -211,16 +201,24 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197442&exte
 http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/19078/index.m3u8
 #EXTINF:-1 tvg-name="LOVE NATURE" group-title="Belgesel",LOVE NATURE
 https://proud-river-e20b.pantonum1.workers.dev/lovenature.m3u8
+#EXTINF:-1 tvg-name="DA VINCI LEARNING" group-title="Belgesel",DA VINCI LEARNING
+http://elit64.eu:2086/habibabikomsu/auCxPqcin4/207671?output=ts
+#EXTINF:-1 tvg-name="NATURE ESCAPE" group-title="Belgesel",NATURE ESCAPE
+http://elit64.eu:2086/habibabikomsu/auCxPqcin4/78949?output=ts
 #EXTINF:-1 tvg-name="TGRT BELGESEL" group-title="Belgesel",TGRT BELGESEL
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8?md5=yJ4adbAK5bE0F93vqFevgw&expires=1687122603
+#EXTINF:-1 tvg-name="DOCUSCREEN" group-title="Belgesel",DOCUSCREEN
+http://elit64.eu:2086/habibabikomsu/auCxPqcin4/265762?output=ts
 #EXTINF:-1 tvg-name="YABAN TV" group-title="Belgesel",YABAN TV
 http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=197439&extension=ts
 #EXTINF:-1 tvg-name="HABITAT TV" group-title="Belgesel",HABITAT TV
-http://umperisn.mywire.org/index.php?id=594651&token=DeaTHLesS
+http://elit64.eu:2086/habibabikomsu/auCxPqcin4/243379?output=ts
 #EXTINF:-1 tvg-name="TARİH TV" group-title="Belgesel",TARİH TV
 https://proud-river-e20b.pantonum1.workers.dev/tarihtv.m3u8
 #EXTINF:-1 tvg-name="ÇİFTÇİ TV" group-title="Belgesel",ÇİFTÇİ TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
+#EXTINF:-1 tvg-name="CHASSE & PECHE" group-title="Belgesel",CHASSE & PECHE
+http://elit64.eu:2086/habibabikomsu/auCxPqcin4/34659?output=ts
 #EXTINF:-1 tvg-name="TRT ÇOCUK" group-title="Çocuk",TRT ÇOCUK
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197417&extension=ts&play_token=uFQW2KSLfI
 #EXTINF:-1 tvg-name="MİNİKA ÇOCUK" group-title="Çocuk",MİNİKA ÇOCUK
@@ -233,6 +231,8 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197411&ex
 http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6850/index.m3u8
 #EXTINF:-1 tvg-name="BABY TV" group-title="Çocuk",BABY TV
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197418&extension=ts&play_token=pFntdTqMqE
+#EXTINF:-1 tvg-name="DISNEY JUNIOR" group-title="Çocuk",DISNEY JUNIOR
+http://elit64.eu:2086/habibabikomsu/auCxPqcin4/207679?output=ts
 #EXTINF:-1 tvg-name="BLOOMBERG HT" group-title="Ekonomi",BLOOMBERG HT
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-name="BLOOMBERGHT" group-title="Ekonomi",BLOOMBERGHT
@@ -240,15 +240,13 @@ https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-name="A PARA" group-title="Ekonomi",A PARA
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197272&extension=ts&play_token=YMedtQj0VQ
 #EXTINF:-1 tvg-name="EKOTÜRK" group-title="Ekonomi",EKOTÜRK
-http://umperisn.mywire.org/index.php?id=594217&token=DeaTHLesS
+https://square-leaf-d613.panorea1000.workers.dev/?xml=ch776
 #EXTINF:-1 tvg-name="EKOTURK" group-title="Ekonomi",EKOTURK
-http://umperisn.mywire.org/index.php?id=594217&token=DeaTHLesS
+https://square-leaf-d613.panorea1000.workers.dev/?xml=ch776
 #EXTINF:-1 tvg-name="TLC" group-title="Yaşam",TLC
 https://dogus.daioncdn.net/tlc/tlc.m3u8?app=tlc_web
 #EXTINF:-1 tvg-name="TLC HD" group-title="Yaşam",TLC HD
 https://dogus.daioncdn.net/tlc/tlc.m3u8?app=tlc_web
-#EXTINF:-1 tvg-name="TARIM TV" group-title="Tarım",TARIM TV
-http://umperisn.mywire.org/index.php?id=594648&token=DeaTHLesS
 #EXTINF:-1 tvg-name="AGRO TV" group-title="Tarım",AGRO TV
 https://agro.fatihdemirsoy.com:8181/memfs/efe70a0b-aea8-48f3-bfda-72fff7f48a7b_output_0.m3u8?session=WiBL6q6PzoRV7DTJZaMvmo
 #EXTINF:-1 tvg-name="TRT TÜRK" group-title="Uluslararası",TRT TÜRK
