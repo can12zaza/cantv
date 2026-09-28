@@ -29585,37 +29585,33 @@ http://193.123.61.120:3000/kanal/bloomberght
 #EXTINF:-1 tvg-id="SpacetoonTurkey.tr@SD" group-title="U",Spacetoon Turkey (720p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://spacetoon.com.tr/
 https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8
-# Film Arşivi - 25.09.2026
-# Toplam: 0 film
-# Kaynak: Vidmody
-# ⭐ IMDb puanına göre sıralanmıştır
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2082355,FRAME-RATE=25,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
 https://video-auth7.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOC8yMDI2IDQ6MTM6NTIgQU0maGFzaF92YWx1ZT1IMnN2V2JKSzV5VEszeUJ6NFRuVnBBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NWQ1MzQyOWItZTU0Yy00M2NmLWI4YTQtNzg1MmVlYjU0ODZm
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:6
-#EXT-X-MEDIA-SEQUENCE:163630
+#EXT-X-MEDIA-SEQUENCE:164013
 #EXT-X-DISCONTINUITY-SEQUENCE:1
 #EXTINF:6.00000 group-title="U",
-master_1440p_backup_163630.ts
+master_1440p_backup_164013.ts
 #EXTINF:6.00000 group-title="U",
-master_1440p_backup_163631.ts
+master_1440p_backup_164014.ts
 #EXTINF:6.00000 group-title="U",
-master_1440p_backup_163632.ts
+master_1440p_backup_164015.ts
 #EXTINF:6.00000 group-title="U",
-master_1440p_backup_163633.ts
+master_1440p_backup_164016.ts
 #EXTINF:6.00000 group-title="U",
-master_1440p_backup_163634.ts
+master_1440p_backup_164017.ts
 #EXTINF:6.00000 group-title="U",
-master_1440p_backup_163635.ts
+master_1440p_backup_164018.ts
 #EXTINF:6.00000 group-title="U",
-master_1440p_backup_163636.ts
+master_1440p_backup_164019.ts
 #EXTINF:6.00000 group-title="U",
-master_1440p_backup_163637.ts
+master_1440p_backup_164020.ts
 #EXTINF:6.00000 group-title="U",
-master_1440p_backup_163638.ts
+master_1440p_backup_164021.ts
 #EXTINF:6.00000 group-title="U",
-master_1440p_backup_163639.ts
+master_1440p_backup_164022.ts
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/2ESUxIvbYSO5A0SeZJzMGJpCEyQ.jpg" group-title="Drama" tvg-year="2020" tvg-id="575659",Berlin Alexanderplatz (2020)
 https://alhynmkqujpksudyscajewjddvudsmbcpheakrnnxqlkvnmxsi.haccodavayup.shop/uploads/encode/dlqliwbofhynjbz1fi91/master.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/76LLbSnCYRl4r1ftIEfpSHwyIth.jpg" group-title="Komedi" tvg-year="2005" tvg-id="9007",Cennet Gibi (2005)
