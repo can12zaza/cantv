@@ -1,7 +1,7 @@
 {
   "total_channels": 190,
-  "matched": 110,
-  "not_found": 80,
+  "matched": 96,
+  "not_found": 94,
   "source_errors": [],
   "channels": [
     {
@@ -703,7 +703,7 @@
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": false,
           "reason": "http-511",
-          "display": "TRT SPOR +",
+          "display": "TRT SPOR",
           "quality": 0
         },
         {
@@ -844,17 +844,17 @@
       "name": "EUROSPORT 1",
       "category": "Spor",
       "status": "working",
-      "url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivees1.m3u8",
+      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=708&extension=ts&play_token=9HxnbsQNIJ",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "EURO SPORT 1",
+      "matched_display": "EUROSPORT 1",
       "quality": 0,
       "attempts": [
         {
-          "url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivees1.m3u8",
+          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=708&extension=ts&play_token=9HxnbsQNIJ",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
-          "display": "EURO SPORT 1",
+          "display": "EUROSPORT 1",
           "quality": 0
         }
       ]
@@ -863,17 +863,17 @@
       "name": "EUROSPORT 2",
       "category": "Spor",
       "status": "working",
-      "url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivees2.m3u8",
+      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=707&extension=ts&play_token=2mg4QJgGT9",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "EURO SPORT 2",
+      "matched_display": "EUROSPORT 2",
       "quality": 0,
       "attempts": [
         {
-          "url": "https://tinyurl.com/Fiat-linea-multijet/Emu/androstreamlivees2.m3u8",
+          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=707&extension=ts&play_token=2mg4QJgGT9",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
-          "display": "EURO SPORT 2",
+          "display": "EUROSPORT 2",
           "quality": 0
         }
       ]
@@ -910,33 +910,20 @@
     {
       "name": "S SPORT",
       "category": "Spor",
-      "status": "working",
-      "url": "https://tinyurl.com/Fiat-linea-multijet/yula/ceydus1.m3u8",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "S SPORT",
-      "quality": 0,
-      "attempts": [
-        {
-          "url": "https://tinyurl.com/Fiat-linea-multijet/yula/ceydus1.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200",
-          "display": "S SPORT",
-          "quality": 0
-        }
-      ]
+      "status": "not_found",
+      "attempts": []
     },
     {
       "name": "S SPORT 2",
       "category": "Spor",
       "status": "working",
-      "url": "https://tinyurl.com/Fiat-linea-multijet/yula/ceydus2.m3u8",
+      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=711&extension=ts&play_token=ROKTmEEyZj",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "matched_display": "S SPORT 2",
       "quality": 0,
       "attempts": [
         {
-          "url": "https://tinyurl.com/Fiat-linea-multijet/yula/ceydus2.m3u8",
+          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=711&extension=ts&play_token=ROKTmEEyZj",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
@@ -1538,13 +1525,29 @@
       "name": "SİNEMA TV 2",
       "category": "Sinema",
       "status": "working",
-      "url": "https://proud-river-e20b.pantonum1.workers.dev/sinema2.m3u8",
+      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197129&extension=ts&play_token=zLg0pNC7FA",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "matched_display": "SINEMA TV 2",
       "quality": 0,
       "attempts": [
         {
-          "url": "https://proud-river-e20b.pantonum1.workers.dev/sinema2.m3u8",
+          "url": "https://ip100.radyotelekomtv.com:3784/stream/play.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "ConnectionError",
+          "display": "Sinema TV 2",
+          "quality": 0
+        },
+        {
+          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471689&extension=ts&play_token=rlz9LlxLPS",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-407",
+          "display": "SINEMA TV 2",
+          "quality": 0
+        },
+        {
+          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197129&extension=ts&play_token=zLg0pNC7FA",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
@@ -1556,40 +1559,14 @@
     {
       "name": "SİNEMA 1001",
       "category": "Sinema",
-      "status": "working",
-      "url": "https://proud-river-e20b.pantonum1.workers.dev/sinema1001.m3u8",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "SINEMA 1001",
-      "quality": 0,
-      "attempts": [
-        {
-          "url": "https://proud-river-e20b.pantonum1.workers.dev/sinema1001.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200",
-          "display": "SINEMA 1001",
-          "quality": 0
-        }
-      ]
+      "status": "not_found",
+      "attempts": []
     },
     {
       "name": "SİNEMA 1002",
       "category": "Sinema",
-      "status": "working",
-      "url": "https://proud-river-e20b.pantonum1.workers.dev/sinema1002.m3u8",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "SINEMA 1002",
-      "quality": 0,
-      "attempts": [
-        {
-          "url": "https://proud-river-e20b.pantonum1.workers.dev/sinema1002.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200",
-          "display": "SINEMA 1002",
-          "quality": 0
-        }
-      ]
+      "status": "not_found",
+      "attempts": []
     },
     {
       "name": "SİNEMA AKSİYON",
@@ -1609,40 +1586,14 @@
     {
       "name": "SİNEMA AKSİYON 2",
       "category": "Sinema",
-      "status": "working",
-      "url": "https://proud-river-e20b.pantonum1.workers.dev/sinemaaksiyon2.m3u8",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "SINEMA AKSIYON 2",
-      "quality": 0,
-      "attempts": [
-        {
-          "url": "https://proud-river-e20b.pantonum1.workers.dev/sinemaaksiyon2.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200",
-          "display": "SINEMA AKSIYON 2",
-          "quality": 0
-        }
-      ]
+      "status": "not_found",
+      "attempts": []
     },
     {
       "name": "SİNEMA AİLE",
       "category": "Sinema",
-      "status": "working",
-      "url": "https://proud-river-e20b.pantonum1.workers.dev/sinemaaile.m3u8",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "SINEMA AILE",
-      "quality": 0,
-      "attempts": [
-        {
-          "url": "https://proud-river-e20b.pantonum1.workers.dev/sinemaaile.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200",
-          "display": "SINEMA AILE",
-          "quality": 0
-        }
-      ]
+      "status": "not_found",
+      "attempts": []
     },
     {
       "name": "SİNEMA AİLE 2",
@@ -1653,21 +1604,8 @@
     {
       "name": "SİNEMA KOMEDİ",
       "category": "Sinema",
-      "status": "working",
-      "url": "https://proud-river-e20b.pantonum1.workers.dev/sinemakomedi.m3u8",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "SINEMA KOMEDI",
-      "quality": 0,
-      "attempts": [
-        {
-          "url": "https://proud-river-e20b.pantonum1.workers.dev/sinemakomedi.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200",
-          "display": "SINEMA KOMEDI",
-          "quality": 0
-        }
-      ]
+      "status": "not_found",
+      "attempts": []
     },
     {
       "name": "SİNEMA KOMEDİ 2",
@@ -1685,9 +1623,9 @@
       "name": "MOVIESMART TÜRK",
       "category": "Sinema",
       "status": "working",
-      "url": "https://proud-river-e20b.pantonum1.workers.dev/mvturk.m3u8",
+      "url": "http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6811/index.m3u8",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "MOVIE SMART TüRK",
+      "matched_display": "MOVİE SMART TÜRK",
       "quality": 0,
       "attempts": [
         {
@@ -1699,11 +1637,11 @@
           "quality": 0
         },
         {
-          "url": "https://proud-river-e20b.pantonum1.workers.dev/mvturk.m3u8",
+          "url": "http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6811/index.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
-          "display": "MOVIE SMART TüRK",
+          "display": "MOVİE SMART TÜRK",
           "quality": 0
         }
       ]
@@ -1723,11 +1661,7 @@
     {
       "name": "BEIN SERIES 1",
       "category": "Dizi",
-      "status": "working",
-      "url": "https://proud-river-e20b.pantonum1.workers.dev/bsseries1.m3u8",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "BEIN SERIES 1",
-      "quality": 0,
+      "status": "not_found",
       "attempts": [
         {
           "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471673&extension=ts&play_token=fDOWsHHnSf",
@@ -1736,25 +1670,13 @@
           "reason": "http-407",
           "display": "beIN Series 1",
           "quality": 0
-        },
-        {
-          "url": "https://proud-river-e20b.pantonum1.workers.dev/bsseries1.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200",
-          "display": "BEIN SERIES 1",
-          "quality": 0
         }
       ]
     },
     {
       "name": "BEIN SERIES 2",
       "category": "Dizi",
-      "status": "working",
-      "url": "https://proud-river-e20b.pantonum1.workers.dev/bsseries2.m3u8",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "BEIN SERIES 2",
-      "quality": 0,
+      "status": "not_found",
       "attempts": [
         {
           "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471674&extension=ts&play_token=5gfhIkzuQg",
@@ -1771,25 +1693,13 @@
           "reason": "http-407",
           "display": "BEIN SERIES 2",
           "quality": 0
-        },
-        {
-          "url": "https://proud-river-e20b.pantonum1.workers.dev/bsseries2.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200",
-          "display": "BEIN SERIES 2",
-          "quality": 0
         }
       ]
     },
     {
       "name": "BEIN SERIES 3",
       "category": "Dizi",
-      "status": "working",
-      "url": "https://proud-river-e20b.pantonum1.workers.dev/bsseries3.m3u8",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "BEIN SERIES 3",
-      "quality": 0,
+      "status": "not_found",
       "attempts": [
         {
           "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471675&extension=ts&play_token=gzHjnGWvXz",
@@ -1798,25 +1708,13 @@
           "reason": "http-407",
           "display": "beIN Series 3",
           "quality": 0
-        },
-        {
-          "url": "https://proud-river-e20b.pantonum1.workers.dev/bsseries3.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200",
-          "display": "BEIN SERIES 3",
-          "quality": 0
         }
       ]
     },
     {
       "name": "BEIN SERIES 4",
       "category": "Dizi",
-      "status": "working",
-      "url": "https://proud-river-e20b.pantonum1.workers.dev/bsseries4.m3u8",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "BEIN SERIES 4",
-      "quality": 0,
+      "status": "not_found",
       "attempts": [
         {
           "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471676&extension=ts&play_token=x3dLMvs808",
@@ -1824,14 +1722,6 @@
           "ok": false,
           "reason": "http-407",
           "display": "beIN Series 4",
-          "quality": 0
-        },
-        {
-          "url": "https://proud-river-e20b.pantonum1.workers.dev/bsseries4.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200",
-          "display": "BEIN SERIES 4",
           "quality": 0
         }
       ]
@@ -1945,21 +1835,8 @@
     {
       "name": "DISCOVERY",
       "category": "Belgesel",
-      "status": "working",
-      "url": "https://proud-river-e20b.pantonum1.workers.dev/discovery.m3u8",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "DISCOVERY",
-      "quality": 0,
-      "attempts": [
-        {
-          "url": "https://proud-river-e20b.pantonum1.workers.dev/discovery.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200",
-          "display": "DISCOVERY",
-          "quality": 0
-        }
-      ]
+      "status": "not_found",
+      "attempts": []
     },
     {
       "name": "DISCOVERY CHANNEL",
@@ -1991,17 +1868,13 @@
     {
       "name": "DISCOVERY ID",
       "category": "Belgesel",
-      "status": "working",
-      "url": "https://proud-river-e20b.pantonum1.workers.dev/discs.m3u8",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "DISCOVERY ID",
-      "quality": 0,
+      "status": "not_found",
       "attempts": [
         {
-          "url": "https://proud-river-e20b.pantonum1.workers.dev/discs.m3u8",
+          "url": "http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=200348&extension=ts&play_token=YBAdp8FGzq",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200",
+          "ok": false,
+          "reason": "http-511",
           "display": "DISCOVERY ID",
           "quality": 0
         }
@@ -2060,14 +1933,6 @@
       "matched_display": "NAT GEO WILD",
       "quality": 0,
       "attempts": [
-        {
-          "url": "https://saran-live.ercdn.net/natgeowild/index.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-401",
-          "display": "NAT WILD",
-          "quality": 0
-        },
         {
           "url": "https://saran-live.ercdn.net/natgeowild/index.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
@@ -2144,13 +2009,21 @@
       "name": "BBC EARTH",
       "category": "Belgesel",
       "status": "working",
-      "url": "https://proud-river-e20b.pantonum1.workers.dev/bbc.m3u8",
+      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197431&extension=ts&play_token=nCZocT8oj0",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "matched_display": "BBC EARTH",
       "quality": 0,
       "attempts": [
         {
-          "url": "https://proud-river-e20b.pantonum1.workers.dev/bbc.m3u8",
+          "url": "http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=200352&extension=ts&play_token=706rpGO6PS",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-511",
+          "display": "BBC EARTH",
+          "quality": 0
+        },
+        {
+          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197431&extension=ts&play_token=nCZocT8oj0",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
@@ -2162,17 +2035,13 @@
     {
       "name": "HISTORY",
       "category": "Belgesel",
-      "status": "working",
-      "url": "https://proud-river-e20b.pantonum1.workers.dev/history.m3u8",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "HISTORY",
-      "quality": 0,
+      "status": "not_found",
       "attempts": [
         {
-          "url": "https://proud-river-e20b.pantonum1.workers.dev/history.m3u8",
+          "url": "http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=587194&extension=ts&play_token=e57YMrO07i",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200",
+          "ok": false,
+          "reason": "http-511",
           "display": "HISTORY",
           "quality": 0
         }
@@ -2182,13 +2051,21 @@
       "name": "VIASAT HISTORY",
       "category": "Belgesel",
       "status": "working",
-      "url": "https://proud-river-e20b.pantonum1.workers.dev/viasathistory.m3u8",
+      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197420&extension=ts&play_token=mT2OGR6h9B",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "matched_display": "VIASAT HISTORY",
       "quality": 0,
       "attempts": [
         {
-          "url": "https://proud-river-e20b.pantonum1.workers.dev/viasathistory.m3u8",
+          "url": "http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=200353&extension=ts&play_token=ak1RZqJyg0",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-511",
+          "display": "VIASAT HISTORY",
+          "quality": 0
+        },
+        {
+          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197420&extension=ts&play_token=mT2OGR6h9B",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
@@ -2247,13 +2124,21 @@
       "name": "LOVE NATURE",
       "category": "Belgesel",
       "status": "working",
-      "url": "https://proud-river-e20b.pantonum1.workers.dev/lovenature.m3u8",
+      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197434&extension=ts&play_token=Ngkcs4n1xj",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "matched_display": "LOVE NATURE",
       "quality": 0,
       "attempts": [
         {
-          "url": "https://proud-river-e20b.pantonum1.workers.dev/lovenature.m3u8",
+          "url": "http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=736326&extension=ts&play_token=VKlYGH0kFo",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-511",
+          "display": "Love Nature",
+          "quality": 0
+        },
+        {
+          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197434&extension=ts&play_token=Ngkcs4n1xj",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
@@ -2342,17 +2227,21 @@
     {
       "name": "TARİH TV",
       "category": "Belgesel",
-      "status": "working",
-      "url": "https://proud-river-e20b.pantonum1.workers.dev/tarihtv.m3u8",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "TARIH TV",
-      "quality": 0,
+      "status": "not_found",
       "attempts": [
         {
-          "url": "https://proud-river-e20b.pantonum1.workers.dev/tarihtv.m3u8",
+          "url": "https://vavoo.biz-az.workers.dev/play/385695705243789b6f2c45.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200",
+          "ok": false,
+          "reason": "http-403",
+          "display": "TARİH TV",
+          "quality": 0
+        },
+        {
+          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197450&extension=ts&play_token=PwfkIVPsct",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-407",
           "display": "TARIH TV",
           "quality": 0
         }
