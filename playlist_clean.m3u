@@ -1489,6 +1489,8 @@ https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8
 https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8
 #EXTINF:-1 tvg-id="TRTBelgesel.tr@SD" group-title="Belgesel",TRT Belgesel (1080p)
 http://hls127.freeott.top:8080/TRT_BELGESEL_TR/video.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr@SD" group-title="Uncategorized",TRT World (576p)
+https://cdn.pishow.tv/ott/live/266/master.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/2ESUxIvbYSO5A0SeZJzMGJpCEyQ.jpg" group-title="Drama" tvg-year="2020" tvg-id="575659",Berlin Alexanderplatz (2020)
 https://alhynmkqujpksudyscajewjddvudsmbcpheakrnnxqlkvnmxsi.haccodavayup.shop/uploads/encode/dlqliwbofhynjbz1fi91/master.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/76LLbSnCYRl4r1ftIEfpSHwyIth.jpg" group-title="Komedi" tvg-year="2005" tvg-id="9007",Cennet Gibi (2005)
