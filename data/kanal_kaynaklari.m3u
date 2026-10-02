@@ -50,7 +50,7 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197258&ex
 #EXTINF:-1 tvg-name="NTV" group-title="Haber",NTV
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197266&extension=ts&play_token=4Nw50op3di
 #EXTINF:-1 tvg-name="HABERTÜRK" group-title="Haber",HABERTÜRK
-https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197264&extension=ts&play_token=Iw60S9KlXh
 #EXTINF:-1 tvg-name="TGRT HABER" group-title="Haber",TGRT HABER
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197263&extension=ts&play_token=c53adoDCo6
 #EXTINF:-1 tvg-name="CNBC-E" group-title="Haber",CNBC-E
