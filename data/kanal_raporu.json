@@ -1,7 +1,7 @@
 {
   "total_channels": 190,
-  "matched": 100,
-  "not_found": 90,
+  "matched": 96,
+  "not_found": 94,
   "source_errors": [],
   "channels": [
     {
@@ -1204,17 +1204,13 @@
     {
       "name": "POWER TÜRK SLOW",
       "category": "Müzik",
-      "status": "working",
-      "url": "https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "POWER TURK SLOW",
-      "quality": 0,
+      "status": "not_found",
       "attempts": [
         {
           "url": "https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200",
+          "ok": false,
+          "reason": "ConnectionError",
           "display": "POWER TURK SLOW",
           "quality": 0
         }
@@ -1223,17 +1219,13 @@
     {
       "name": "POWER TÜRK TAPTAZE",
       "category": "Müzik",
-      "status": "working",
-      "url": "https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "POWER TURK TAPTAZE",
-      "quality": 0,
+      "status": "not_found",
       "attempts": [
         {
           "url": "https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200",
+          "ok": false,
+          "reason": "ConnectionError",
           "display": "POWER TURK TAPTAZE",
           "quality": 0
         }
@@ -1356,13 +1348,21 @@
       "name": "SEMERKAND TV",
       "category": "Dini",
       "status": "working",
-      "url": "http://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8",
+      "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "matched_display": "SEMERKAND TV",
       "quality": 0,
       "attempts": [
         {
           "url": "http://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "ReadTimeout",
+          "display": "SEMERKAND TV",
+          "quality": 0
+        },
+        {
+          "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
@@ -1621,17 +1621,13 @@
     {
       "name": "BEIN SERIES 1",
       "category": "Dizi",
-      "status": "working",
-      "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471673&extension=ts&play_token=fDOWsHHnSf",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "beIN Series 1",
-      "quality": 0,
+      "status": "not_found",
       "attempts": [
         {
           "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471673&extension=ts&play_token=fDOWsHHnSf",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200",
+          "ok": false,
+          "reason": "http-407",
           "display": "beIN Series 1",
           "quality": 0
         }
@@ -2202,17 +2198,13 @@
     {
       "name": "ÇİFTÇİ TV",
       "category": "Belgesel",
-      "status": "working",
-      "url": "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "ÇİFTÇİ TV",
-      "quality": 0,
+      "status": "not_found",
       "attempts": [
         {
           "url": "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200",
+          "ok": false,
+          "reason": "ConnectionError",
           "display": "ÇİFTÇİ TV",
           "quality": 0
         }
