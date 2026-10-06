@@ -1,7 +1,7 @@
 {
   "total_channels": 190,
-  "matched": 96,
-  "not_found": 94,
+  "matched": 99,
+  "not_found": 91,
   "source_errors": [],
   "channels": [
     {
@@ -1204,13 +1204,17 @@
     {
       "name": "POWER TÜRK SLOW",
       "category": "Müzik",
-      "status": "not_found",
+      "status": "working",
+      "url": "https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": "POWER TURK SLOW",
+      "quality": 0,
       "attempts": [
         {
           "url": "https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "ConnectionError",
+          "ok": true,
+          "reason": "http-200",
           "display": "POWER TURK SLOW",
           "quality": 0
         }
@@ -1219,13 +1223,17 @@
     {
       "name": "POWER TÜRK TAPTAZE",
       "category": "Müzik",
-      "status": "not_found",
+      "status": "working",
+      "url": "https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": "POWER TURK TAPTAZE",
+      "quality": 0,
       "attempts": [
         {
           "url": "https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "ConnectionError",
+          "ok": true,
+          "reason": "http-200",
           "display": "POWER TURK TAPTAZE",
           "quality": 0
         }
@@ -1348,21 +1356,13 @@
       "name": "SEMERKAND TV",
       "category": "Dini",
       "status": "working",
-      "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8",
+      "url": "http://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "matched_display": "SEMERKAND TV",
       "quality": 0,
       "attempts": [
         {
           "url": "http://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "ReadTimeout",
-          "display": "SEMERKAND TV",
-          "quality": 0
-        },
-        {
-          "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
@@ -1621,13 +1621,17 @@
     {
       "name": "BEIN SERIES 1",
       "category": "Dizi",
-      "status": "not_found",
+      "status": "working",
+      "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471673&extension=ts&play_token=fDOWsHHnSf",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": "beIN Series 1",
+      "quality": 0,
       "attempts": [
         {
           "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471673&extension=ts&play_token=fDOWsHHnSf",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-407",
+          "ok": true,
+          "reason": "http-200",
           "display": "beIN Series 1",
           "quality": 0
         }
@@ -1655,17 +1659,13 @@
     {
       "name": "BEIN SERIES 3",
       "category": "Dizi",
-      "status": "working",
-      "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471675&extension=ts&play_token=gzHjnGWvXz",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "beIN Series 3",
-      "quality": 0,
+      "status": "not_found",
       "attempts": [
         {
           "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471675&extension=ts&play_token=gzHjnGWvXz",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200",
+          "ok": false,
+          "reason": "http-407",
           "display": "beIN Series 3",
           "quality": 0
         }
@@ -2198,13 +2198,17 @@
     {
       "name": "ÇİFTÇİ TV",
       "category": "Belgesel",
-      "status": "not_found",
+      "status": "working",
+      "url": "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": "ÇİFTÇİ TV",
+      "quality": 0,
       "attempts": [
         {
           "url": "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "ConnectionError",
+          "ok": true,
+          "reason": "http-200",
           "display": "ÇİFTÇİ TV",
           "quality": 0
         }
@@ -2220,17 +2224,25 @@
       "name": "TRT ÇOCUK",
       "category": "Çocuk",
       "status": "working",
-      "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197417&extension=ts&play_token=uFQW2KSLfI",
+      "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "TRT COCUK",
+      "matched_display": "TRT ÇOCUK",
       "quality": 0,
       "attempts": [
         {
           "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197417&extension=ts&play_token=uFQW2KSLfI",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-407",
+          "display": "TRT COCUK",
+          "quality": 0
+        },
+        {
+          "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
-          "display": "TRT COCUK",
+          "display": "TRT ÇOCUK",
           "quality": 0
         }
       ]
@@ -2239,17 +2251,25 @@
       "name": "MİNİKA ÇOCUK",
       "category": "Çocuk",
       "status": "working",
-      "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197414&extension=ts&play_token=QRcQhhtUMu",
+      "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "MINIKA COCUK",
+      "matched_display": "MINIKA ÇOCUK",
       "quality": 0,
       "attempts": [
         {
           "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197414&extension=ts&play_token=QRcQhhtUMu",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-407",
+          "display": "MINIKA COCUK",
+          "quality": 0
+        },
+        {
+          "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
-          "display": "MINIKA COCUK",
+          "display": "MINIKA ÇOCUK",
           "quality": 0
         }
       ]
