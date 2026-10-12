@@ -48,7 +48,7 @@ https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 #EXTINF:-1 tvg-name="ÜLKE TV" group-title="Haber",ÜLKE TV
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197258&extension=ts&play_token=kT246ZR7mz
 #EXTINF:-1 tvg-name="NTV" group-title="Haber",NTV
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197266&extension=ts&play_token=4Nw50op3di
+https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
 #EXTINF:-1 tvg-name="HABERTÜRK" group-title="Haber",HABERTÜRK
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197264&extension=ts&play_token=Iw60S9KlXh
 #EXTINF:-1 tvg-name="TGRT HABER" group-title="Haber",TGRT HABER
@@ -106,9 +106,7 @@ https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="NR1" group-title="Müzik",NR1
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197359&extension=ts&play_token=VTomsfRgFY
 #EXTINF:-1 tvg-name="NR1 TÜRK" group-title="Müzik",NR1 TÜRK
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197358&extension=ts&play_token=7iPd5Weu0a
-#EXTINF:-1 tvg-name="NUMBER1 TÜRK" group-title="Müzik",NUMBER1 TÜRK
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197358&extension=ts&play_token=7iPd5Weu0a
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8
 #EXTINF:-1 tvg-name="DİYANET TV" group-title="Dini",DİYANET TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT DİYANET ÇOCUK" group-title="Dini",TRT DİYANET ÇOCUK
