@@ -48,7 +48,7 @@ https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 #EXTINF:-1 tvg-name="ÜLKE TV" group-title="Haber",ÜLKE TV
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197258&extension=ts&play_token=kT246ZR7mz
 #EXTINF:-1 tvg-name="NTV" group-title="Haber",NTV
-https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197266&extension=ts&play_token=4Nw50op3di
 #EXTINF:-1 tvg-name="HABERTÜRK" group-title="Haber",HABERTÜRK
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197264&extension=ts&play_token=Iw60S9KlXh
 #EXTINF:-1 tvg-name="TGRT HABER" group-title="Haber",TGRT HABER

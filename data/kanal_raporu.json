@@ -464,37 +464,13 @@
       "name": "NTV",
       "category": "Haber",
       "status": "working",
-      "url": "https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web",
+      "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197266&extension=ts&play_token=4Nw50op3di",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "matched_display": "NTV",
       "quality": 0,
       "attempts": [
         {
           "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197266&extension=ts&play_token=4Nw50op3di",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-407",
-          "display": "NTV",
-          "quality": 0
-        },
-        {
-          "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197247&extension=ts&play_token=sTEEqg3kAh",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-407",
-          "display": "NTV",
-          "quality": 0
-        },
-        {
-          "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197291&extension=ts&play_token=bpMCEGuEgT",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-407",
-          "display": "NTV",
-          "quality": 0
-        },
-        {
-          "url": "https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
