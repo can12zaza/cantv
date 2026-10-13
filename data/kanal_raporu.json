@@ -1,7 +1,7 @@
 {
   "total_channels": 190,
-  "matched": 95,
-  "not_found": 95,
+  "matched": 96,
+  "not_found": 94,
   "source_errors": [],
   "channels": [
     {
@@ -1078,13 +1078,21 @@
       "name": "KRAL TV",
       "category": "Müzik",
       "status": "working",
-      "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197360&extension=ts&play_token=06puQPiAQ5",
+      "url": "http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "matched_display": "KRAL TV",
       "quality": 0,
       "attempts": [
         {
           "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197360&extension=ts&play_token=06puQPiAQ5",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-407",
+          "display": "KRAL TV",
+          "quality": 0
+        },
+        {
+          "url": "http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
@@ -1262,25 +1270,17 @@
       "name": "NR1 TÜRK",
       "category": "Müzik",
       "status": "working",
-      "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8",
+      "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197358&extension=ts&play_token=7iPd5Weu0a",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "NR 1 TURK",
+      "matched_display": "NR1 TÜRK",
       "quality": 0,
       "attempts": [
         {
           "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197358&extension=ts&play_token=7iPd5Weu0a",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-407",
-          "display": "NR1 TÜRK",
-          "quality": 0
-        },
-        {
-          "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
-          "display": "NR 1 TURK",
+          "display": "NR1 TÜRK",
           "quality": 0
         }
       ]
@@ -1294,29 +1294,17 @@
     {
       "name": "NUMBER1 TÜRK",
       "category": "Müzik",
-      "status": "not_found",
+      "status": "working",
+      "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197358&extension=ts&play_token=7iPd5Weu0a",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": "NR1 TÜRK",
+      "quality": 0,
       "attempts": [
         {
           "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197358&extension=ts&play_token=7iPd5Weu0a",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-407",
-          "display": "NR1 TÜRK",
-          "quality": 0
-        },
-        {
-          "url": "http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=8730&extension=ts&play_token=RtxNcPwxBT",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-511",
-          "display": "NR1 Turk",
-          "quality": 0
-        },
-        {
-          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197358&extension=ts&play_token=7iPd5Weu0a",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-407",
+          "ok": true,
+          "reason": "http-200",
           "display": "NR1 TÜRK",
           "quality": 0
         }
