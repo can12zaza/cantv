@@ -1,7 +1,7 @@
 {
   "total_channels": 190,
-  "matched": 99,
-  "not_found": 91,
+  "matched": 97,
+  "not_found": 93,
   "source_errors": [],
   "channels": [
     {
@@ -1014,17 +1014,13 @@
     {
       "name": "BEIN SPORTS HABER",
       "category": "Spor",
-      "status": "working",
-      "url": "http://176.65.153.66:6003/play/a00y/index.m3u8",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "beIN SPORTS HABER",
-      "quality": 0,
+      "status": "not_found",
       "attempts": [
         {
           "url": "http://176.65.153.66:6003/play/a00y/index.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200",
+          "ok": false,
+          "reason": "http-404",
           "display": "beIN SPORTS HABER",
           "quality": 0
         }
@@ -1104,17 +1100,29 @@
     {
       "name": "KRAL POP",
       "category": "Müzik",
-      "status": "working",
-      "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197361&extension=ts&play_token=88YQcnlyZu",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "KRAL POP",
-      "quality": 0,
+      "status": "not_found",
       "attempts": [
         {
           "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197361&extension=ts&play_token=88YQcnlyZu",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200",
+          "ok": false,
+          "reason": "http-407",
+          "display": "KRAL POP",
+          "quality": 0
+        },
+        {
+          "url": "http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=557141&extension=ts&play_token=V9p6cinYum",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-511",
+          "display": "KRAL POP",
+          "quality": 0
+        },
+        {
+          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197361&extension=ts&play_token=88YQcnlyZu",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-407",
           "display": "KRAL POP",
           "quality": 0
         }
