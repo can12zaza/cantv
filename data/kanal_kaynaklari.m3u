@@ -66,7 +66,7 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197178&ex
 #EXTINF:-1 tvg-name="TRT WORLD" group-title="Haber",TRT WORLD
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197261&extension=ts&play_token=cdx7DrYc71
 #EXTINF:-1 tvg-name="TRT SPOR" group-title="Spor",TRT SPOR
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=709&extension=ts&play_token=AN3cSmXfyI
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=615826&extension=ts&play_token=NKaM9BVBIs
 #EXTINF:-1 tvg-name="TRT SPOR YILDIZ" group-title="Spor",TRT SPOR YILDIZ
 http://umperisn.mywire.org/index.php?id=2019&token=DeaTHLesS
 #EXTINF:-1 tvg-name="A SPOR" group-title="Spor",A SPOR
@@ -193,5 +193,3 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197271&ex
 https://gtrk-volga.ru/media/hr24/stream1.m3u8
 #EXTINF:-1 tvg-name="KIRAL FM" group-title="Radyo",KIRAL FM
 https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8?listeningSessionID=689a71b34a7d0fef_650218_ELAz7Pop__000000061yg&downloadSessionID=0&listenerid=3239e3f5e40f1819ee16c17a3a5f5b3e&awparams=companionAds%3Atrue
-#EXTINF:-1 tvg-name="KIRAL POP" group-title="Radyo",KIRAL POP
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197361&extension=ts&play_token=88YQcnlyZu
