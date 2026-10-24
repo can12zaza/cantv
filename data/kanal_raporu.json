@@ -1729,7 +1729,7 @@
       "name": "TRT BELGESEL",
       "category": "Belgesel",
       "status": "working",
-      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197441&extension=ts&play_token=2YxNaeWuvv",
+      "url": "http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=3389&extension=ts&play_token=PnOsjNCN9H",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "matched_display": "TRT BELGESEL",
       "quality": 0,
@@ -1760,22 +1760,6 @@
         },
         {
           "url": "http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=3389&extension=ts&play_token=PnOsjNCN9H",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-511",
-          "display": "TRT BELGESEL",
-          "quality": 0
-        },
-        {
-          "url": "http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=557157&extension=ts&play_token=jdqULm7mX8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-511",
-          "display": "TRT BELGESEL",
-          "quality": 0
-        },
-        {
-          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197441&extension=ts&play_token=2YxNaeWuvv",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
