@@ -1391,49 +1391,17 @@
       "name": "LALEGÜL TV",
       "category": "Dini",
       "status": "working",
-      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=210470&extension=ts&play_token=Zrn51zyy62",
+      "url": "https://lbl.netmedya.net/hls/lalegultv.m3u8",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "LALEGUL TV",
+      "matched_display": "LALEGüL TV",
       "quality": 0,
       "attempts": [
         {
           "url": "https://lbl.netmedya.net/hls/lalegultv.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-404",
-          "display": "LALEGüL TV",
-          "quality": 0
-        },
-        {
-          "url": "https://lbl.netmedya.net/hls/lalegultv.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-404",
-          "display": "LALEGüL TV",
-          "quality": 0
-        },
-        {
-          "url": "https://lbl.netmedya.net/hls/lalegultv.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-404",
-          "display": "LALEGÜL TV",
-          "quality": 0
-        },
-        {
-          "url": "https://lbl.netmedya.net/hls/lalegultv.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-404",
-          "display": "Lalegül Tv",
-          "quality": 0
-        },
-        {
-          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=210470&extension=ts&play_token=Zrn51zyy62",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
-          "display": "LALEGUL TV",
+          "display": "LALEGüL TV",
           "quality": 0
         }
       ]
