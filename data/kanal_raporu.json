@@ -1487,7 +1487,7 @@
           "url": "http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=508596&extension=ts&play_token=En45VLPaEZ",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": false,
-          "reason": "http-429",
+          "reason": "http-511",
           "display": "SINEMA TV",
           "quality": 0
         },
@@ -1678,13 +1678,17 @@
     {
       "name": "BEIN SERIES 4",
       "category": "Dizi",
-      "status": "not_found",
+      "status": "working",
+      "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471676&extension=ts&play_token=x3dLMvs808",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": "beIN Series 4",
+      "quality": 0,
       "attempts": [
         {
           "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471676&extension=ts&play_token=x3dLMvs808",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-407",
+          "ok": true,
+          "reason": "http-200",
           "display": "beIN Series 4",
           "quality": 0
         }
@@ -1799,7 +1803,7 @@
           "url": "http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=200346&extension=ts&play_token=o6DAOh72r0",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": false,
-          "reason": "http-429",
+          "reason": "http-511",
           "display": "DISCOVERY CHANNEL",
           "quality": 0
         },
@@ -2280,11 +2284,7 @@
     {
       "name": "CARTOON NETWORK",
       "category": "Çocuk",
-      "status": "working",
-      "url": "http://176.65.153.12:6002/play/a05x/index.m3u8",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "CARTOON NETWORK",
-      "quality": 0,
+      "status": "not_found",
       "attempts": [
         {
           "url": "http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197411&extension=ts&play_token=6Vh9e7AwnI",
@@ -2313,8 +2313,8 @@
         {
           "url": "http://176.65.153.12:6002/play/a05x/index.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200",
+          "ok": false,
+          "reason": "ConnectTimeout",
           "display": "CARTOON NETWORK",
           "quality": 0
         }
