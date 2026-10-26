@@ -1,258 +1,44 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TRT1.png" group-title="Ulusal", TRT 1 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196699&extension=ts&play_token=vmAan78Qyz
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Atv.png" group-title="Ulusal", ATV 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196698&extension=ts&play_token=6k77AngOgl
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/showtv.png" group-title="Ulusal", SHOW TV 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196697&extension=ts&play_token=S05dySmbjf
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/KanalD.png" group-title="Ulusal", KANAL D 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196696&extension=ts&play_token=DYgtNp28Es
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/startv.png" group-title="Ulusal", STAR TV 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196695&extension=ts&play_token=9rZyNWfIPX
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/FOXTV.png" group-title="Ulusal", NOW TV 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196694&extension=ts&play_token=lSQRFJi5TM
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Tv8.png" group-title="Ulusal", TV 8 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196693&extension=ts&play_token=b5WpiwQiiH
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Tv8.png" group-title="Ulusal", TV 8.5 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196692&extension=ts&play_token=021Y7YSYE8
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BeyazTV.png" group-title="Ulusal", BEYAZ TV 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196675&extension=ts&play_token=MB5iIE85Ro
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Kanal7.png" group-title="Ulusal", KANAL 7 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196690&extension=ts&play_token=PndCKJQB2u
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Teve2_logo.png" group-title="Ulusal", TEVE 2 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196689&extension=ts&play_token=7u6BNeQHj0
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TRT2.png" group-title="Ulusal", TRT 2 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196688&extension=ts&play_token=xSvgymKo8X
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UKRAINE/TRT_logo_(2018-).svg.png" group-title="Ulusal", TRT  
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197438&extension=ts&play_token=zkjkoH1DCe
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/A2.png" group-title="Ulusal", A2 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196687&extension=ts&play_token=DGJnc2zcvx
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/360.png" group-title="Ulusal", 360 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196686&extension=ts&play_token=bNDysiy4vA
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/showmax.png" group-title="Ulusal", SHOW MAX 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196700&extension=ts&play_token=fc6mDNoLp1
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/atvavrupa.png" group-title="Ulusal", ATV AVRUPA
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196666&extension=ts&play_token=mVvbrNqoax
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/showtv.png" group-title="Ulusal", SHOW TURK
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196664&extension=ts&play_token=qoGE4lge5n
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Euro_D.png" group-title="Ulusal", EURO D
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196663&extension=ts&play_token=Xly1dUUni8
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Tv8.png" group-title="Ulusal", TV 8 INT
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196662&extension=ts&play_token=jn7Qq9d7fI
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Kanal7.png" group-title="Ulusal", KANAL 7 AVRUPA
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196661&extension=ts&play_token=t2EsW8HHSU
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/kanalfirat.png" group-title="Ulusal", KANAL FIRAT
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196660&extension=ts&play_token=pTDH5wP4Or
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/MALAYSIA/Logo_of_TV1_(Malaysia).svg%20(1).png" group-title="Ulusal", TV1
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196659&extension=ts&play_token=9d3LgPUiM1
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BRT.png" group-title="Ulusal", BRT 1 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196657&extension=ts&play_token=NNkEernreQ
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BRT.png" group-title="Ulusal", BRT 2 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196656&extension=ts&play_token=BfqwEL1Ga7
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Akit_TV.png" group-title="Yerel", AKIT TV
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197233&extension=ts&play_token=5x13V8PrEV
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/AKILLI.png" group-title="Yerel", AKILLI TV
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197231&extension=ts&play_token=xYOCtq7QJV
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Beng%C3%BCt%C3%BCrk_TV.png" group-title="Yerel", BENGÜ TÜRK
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197227&extension=ts&play_token=BIkfp6yMim
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Cem_TV_logo.png" group-title="Yerel", CEM TV
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197223&extension=ts&play_token=fqcWcqBS9Q
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ekoturk-logo-400.png" group-title="Yerel", EKOTURK TV
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197215&extension=ts&play_token=bY3WHejOmN
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/kanal_68.png" group-title="Yerel", KANAL 68
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197200&extension=ts&play_token=4eItwPJoyj
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/kanalavrupa.png" group-title="Yerel", KANAL AVRUPA
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197199&extension=ts&play_token=RV6FOEvIWL
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/kanalb.png" group-title="Yerel", KANAL B
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197198&extension=ts&play_token=6NxyOt8ARr
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/krt%20(2).png" group-title="Yerel", KRT TV
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197195&extension=ts&play_token=ALQMMnvJJp
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/koytv.png" group-title="Yerel", KÖY TV
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197193&extension=ts&play_token=VrCvWFnQOv
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/kontv.png" group-title="Yerel", KON TV
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197191&extension=ts&play_token=PM2eb119cV
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/rumelitv.png" group-title="Yerel", RUMELI TV
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197188&extension=ts&play_token=PaNAKhTAov
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/mavikaradeniz.png" group-title="Yerel", MAVI KARADENIZ
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197183&extension=ts&play_token=18GX0jcvL1
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/meltem.png" group-title="Yerel", MELTEM TV
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197182&extension=ts&play_token=GckvrhtdF2
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/pamukkaletv.png" group-title="Yerel", PAMUKKALE TV
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197179&extension=ts&play_token=OHyYS2HCuW
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ULUSAL.png" group-title="Yerel", ULUSAL KANAL
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197178&extension=ts&play_token=8qxzVqk0m2
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SAT7.png" group-title="Yerel", SAT7 TURK
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197177&extension=ts&play_token=lky5iwkG54
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/mc.eu.png" group-title="Yerel", MC EU
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197176&extension=ts&play_token=0TuVDx1Mn3
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TGRT_EU.png" group-title="Yerel", TGRT EU
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197175&extension=ts&play_token=uw8w4RDI5f
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/kayseritv.png" group-title="Yerel", KAYSERI TV
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197173&extension=ts&play_token=k3Ssrmgnnr
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/tv1kayseri.png" group-title="Yerel", TV 1 KAYSERI
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197171&extension=ts&play_token=wgCB9rueyY
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/vatan.png" group-title="Yerel", VAV TV
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197167&extension=ts&play_token=6Sq7Otufl9
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/VIZYON58.png" group-title="Yerel", VIZYON 58
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197166&extension=ts&play_token=94CyDe2YRg
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/YOL-TV.png" group-title="Yerel", YOL TV
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197164&extension=ts&play_token=nDvHZaixWT
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/YILDIZEN.png" group-title="Yerel", YILDIZ EN
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197163&extension=ts&play_token=D8JZhO6bpY
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/UZAYHABER.png" group-title="Yerel", UZAY HABER
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197161&extension=ts&play_token=oX2laqQH7Y
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/FINLAND/150px-TV5_Finland_logo_2019.png" group-title="Yerel", TV 5
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197160&extension=ts&play_token=dg0fqY7VUH
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Habert%C3%BCrktv.png" group-title="Haber", HABER TÜRK 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197264&extension=ts&play_token=Iw60S9KlXh
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TGRT_Haber.png" group-title="Haber", TGRT HABER 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197263&extension=ts&play_token=c53adoDCo6
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/trt-haber.png" group-title="Haber", TRT HABER 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197262&extension=ts&play_token=VItI33IyP6
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TRT_World.png" group-title="Haber", TRT WORLD 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197261&extension=ts&play_token=cdx7DrYc71
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/CNN_T%C3%BCrk_logo.svg.png" group-title="Haber", CNN TÜRK 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197260&extension=ts&play_token=UJ6cx8th1N
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Ahaber_Logo.png" group-title="Haber", A HABER 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197259&extension=ts&play_token=lETzv8vz
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ulketv.png" group-title="Haber", ULKE TV 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197258&extension=ts&play_token=kT246ZR7mz
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/there.png" group-title="Haber", TV NET 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197257&extension=ts&play_token=hQlsXbvuXH
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/NTV.png" group-title="Haber", NTV 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197266&extension=ts&play_token=4Nw50op3di
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Flash_TV.png" group-title="Haber", FLASH HABER 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197265&extension=ts&play_token=QkFNXps4SM
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Haber_Global.png" group-title="Haber", HABER GLOBAL 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197268&extension=ts&play_token=tGkC8erhpz
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Bloomberg_Television_logo.svg.png" group-title="Haber", BLOOMBERG 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197269&extension=ts&play_token=jjLPIkkc
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/24haber.png" group-title="Haber", 24 HABER 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197270&extension=ts&play_token=kbSCfqIRQ7
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/HABER/A NEWS .png" group-title="Haber", A NEWS 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197271&extension=ts&play_token=Nx8VX4UaJj
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/TRAPARATV.png" group-title="Haber", A PARA 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197272&extension=ts&play_token=YMedtQj0VQ
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TV100_logo.png" group-title="Haber", TV 100 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197273&extension=ts&play_token=fIy9sX6ocp
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TRT_T%C3%BCrk_logosu.png" group-title="Haber", TRT TÜRK 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197240&extension=ts&play_token=KJkY5hTnHv
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/halktv.png" group-title="Haber", HALK TV 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197274&extension=ts&play_token=hmqcrCTD7p
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Tele1.png" group-title="Haber", TELE 1 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197275&extension=ts&play_token=XlBwIcQt6l
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/krt%20(2).png" group-title="Haber", KRT 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197276&extension=ts&play_token=cqRGvvpTWt
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/sozcutv.png" group-title="Haber", SÖZCÜ TV 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=540949&extension=ts&play_token=JOFxL2wUlR
-#EXTINF:-1 tvg-logo="" group-title="Haber", EKOL TV 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1257377&extension=ts&play_token=DA2nexCTPP
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Powert%C3%BCrktv.png" group-title="Müzik", POWER TÜRK 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197364&extension=ts&play_token=FkdL4n4O9g
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Powert%C3%BCrktv.png" group-title="Müzik", POWER TV 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197362&extension=ts&play_token=7LuoOPyioR
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/kraltv.png" group-title="Müzik", KRAL POP 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197361&extension=ts&play_token=88YQcnlyZu
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/kraltv.png" group-title="Müzik", KRAL TV 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197360&extension=ts&play_token=06puQPiAQ5
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/nr1turk.png" group-title="Müzik", NR1 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197359&extension=ts&play_token=VTomsfRgFY
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/nr1turk.png" group-title="Müzik", NR1 TÜRK 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197358&extension=ts&play_token=7iPd5Weu0a
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/MÜZIK/DREAM TURK.png" group-title="Müzik", DREAM TURK
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=724290&extension=ts&play_token=H8tbzRrnAq
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TMB-TV.png" group-title="Müzik", TMB 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197344&extension=ts&play_token=XeQODwvtKm
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Trt_muzik.png" group-title="Müzik", TRT MUZIK 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197363&extension=ts&play_token=bHBz9ZRpwX
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/vatan.png" group-title="Müzik", VATAN TV 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197349&extension=ts&play_token=M2Apl16HZ9
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/nickjr.png" group-title="Cocuk", NICK JR 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197419&extension=ts&play_token=LgWVg7wQt4
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BabyTV.png" group-title="Cocuk", BABY TV 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197418&extension=ts&play_token=pFntdTqMqE
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TRT_%C3%87ocuk_logo_(2021).svg.png" group-title="Cocuk", TRT COCUK 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197417&extension=ts&play_token=uFQW2KSLfI
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Smart_%C3%87ocuk.png" group-title="Cocuk", COCUKSMART 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197391&extension=ts&play_token=51HOKokcOm
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/disneyjr.png" group-title="Cocuk", DISNEY JR 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197416&extension=ts&play_token=hucq7m6UUI
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Minikago.png" group-title="Cocuk", MINIKA GO
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197415&extension=ts&play_token=jZU8XkX5Bq
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/cinecocuk.png" group-title="Cocuk", MINIKA COCUK
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197414&extension=ts&play_token=QRcQhhtUMu
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/nickelodeon.png" group-title="Cocuk", NICKELODEON 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197412&extension=ts&play_token=d2rZJutNho
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Cartoon_Network.png" group-title="Cocuk", CARTOON NETWORK
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=197411&extension=ts&play_token=6Vh9e7AwnI
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne SERIES.png" group-title="Tivione Platform",beIN Series 1
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471673&extension=ts&play_token=fDOWsHHnSf
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne SERIES.png" group-title="Tivione Platform",beIN Series 2
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471674&extension=ts&play_token=5gfhIkzuQg
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne SERIES.png" group-title="Tivione Platform",beIN Series 3
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471675&extension=ts&play_token=gzHjnGWvXz
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne SERIES.png" group-title="Tivione Platform",beIN Series 4
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471676&extension=ts&play_token=x3dLMvs808
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES PREMIERE.png" group-title="Tivione Platform", TiviOne MOVIES PREMIERE 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471678&extension=ts&play_token=pCSHS8y6a9
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES PREMIERE.png" group-title="Tivione Platform", TiviOne MOVIES PREMIERE 2 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471679&extension=ts&play_token=5Re2g5Y61Q
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES ACTION.png" group-title="Tivione Platform", TiviOne MOVIES ACTION 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471677&extension=ts&play_token=wYvQ6VQYYA
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES STARS.png" group-title="Tivione Platform", TiviOne MOVIES STARS 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471680&extension=ts&play_token=mZ2ehyWIXk
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES TURK.png" group-title="Tivione Platform", TiviOne MOVIES TURK 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471681&extension=ts&play_token=p8HF9AkTNy
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne BOX OFFICE 1.png" group-title="Tivione Platform", TiviOne BOX OFFICE 1
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471698&extension=ts&play_token=ZzrLzmL66r
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne BOX OFFICE 2.png" group-title="Tivione Platform", TiviOne BOX OFFICE 2
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471699&extension=ts&play_token=vtxTsTkH2o
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne BOX OFFICE 3.png" group-title="Tivione Platform", TiviOne BOX OFFICE 3
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471700&extension=ts&play_token=i0YM1UnDab
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/DIZISMART MAX.png" group-title="Sinema Platform", DIZISMART MAX
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471682&extension=ts&play_token=BtvB09wPcF
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/CINE 6.png" group-title="Sinema Platform", DIZISMART PREMIUM
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471683&extension=ts&play_token=M5icembCGP
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/MOVIESMART.png" group-title="Sinema Platform", MOVIESMART CLASSIC
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471684&extension=ts&play_token=txJYZNZE6k
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/MOVIESMART TÜRK.png" group-title="Sinema Platform", MOVIESMART TÜRK
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471685&extension=ts&play_token=t39wCHGH3S
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV 2.png" group-title="Sinema Platform",SINEMA TV AKSIYON 2
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471689&extension=ts&play_token=rlz9LlxLPS
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV 1001.png" group-title="Sinema Platform", SINEMA TV 1001
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471686&extension=ts&play_token=yPA99fo4XP
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV 1002.png" group-title="Sinema Platform", SINEMA TV 1002
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471687&extension=ts&play_token=HzhZ6vEhES
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV AKSIYON.png" group-title="Sinema Platform", SINEMA TV AKSIYON
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471692&extension=ts&play_token=JrSdLylyR5
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV AILE.png" group-title="Sinema Platform", SINEMA TV AILE
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471690&extension=ts&play_token=XkCHN9quwY
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV AILE 2.png" group-title="Sinema Platform", SINEMA TV AILE 2
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471691&extension=ts&play_token=bcbMRdaja4
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV YERLI.png" group-title="Sinema Platform", SINEMA TV YERLI
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471695&extension=ts&play_token=4gVsSqTs89
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV YERLI 2.png" group-title="Sinema Platform", SINEMA TV YERLI 2
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471696&extension=ts&play_token=8QN8Rx0ig8
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV KOMEDI.png" group-title="Sinema Platform", SINEMA TV KOMEDI
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471694&extension=ts&play_token=gUDQpjYD0L
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/CINE 6.png" group-title="Sinema Platform", CINE 6
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471697&extension=ts&play_token=fBblcTNf3r
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/EPIC DRAMA.png" group-title="Sinema Platform", EPIC DRAMA
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471701&extension=ts&play_token=POSWGUQYoB
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/FX.png" group-title="Sinema Platform", FX
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471702&extension=ts&play_token=cbcl7gAM4x
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/TIVI 6.png" group-title="Sinema Platform", TIVI 6
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=1471703&extension=ts&play_token=d61TdntQCe
+#EXTINF:-1 tvg-id="" tvg-name="┃TR┃ KANAL D" group-title="┃TR┃ ULUSAL",KANAL D
+http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=196696&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="┃TR┃ BEYAZ TV" group-title="┃TR┃ ULUSAL",BEYAZ TV
+http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=196675&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="┃TR┃ TRT 2" group-title="┃TR┃ ULUSAL",TRT 2
+http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=196688&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="┃TR┃ 360" group-title="┃TR┃ ULUSAL",360
+http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=196686&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="┃TR┃ ATV" group-title="┃TR┃ ULUSAL",ATV
+http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=196682&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="┃TR┃ NOW TV" group-title="┃TR┃ ULUSAL",NOW TV
+http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=196678&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="┃TR┃ TV 8 INT" group-title="┃TR┃ ULUSAL",TV 8 INT
+http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=196662&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="┃TR┃ KAYSERI TV" group-title="┃TR┃ YEREL",KAYSERI TV
+http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=197173&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="┃TR┃ TRT HABER" group-title="┃TR┃ HABER",TRT HABER
+http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=197285&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="┃TR┃ BEIN SERIES 2" group-title="┃TR┃ BEIN PLATFORM",BEIN SERIES 2
+http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=1471674&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="┃TR┃ BEIN SPORTS 1" group-title="┃TR┃ BEIN SPORTS",BEIN SPORTS 1
 http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=988852&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="┃TR┃ YABAN TV" group-title="┃TR┃ BELGESEL",YABAN TV
 http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=197439&extension=ts
+#EXTINF:0 group-title="Uncategorized",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:0 group-title="Uncategorized",SHOW TV
+https://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web
 #EXTINF:0 group-title="Uncategorized",STAR
 https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web
 #EXTINF:0 group-title="Uncategorized",NOW
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
+#EXTINF:0 group-title="Uncategorized",TV 8
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=tv8_web
 #EXTINF:0 group-title="Uncategorized",TV 8 BUçUK
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web
+#EXTINF:0 group-title="Uncategorized",A2
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
+#EXTINF:0 group-title="Uncategorized",TEVE 2
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 #EXTINF:0 group-title="Uncategorized",TLC
 https://dogus.daioncdn.net/tlc/tlc.m3u8?app=tlc_web
 #EXTINF:0 group-title="Uncategorized",DMAX
@@ -261,30 +47,56 @@ https://dogus.daioncdn.net/dmax/dmax.m3u8?app=dmax_web
 https://sweet-truth-729d.han686314.workers.dev/?url=https://helga.iptv2022.com/sh/kon_tv/index.m3u8
 #EXTINF:0 group-title="-",CNBC-E
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
+#EXTINF:0 group-title="Uncategorized",KANAL B
+https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8
 #EXTINF:0 group-title="Uncategorized",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:0 group-title="Uncategorized",BENGü TüRK
+https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
+#EXTINF:0 group-title="Uncategorized",NTV
+https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
+#EXTINF:0 group-title="Uncategorized",CNN TüRK
+https://sweet-truth-729d.han686314.workers.dev/?url=https://helga.iptv2022.com/cnn_turk/index.m3u8
 #EXTINF:0 group-title="Uncategorized",24 TV
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
+#EXTINF:0 group-title="Haber",TGRT HABER
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
+#EXTINF:0 group-title="Uncategorized",HABER TüRK
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
 #EXTINF:0 group-title="Uncategorized",BLOOMBERG HT
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:0 group-title="RADYO",ÜLKE TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
+#EXTINF:0 group-title="Uncategorized",TRT TüRK
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="Uncategorized",TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="-",TRT 3 - TBMM
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 #EXTINF:0 group-title="Uncategorized",TRT KURDI
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:0 group-title="Uncategorized",HABER GLOBAL
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:0 group-title="Spor", HT SPOR
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+#EXTINF:0 group-title="Uncategorized",EKOL TV
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:0 group-title="Spor",EKOL SPORT TV
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
+#EXTINF:0 group-title="Uncategorized",HALK TV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:0 group-title="Uncategorized",SZC TV
 https://sweet-truth-729d.han686314.workers.dev/?url=https://helga.iptv2022.com/szc_tv/index.m3u8
 #EXTINF:0 group-title="Haber",LIDER HABER
 https://liderhaber.han686314.workers.dev/?url=https://lidertv.radyotelekom.com.tr/player/m3u8/9217b6e91d17c38f7d171eb2b3670349/chunklist_w1214941309.m3u8
+#EXTINF:0 group-title="Uncategorized",TELE 1
+https://tele1-live.ercdn.net/tele1/tele1.m3u8
 #EXTINF:0 group-title="Uncategorized",AS TV
 https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
+#EXTINF:0 group-title="Uncategorized",TIVI 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
+#EXTINF:0 group-title="Uncategorized",TRT WORLD
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="Uncategorized",TRT ARABIA
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="Uncategorized",DW TV (ENGLISH)
@@ -301,6 +113,8 @@ https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 group-title="Çocuk",MINIKA ÇOCUK
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
+#EXTINF:0 group-title="Uncategorized",MINIKA GO
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
 #EXTINF:0 group-title="Çocuk",TRT DIYANET ÇOCUK
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 group-title="Uncategorized",DIYANET TV
@@ -321,16 +135,24 @@ https://host.onlineradyotv.net:8081/cine5tv/index.m3u8
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Ümitm0d-Türk Kanalları" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/02ef58a4-349a-49a6-8df2-82fb71c6554d.png" tvg-name="Trt Spor Yıldız " ,TRT SPOR YıLDıZ
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+#EXTINF:0 group-title="Uncategorized",STAR TV
+https://dogus-live.daioncdn.net/startv/playlist.m3u8
+#EXTINF:0 group-title="Uncategorized",KANAL 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:0 group-title="Uncategorized",TV4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:0 group-title="Uncategorized",BEYAZ TV F
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+#EXTINF:0 group-title="Uncategorized",TV 8.5
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
 #EXTINF:0 group-title="Uncategorized",BENGU TURK
 https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
 #EXTINF:0 group-title="Haber",TURK HABER TV
 https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
 #EXTINF:0 group-title="Uncategorized",HABER 61
 http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
+#EXTINF:0 group-title="Uncategorized",EURO D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:0 group-title="Belgesel",TGRT BELGESEL
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8?md5=yJ4adbAK5bE0F93vqFevgw&expires=1687122603
 #EXTINF:0 group-title="Uncategorized",TRT TURK
@@ -341,6 +163,10 @@ https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
 #EXTINF:0 group-title="Uncategorized",KRAL POP TV F
 http://dygvideo.dygdigital.com/live/hls/kralpop
+#EXTINF:0 group-title="Uncategorized",TRT MUZIK
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 group-title="Uncategorized",DREAM TURK
+https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:0 group-title="Uncategorized",NR 1 TURK
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8
 #EXTINF:0 group-title="Uncategorized",NR 1 DAMAR
@@ -359,10 +185,14 @@ https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
 #EXTINF:0 group-title="Uncategorized",SLOW KARADENIZ TV
 https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
+#EXTINF:0 group-title="Uncategorized",MELTEM TV
+https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 #EXTINF:0 group-title="Uncategorized",DOST  TV
 https://dost.stream.emsal.im/tv/live.m3u8
 #EXTINF:0 group-title="Uncategorized",SEMERKAND TV
 http://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+#EXTINF:0 group-title="Uncategorized",KANAL AVRUPA
+https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
 #EXTINF:0 group-title="Uncategorized",MC EU TV
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 #EXTINF:0 group-title="Uncategorized",KANAL 3
@@ -379,6 +209,8 @@ https://edge1.socialsmart.tv/kanal32/bant1/chunks.m3u8
 https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8
 #EXTINF:0 group-title="Uncategorized",KANAL 58
 https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/chunks.m3u8
+#EXTINF:0 group-title="Uncategorized",KANAL FIRAT
+https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
 #EXTINF:0 group-title="Uncategorized",KANAL ADA
 http://145.239.58.133:28008/kanalada/kanalada/sec-f5-v1-a1.m3u8?app=supersatforum
 #EXTINF:0 group-title="Uncategorized",MUGLA TÜRK TV
@@ -467,6 +299,8 @@ https://edge1.socialsmart.tv/naturaltv/bant1/playlist.m3u8
 https://trt.daioncdn.net/trt-1/master_1440p.m3u8?&sid=8aa3uppo48h8&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Z0ebKCs.png" group-title="ULUSAL KANALLAR",TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/emCRLEwSVK.webp" group-title="ULUSAL KANALLAR",SHOW MAX
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/9K0D6MAp.png" group-title="ULUSAL KANALLAR",TV2
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/SgCWx_43h7YA.png" group-title="ULUSAL KANALLAR",KANAL 1
@@ -521,8 +355,12 @@ https://cdn-telenews.yayin.com.tr/telenews/tracks-v1a1/mono.m3u8
 https://tytturk-live.ercdn.net/tytturk/tytturk_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/diamQPgXyh4G.png" group-title="HABER KANALLARI",AKİT TV
 http://umperisn.mywire.org/index.php?id=594236&token=DeaTHLesS
+#EXTINF:-1 tvg-logo="https://flashhabertv.com.tr/assets/img/logo-v4.png" group-title="HABER KANALLARI",FLASH HABER
+https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/mt_0.m3u8
 #EXTINF:-1 tvg-logo="https://asset.artidijitalmedya.com/image/400x400/channels/v1/logo_103.png?v=15" group-title="HABER KANALLARI",MK TV
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFJpWzq0/1708069491985.jpg" group-title="HABER KANALLARI",KRT
+http://umperisn.mywire.org/index.php?id=594231&token=DeaTHLesS
 #EXTINF:-1 tvg-logo="https://s.tv100.com/assets/web/images/logo.svg" group-title="HABER KANALLARI",TV100
 http://europe77.xyz:2095/live/sevgul49/nFSNas21UA/120666.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvnet.com.tr/img/logo.png" group-title="HABER KANALLARI",TVNET
@@ -551,10 +389,18 @@ http://str.yodacdn.net/idmantele/index.m3u8
 https://tjktv-live.tjk.org/tjktv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/AcQk_nfBZwH.jpg" group-title="AVRUPA KANALLARI",TÜRKMENELİ TV
 https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/S4_0AeXLZwo.png" group-title="AVRUPA KANALLARI",KANAL 7 AVRUPA
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/a-3zy4e9dPc.png" group-title="AVRUPA KANALLARI",MC EU
+https://n2.burst.cdn.jetstre.am/session/450f4c594b612903b7d42d421fb93c21/sz/mceutv/wowza4/live/mc2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://tgrteu.com/canliyayin/images/tgrteu.png" group-title="AVRUPA KANALLARI",TGRT EU
+http://umperisn.mywire.org/index.php?id=594199&token=DeaTHLesS
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J44Jmqkh/images-removebg-preview-(2).png" group-title="YEREL KANALLAR",KANAL 19
 https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://aktifiptv.com/kanal53.png" group-title="YEREL KANALLAR",KANAL 53
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvbir.com.tr/images/genel/tv1-logo.fw.png?v=2024120611581120251125002117" group-title="YEREL KANALLAR",TV1
+https://edge2.taksimbilisim.com/tv1/bant1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_284.png?v=3" group-title="YEREL KANALLAR",TV3
 https://live.artidijitalmedya.com/artidijital_tv3/tv3/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/tv-42-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="YEREL KANALLAR",TV42
@@ -569,6 +415,8 @@ https://edge1.taksimbilisim.com/kanalurfa/bant1/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/2Moasp0OCly.png" group-title="YEREL KANALLAR",YENİ KOCAELİ TV
 https://edge1.taksimbilisim.com/kocaelitv/bant1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/AeB8s6.png" group-title="YEREL KANALLAR",CEM TV
+https://tv.cemtv.net:19360/cemtv/cemtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7h7RWyy1/images-removebg-preview-(3).png" group-title="YEREL KANALLAR",KAÇKAR TV
 https://www.euromediacenter.com/kackartv-6207.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26tp6TST/desktop-Picsart-Background-Remover.png" group-title="YEREL KANALLAR",GRT
@@ -583,6 +431,8 @@ https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/chunks.m3u8
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.malatyavuslattv.com/images/banner/malatya_vuslat_logo.png" group-title="YEREL KANALLAR",MALATYA VUSLAT TV
 https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNnCsQpT/38508988-ico.png" group-title="YEREL KANALLAR",KON TV
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:B4:54:0F&stream=197191&extension=ts&play_token=PM2eb119cV
 #EXTINF:-1 tvg-logo="https://www.altastv.com.tr/images/altastvlogo.png" group-title="YEREL KANALLAR",ORDU ALTAŞ TV
 https://edge2.taksimbilisim.com/altastv/bant1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK6FHQJ2/37969490-ico.png" group-title="YEREL KANALLAR",EDESSA TV
@@ -647,6 +497,8 @@ https://canli.sercemtv.com.tr/hls/0/stream.m3u8
 https://ip44.radyotelekomtv.com:3887/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BQGd7t0z/38038943-ico.png" group-title="YEREL KANALLAR",NEF TV
 https://ip44.radyotelekomtv.com:3628/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/KTXLQ.png" group-title="ÇOCUK KANALLARI",CARTOON NETWORK
+https://nord.ayakkabiparti.lol/cartoonnetwork/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/t4NkNTdn/Cartoonito-Logo.png" group-title="ÇOCUK KANALLARI",CARTOONİTO
 http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6850/index.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/K-EciCHWFwP.png" group-title="ÇOCUK KANALLARI",TRT DİYANET ÇOCUK
@@ -663,12 +515,18 @@ http://162.212.179.32/akamaissh101/ssh101/teber_maxi_tv/chunks.m3u8
 https://toonixhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hnwx8Z/38369884-ico.png" group-title="ÇOCUK KANALLARI",TRT GENÇ
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fy5wBYzr/77c77219204661-562d67f45c148-removebg-preview.png" group-title="MÜZİK KANALLARI",KRAL TV
+http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXcHZ1Jd/images-removebg-preview-(2).png" group-title="MÜZİK KANALLARI",NR1 AŞK
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/chunklist_b400000.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MH5QV7mh/raptv-removebg-preview.png" group-title="MÜZİK KANALLARI",NR1 RAP
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunklist_b400000.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncLsNQkL/Number-one-tv-logo.png" group-title="MÜZİK KANALLARI",NR1
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/5etd4TmhgQ.webp" group-title="MÜZİK KANALLARI",TRT MÜZİK
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KcDxZ5sB/logo-44.png" group-title="MÜZİK KANALLARI",POWER TV
+https://live.artidijitalmedya.com/artidijital_powertv/powertv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://ia600906.us.archive.org/17/items/cine-7-tezene/CINE7_TEZENE.gif" group-title="MÜZİK KANALLARI",CİNE7 TEZENE
 http://162.212.179.32/akamaissh101/ssh101/teber_tv7/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vRX0gJ/logo-removebg-preview.png" group-title="MÜZİK KANALLARI",EKİNTÜRK
@@ -765,8 +623,24 @@ https://dygedge.radyotvonline.net/kralpop/playlist.m3u8?listeningSessionID=689a7
 http://46.20.3.231:80/;
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/6Uea_.webp" group-title="RADYO",KRAL FM
 https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8?listeningSessionID=689a71b34a7d0fef_650218_ELAz7Pop__000000061yg&downloadSessionID=0&listenerid=3239e3f5e40f1819ee16c17a3a5f5b3e&awparams=companionAds%3Atrue
+#EXTINF:-1 tvg-id="" tvg-name="TR:Tv 100" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/e2291af0-569b-4260-94f3-5505d1a40e76.png" group-title="DeaTHLesS-TV",Tv 100
+https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Gzt Tv" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/86c1a901-3b47-41e6-bf9b-b433ec170fdd.png" group-title="DeaTHLesS-TV",Gzt Tv
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:Tmb" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/3d8f616d-a421-4fcd-a13a-1a29e3bbd88c.png" group-title="DeaTHLesS-TV",Tmb
+https://str.yodacdn.net/tmb_tr_app/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:A Haber" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1c207549-826b-4c8e-8dd3-bbd488258430.png" group-title="DeaTHLesS-TV",A Haber
+https://trn03.tulix.tv/gt-ahabertv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:Akit Tv" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/76a7dd67-cee1-4c70-914e-551d77e09661.png" group-title="DeaTHLesS-TV",Akit Tv
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:Brt 1" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/1f260af7-37dd-4368-8c9a-2d4c28fa5fd1.png" group-title="DeaTHLesS-TV",Brt 1
+https://edge.kuzeykibrissmart.tv/brt1hd/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:Tv 5 " tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/043eff4d-bde2-493c-9c7d-c07a698bb0be.png" group-title="DeaTHLesS-TV",Tv 5 
+https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:Krt Tv" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/be5ace80-d03f-40f1-8c6b-a6e66ca96927.png" group-title="DeaTHLesS-TV",Krt Tv
+https://teknobaba.han686314.workers.dev/Krt_Tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR:Ulusal Kanal" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/5f895c30-fa0a-4f74-b4b6-ee562fb27e26.png" group-title="DeaTHLesS-TV",Ulusal Kanal
+https://teknobaba.han686314.workers.dev/Ulusal_Kanal.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Sports Tv" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/ce3a853a-b638-44b8-b4f4-9728aec137d3.png" group-title="DeaTHLesS-TV",Sports Tv
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Sinema TV 1" tvg-logo="https://i.hizliresim.com/2qpuwst.jpg" group-title="DeaTHLesS-TV",Sinema TV 1
@@ -781,340 +655,144 @@ https://ip100.radyotelekomtv.com:3303/stream/play.m3u8
 https://cdn-onstv.yayin.com.tr/onstv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR:Sinema TV 10" tvg-logo="https://i.hizliresim.com/2qpuwst.jpg" group-title="DeaTHLesS-TV",Sinema TV 10
 https://trn03.tulix.tv/gt-tivi6/tracks-v1a1/rewind-588800.m3u8
+#EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Fx" tvg-logo="https://i.hizliresim.com/e18xvq8.png" group-title="DeaTHLesS-TV",Fx
+https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Nat Geo" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/national-geographic-hd-buyuk.png" group-title="DeaTHLesS-TV",Nat Geo
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1 xui-id="{XuI_ID}" tvg-id="TR" tvg-name="TR: Nat Wild" tvg-logo="https://cdn.digiturkburada.com.tr/kanallar2/logo1_0.jpg" group-title="DeaTHLesS-TV",Nat Wild
 https://saran-live.ercdn.net/natgeowild/index.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3308.jpg?36121" group-title="TR| TÜRKIYE  TV",Euro Star
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=3384&extension=ts&play_token=LljjWZlbNO
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/858.jpg?3216" group-title="TR| TÜRKIYE  TV",A2 Turkiya 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=8725&extension=ts&play_token=ZApvf9EI2U
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/859.jpg?68542" group-title="TR| TÜRKIYE  TV",TV8.5 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=8686&extension=ts&play_token=8qMkr5gsDg
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7841.jpg?72942" group-title="TR| TÜRKIYE  TV",TV 8 International
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=19982&extension=ts&play_token=iHpZaqxvKk
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11516.jpg?22338" group-title="TR| TÜRKIYE  TV",TRT Diyanet TV 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=301132&extension=ts&play_token=Ahn33O51tt
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/865.jpg?41543" group-title="TR| TÜRKIYE  TV",360 TV 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=8687&extension=ts&play_token=joYwirljIy
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/876.jpg?74027" group-title="TR| TÜRKIYE  TV",RumeliTV
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=8733&extension=ts&play_token=dJYHvkkQlZ
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/978.jpg?ver=37556" group-title="TR| TÜRKIYE  TV",Al Turkmenia TV
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=764644&extension=ts&play_token=P36UbWF1zL
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1348.jpg?ver=75779" group-title="TR| TÜRKIYE  TV",TURKMENELI TV 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=764643&extension=ts&play_token=mKXZ1TGSBD
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/837.jpg?76066" group-title="TR| TÜRKIYE  TV",Blommberg HT 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=8710&extension=ts&play_token=HVWplZWj9c
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13558.jpg?55752" group-title="TR| TÜRKIYE  TV",BRT 1 KKTC 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=3395&extension=ts&play_token=0CNcNXdEJl
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13558.jpg?55752" group-title="TR| TÜRKIYE  TV",BRT 2 KKTC 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=3396&extension=ts&play_token=uKodve0KWl
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/647.jpg?ver=27022" group-title="TR| TÜRKIYE  TV",LALEGUL
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=200365&extension=ts&play_token=Dwx4y61XWZ
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/234.png?18357" group-title="TR| TÜRKIYE  TV",CNN Turk 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=3365&extension=ts&play_token=HT0eR8rg3O
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/959.jpg?5112" group-title="TR| TÜRKIYE  TV",Altas TV
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=3437&extension=ts&play_token=YEt7OvKlLM
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/950.jpg?41364" group-title="TR| TÜRKIYE  TV",BENGUTURK
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=3435&extension=ts&play_token=6ExdErxyOo
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/850.jpg?55129" group-title="TR| TÜRKIYE  TV",BRTV Karabuk
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=8718&extension=ts&play_token=V5qJg5iGTR
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11294.jpg?98844" group-title="TR| TÜRKIYE  TV",Gonca TV
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=3444&extension=ts&play_token=r7mQKOfq2h
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/957.jpg?40565" group-title="TR| TÜRKIYE  TV",Kanal 42
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=3438&extension=ts&play_token=7QXzYC21yF
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/855.jpg?64004" group-title="TR| TÜRKIYE  TV",Mavi Karad
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=8723&extension=ts&play_token=5PPJJcwjqi
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/868.jpg?55163" group-title="TR| TÜRKIYE  TV",On 4
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=8732&extension=ts&play_token=daSaWJd474
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3131.jpg?53620" group-title="TR| TÜRKIYE  TV",RTV Kanal 23
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=3415&extension=ts&play_token=zDWCWbIXl4
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/935.jpg?59752" group-title="TR| TÜRKIYE  TV",Sat 7 Turk
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=3422&extension=ts&play_token=uJF7TLPvOK
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/948.jpg?54547" group-title="TR| TÜRKIYE  TV",Turk Haber
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=301473&extension=ts&play_token=h32WK7cilt
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7813.jpg?19716" group-title="TR| TÜRKIYE  TV",TV Kayseri
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=3434&extension=ts&play_token=w3Su6hydPL
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/907.jpg?80111" group-title="TR| TÜRKIYE  TV",TRT EBA TV ORTAOKUL
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=110719&extension=ts&play_token=Y0MIJXElbO
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/909.png?36096" group-title="TR| TÜRKIYE  TV",TRT AVAZ TV 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=652778&extension=ts&play_token=2cjeocipeI
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1875.jpg?30472" group-title="TR| TÜRKIYE  TV",Ekinturk TV
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=590911&extension=ts&play_token=Bur23VzkTw
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Animated-Flag-Turkey.gif" group-title="Çocuk",###### ÇOCUKLAR  ######
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=373931&extension=ts&play_token=oFKCTge6pY
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10950.png?1324" group-title="Çocuk",TRT Diyanet Cocuk 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=763666&extension=ts&play_token=n8thz7huvv
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/752.png?84256" group-title="Çocuk",Carton Network
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=8695&extension=ts&play_token=TpaXpMyhhV
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/748.png?ver=3061" group-title="Çocuk",Disney Junior 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=200300&extension=ts&play_token=8cv2bWXVaY
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/120/630.png?64022" group-title="Çocuk",Boomerang 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=200370&extension=ts&play_token=03APZRdDRB
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13302.png?ver=13030" group-title="Çocuk",8kGo OD 1 ÇOCUKLAR 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=373651&extension=ts&play_token=Rz35dI5Z6f
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13302.png?ver=13030" group-title="Çocuk",8kGo OD 2 ÇOCUKLAR 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=373650&extension=ts&play_token=vqYwZGqjd6
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13302.png?ver=13030" group-title="Çocuk",8kGo OD 3 ÇOCUKLAR 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=373649&extension=ts&play_token=8kNVlaJJ1E
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13302.png?ver=13030" group-title="Çocuk",8kGo OD 4 ÇOCUKLAR 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=373648&extension=ts&play_token=rjlkFI4dC6
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13302.png?ver=13030" group-title="Çocuk",8kGo OD 5 ÇOCUKLAR 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=373647&extension=ts&play_token=BWARlOQ8PE
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13302.png?ver=13030" group-title="Çocuk",8kGo OD 6 ÇOCUKLAR 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=373646&extension=ts&play_token=TGTz0mauGP
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13302.png?ver=13030" group-title="Çocuk",8kGo OD 7 ÇOCUKLAR 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=373645&extension=ts&play_token=F0mEpj36ZZ
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13302.png?ver=13030" group-title="Çocuk",8kGo OD 8 ÇOCUKLAR 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=373644&extension=ts&play_token=Y5pRcA5uZ7
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13302.png?ver=13030" group-title="Çocuk",8kGo OD 9 ÇOCUKLAR 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=373643&extension=ts&play_token=AZEiuRpARs
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13302.png?ver=13030" group-title="Çocuk",8kGo OD 10 ÇOCUKLAR 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=373642&extension=ts&play_token=RzcWO9SHmY
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Animated-Flag-Turkey.gif" group-title="TR| Fimler",###### FIMLER  ######
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=373933&extension=ts&play_token=XSnEUFyuWy
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12782.png?95032" group-title="TR| Fimler",DiZi PREMIUM
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=200368&extension=ts&play_token=x5FgNImwLB
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11514.jpg?ver=53367" group-title="TR| Fimler",8kGo BOX OFFICE 1 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=200328&extension=ts&play_token=BrLsfn7edG
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11511.jpg?ver=3132" group-title="TR| Fimler",8kGo BOX OFFICE 2 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=200327&extension=ts&play_token=7NfjKaVzJx
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11524.png?9767" group-title="TR| Fimler",8kGo BOX OFFICE 3 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=200326&extension=ts&play_token=Uqdsx1wjVN
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11513.jpg?36305" group-title="TR| Fimler",8kGo MOVIES ACTION 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=200306&extension=ts&play_token=tNniMHzqAl
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11513.jpg?98035" group-title="TR| Fimler",8kGo MOVIES ACTION 2 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=409738&extension=ts&play_token=T2zLngLJ8Q
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11504.jpg?ver=81173" group-title="TR| Fimler",8kGo MOVIES STARS 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=200304&extension=ts&play_token=aSHGFRVbqo
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11518.jpg?41841" group-title="TR| Fimler",8kGo MOVIES TURK 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=200303&extension=ts&play_token=yvQajnFcTN
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11503.jpg?15428" group-title="TR| Fimler",8kGo MOVIES FAMILY 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=200305&extension=ts&play_token=0ZV1YLDzmo
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11507.png?4130" group-title="TR| Fimler",8kGo MOVIES PRMIERE 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=409741&extension=ts&play_token=CHmpUOvBXm
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11507.png?4130" group-title="TR| Fimler",8kGo MOVIES PREMIERE 2 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=409740&extension=ts&play_token=1Ticmd88Ov
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11509.jpg?2003" group-title="TR| Fimler",8kGo SERIES COMEDY 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=200309&extension=ts&play_token=Yrop7xILgG
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11512.jpg?63934" group-title="TR| Fimler",8kGo SERIES DRAMA 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=200308&extension=ts&play_token=HpWlbvEz4O
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11499.jpg?75263" group-title="TR| Fimler",8kGo SERIES VICE 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=200307&extension=ts&play_token=3a31GeDTv2
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13617.png?71867" group-title="TR| Fimler",8kGo SERIES SCI-FI 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=409743&extension=ts&play_token=AeQoZ4gNgo
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8235.png?65366" group-title="TR| Fimler",FX+  
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=423534&extension=ts&play_token=yb1dDVGB4F
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4013.jpg?55879" group-title="TR| Fimler",MOVIE SMART PREMIUM 1 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=200321&extension=ts&play_token=8m21CCFLyJ
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4013.jpg?55879" group-title="TR| Fimler",MOVIE SMART CLASSIC 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=200318&extension=ts&play_token=3QBsArQiKO
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4013.jpg?55879" group-title="TR| Fimler",MOVIE SMART TURK 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=200313&extension=ts&play_token=G5lXgYBLuM
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11531.png?82251" group-title="TR| Fimler",SINEMA TV 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=508596&extension=ts&play_token=En45VLPaEZ
-#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15169.png?43395" group-title="TR| Fimler",FILMBOX PREMIER 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=668798&extension=ts&play_token=UVesagS4bB
-#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15169.png?43395" group-title="TR| Fimler",FILMBOX ACTION 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=668797&extension=ts&play_token=NQN7yBAvjd
-#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15169.png?43395" group-title="TR| Fimler",FILMBOX FANTASTIC 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=668796&extension=ts&play_token=4hyOM4DJJz
-#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15169.png?43395" group-title="TR| Fimler",FILMBOX FAMILY 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=668794&extension=ts&play_token=uHsDGmKFbc
-#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15169.png?43395" group-title="TR| Fimler",FILMBOX ROMANTIC 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=668793&extension=ts&play_token=EGMO8Q9rNU
-#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15169.png?43395" group-title="TR| Fimler",FILMBOX COMEDY 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=668792&extension=ts&play_token=v8oQShBDES
-#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15169.png?43395" group-title="TR| Fimler",FILMBOX DRAMA 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=668790&extension=ts&play_token=3Y3x2CVnk0
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9795.jpg?14803" group-title=" HABER",Haber Turk 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=8694&extension=ts&play_token=ab7lsoHgzl
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1871.jpg?25415" group-title=" HABER",EKOTURK
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=239988&extension=ts&play_token=tS73FCFimH
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13961.jpg?36842" group-title=" HABER",CAN ISMER TV 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1379461&extension=ts&play_token=W4DoqSbAQz
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9795.jpg?69687" group-title=" HABER",Global Haber TV 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=9100&extension=ts&play_token=A7PDhwRhoJ
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/872.jpg?56905" group-title=" HABER",Medya Haber
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=4525&extension=ts&play_token=a6DTcfeFlg
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Animated-Flag-Turkey.gif" group-title="TR| Müzi̇k",###### MÜZİK  ######
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=373930&extension=ts&play_token=KjXSROupw5
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/838.jpg?39115" group-title="TR| Müzi̇k",Power Turk 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=8707&extension=ts&play_token=gxlgWf6bAi
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/838.jpg?74532" group-title="TR| Müzi̇k",Power 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=8706&extension=ts&play_token=ZmawIKZ4rh
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/877.jpg?79086" group-title="TR| Müzi̇k",TRT MUSIK
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1716864&extension=ts&play_token=g5zXSYN7N9
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/869.jpg?34735" group-title="TR| Müzi̇k",NR1 Turk 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=8730&extension=ts&play_token=RtxNcPwxBT
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QjQY3M2P/8kGo-Sports-GIF.gif" group-title="TR| 8kGo GOLD",## 8kGo GOLD  ##
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868693&extension=ts&play_token=YnoMHYbO8W
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11549.jpg?13801" group-title="TR| 8kGo GOLD",GOLD: 8kGo HABER 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868692&extension=ts&play_token=ABaDb4iDhZ
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1366.png?2992" group-title="TR| 8kGo GOLD",GOLD: 8kGo 1 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868691&extension=ts&play_token=3xyLjrACT7
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1365.png?89345" group-title="TR| 8kGo GOLD",GOLD: 8kGo 2 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868690&extension=ts&play_token=FuCChFqthf
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1368.png?10674" group-title="TR| 8kGo GOLD",GOLD: 8kGo 3 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868689&extension=ts&play_token=Nf1KL28sII
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1370.png?41477" group-title="TR| 8kGo GOLD",GOLD: 8kGo 4 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868688&extension=ts&play_token=bsmG5PLtdz
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1367.png?90178" group-title="TR| 8kGo GOLD",GOLD: 8kGo 5 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868687&extension=ts&play_token=BGtDnHKsF4
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11550.jpg?25947" group-title="TR| 8kGo GOLD",GOLD: 8kGo MAX 1 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868686&extension=ts&play_token=9apkUoNyRb
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11551.jpg?9950" group-title="TR| 8kGo GOLD",GOLD: 8kGo MAX 2 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868685&extension=ts&play_token=SKsVSXVOEY
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QjQY3M2P/8kGo-Sports-GIF.gif" group-title="TR| 8kGo GOLD",## TR| 8kGo GOLD SD ##
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868677&extension=ts&play_token=3k40OMtS4z
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Animated-Flag-Turkey.gif" group-title="TR| EXXEN GOLD",## TR| EXXEN GOLD SD ##
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868642&extension=ts&play_token=q0VoCNsjmK
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3197.png?69923" group-title="TR| EXXEN GOLD",GOLD: EXXEN 1 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868655&extension=ts&play_token=FShkQOtnvv
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3197.png?69923" group-title="TR| EXXEN GOLD",GOLD: EXXEN 2 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868654&extension=ts&play_token=rH7HBK8UQx
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3197.png?69923" group-title="TR| EXXEN GOLD",GOLD: EXXEN 3 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868653&extension=ts&play_token=eNkGFHPaod
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3197.png?69923" group-title="TR| EXXEN GOLD",GOLD: EXXEN 4 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868652&extension=ts&play_token=M5U3I2Kuds
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3197.png?69923" group-title="TR| EXXEN GOLD",GOLD: EXXEN 5 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868651&extension=ts&play_token=UNamhxQE9m
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3197.png?69923" group-title="TR| EXXEN GOLD",GOLD: EXXEN 6 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868645&extension=ts&play_token=KSW2RVLYhY
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3197.png?69923" group-title="TR| EXXEN GOLD",GOLD: EXXEN 7 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868644&extension=ts&play_token=oyskFXtGiD
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3197.png?69923" group-title="TR| EXXEN GOLD",GOLD: EXXEN 8 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868643&extension=ts&play_token=mebXNUAslx
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3197.png?69923" group-title="TR| EXXEN GOLD",GOLD: EXXEN TV SD
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868640&extension=ts&play_token=1ZXLMUaxDK
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Animated-Flag-Turkey.gif" group-title="TR| SPOR KANALI GOLD",## TR| SPOR KANALI GOLD SD ##
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868616&extension=ts&play_token=Kit9xACj9r
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11544.jpg?36381" group-title="TR| SPOR KANALI GOLD",GOLD: TIVIBU SPOR 1 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868635&extension=ts&play_token=5saTY4PLAQ
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11544.jpg?36381" group-title="TR| SPOR KANALI GOLD",GOLD: TIVIBU SPOR 2 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868634&extension=ts&play_token=8DzUPDxmCo
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11544.jpg?36381" group-title="TR| SPOR KANALI GOLD",GOLD: TIVIBU SPOR 3 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868633&extension=ts&play_token=bRVfNzn3N8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3211.png?87499" group-title="TR| SPOR KANALI GOLD",GOLD: S SPORT 1 SD
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868615&extension=ts&play_token=TSAJQcq8RD
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3211.png?87499" group-title="TR| SPOR KANALI GOLD",GOLD: S SPORT 2 SD
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868614&extension=ts&play_token=iH5N2ufozs
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/908.png?8337" group-title="TR| SPOR KANALI GOLD",GOLD: TRT SPOR SD
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868613&extension=ts&play_token=aHM4mNxACi
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8184.jpg?14009" group-title="TR| SPOR KANALI GOLD",GOLD: A SPOR SD
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868611&extension=ts&play_token=YgTW41HTqS
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/871.png?62719" group-title="TR| SPOR KANALI GOLD",GOLD: SPORTS TV 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868628&extension=ts&play_token=pem4vqJauq
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9365.png?20438" group-title="TR| SPOR KANALI GOLD",GOLD: SMART SPORT 1 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868627&extension=ts&play_token=UiZ8MH310Y
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9365.png?20438" group-title="TR| SPOR KANALI GOLD",GOLD: SMART SPORT 2 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868626&extension=ts&play_token=XWzowQiJXN
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10882.jpg?94666" group-title="TR| SPOR KANALI GOLD",GOLD: FB TV 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868625&extension=ts&play_token=QHIFqCIhsB
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14210.png?90753" group-title="TR| SPOR KANALI GOLD",GOLD: HTSPOR 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868624&extension=ts&play_token=aiHgSTXtAE
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4727.jpg?59341" group-title="TR| SPOR KANALI GOLD",GOLD: NBA TV 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868623&extension=ts&play_token=GBNiNjiIji
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11924.png?44553" group-title="TR| SPOR KANALI GOLD",GOLD: TRT 3 SPOR 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868622&extension=ts&play_token=Lgouu8Xn15
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/840.jpg?14743" group-title="TR| SPOR KANALI GOLD",GOLD: TRT SPOR YILDIZ SD
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868612&extension=ts&play_token=xii6mAGDTD
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1934.png?34558" group-title="TR| SPOR KANALI GOLD",GOLD: EUROSPORT 1 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868620&extension=ts&play_token=AD6IAdoDN0
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/627.jpg?80761" group-title="TR| SPOR KANALI GOLD",GOLD: EUROSPORT 2 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868619&extension=ts&play_token=iA5zMSbeFb
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10618.jpg?40991" group-title="TR| SPOR KANALI GOLD",GOLD: KANAL 26 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868618&extension=ts&play_token=tyXpoCTIuv
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8117.png?39897" group-title="TR| SPOR KANALI GOLD",GOLD: EDGE SPORT 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=868617&extension=ts&play_token=Bp0LMJAuf2
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10882.jpg?73029" group-title="TR| SPOR KANALI VIP",TR VIP: FB TV 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=401277&extension=ts&play_token=K7ptXh8x8O
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9973.jpg?84189" group-title="TR| SPOR KANALI VIP",TR VIP: FIGHTBOX 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=401276&extension=ts&play_token=UGWmsnQex6
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11203.jpg?41989" group-title="TR| SPOR KANALI VIP",TR VIP: GS TV 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=401281&extension=ts&play_token=XTYL68rUHO
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11230.jpg?42901" group-title="TR| SPOR KANALI VIP",TR VIP: NBA TV 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=401275&extension=ts&play_token=8dxlB4C5pP
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8238.jpg?69095" group-title="TR| SPOR KANALI VIP",TR VIP: S SPORT+ 1 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=508592&extension=ts&play_token=dTvx4qllx3
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8238.jpg?69095" group-title="TR| SPOR KANALI VIP",TR VIP: S SPORT+ 2 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=508591&extension=ts&play_token=Z5J8e89ET9
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8238.jpg?69095" group-title="TR| SPOR KANALI VIP",TR VIP: S SPORT+ 3 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=508590&extension=ts&play_token=aYW6rpnXcC
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8238.jpg?69095" group-title="TR| SPOR KANALI VIP",TR VIP: S SPORT+ 4 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=508589&extension=ts&play_token=QbsyTbdIXZ
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8238.jpg?69095" group-title="TR| SPOR KANALI VIP",TR VIP: S SPORT+ 5 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=508588&extension=ts&play_token=i5Fp22YtFk
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8238.jpg?69095" group-title="TR| SPOR KANALI VIP",TR VIP: S SPORT+ 6 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=508587&extension=ts&play_token=ntD8JQlzBt
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3211.png?92632" group-title="TR| SPOR KANALI VIP",TR VIP: S SPORT 1 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=401283&extension=ts&play_token=5GLpLsaJWX
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3211.png?92632" group-title="TR| SPOR KANALI VIP",TR VIP: S SPORT 2 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=401282&extension=ts&play_token=tGlVmrnGNQ
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2292.jpg?1484" group-title="TR| SPOR KANALI VIP",TR VIP: SPOR SMART 1 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=401274&extension=ts&play_token=hmpGcRWZYl
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2292.jpg?55337" group-title="TR| SPOR KANALI VIP",TR VIP: SPOR SMART 2 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=401284&extension=ts&play_token=pKyOaRBsrh
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/871.png?48855" group-title="TR| SPOR KANALI VIP",TR VIP: SPORTS TV
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=401273&extension=ts&play_token=ilqB8Y9LiA
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3768.png?39815" group-title="TR| SPOR KANALI VIP",TR VIP: A SPOR 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=401280&extension=ts&play_token=xHFk2kmVzz
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11544.jpg?6884" group-title="TR| SPOR KANALI VIP",TR VIP: TIVIBU SPOR 1 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=401272&extension=ts&play_token=dl6zH3x91D
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11544.jpg?6884" group-title="TR| SPOR KANALI VIP",TR VIP: TIVIBU SPOR 2 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=401271&extension=ts&play_token=lmAwlqupAY
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11544.jpg?6884" group-title="TR| SPOR KANALI VIP",TR VIP: TIVIBU SPOR 3 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=401270&extension=ts&play_token=gvplQ0kEE0
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/908.png?23378" group-title="TR| SPOR KANALI VIP",TR VIP: TRT SPOR YıLDıZ 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=401269&extension=ts&play_token=O37CMozFBs
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Animated-Flag-Turkey.gif" group-title="TR| SPOR KANALI LOCAL",###### SPOR KANALI LOCAL ######
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=373929&extension=ts&play_token=FTuAIiS8xY
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13820.png?ver=76711" group-title=" SPOR",TABII SPORT YALDIZ 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1966389&extension=ts&play_token=hojGR1Q5gg
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13820.png?ver=76711" group-title=" SPOR",TRT SPORT 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=1966387&extension=ts&play_token=sGicMpLxIF
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Animated-Flag-Turkey.gif" group-title=" BELGESEL",###### BELGESEL  ######
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=374148&extension=ts&play_token=rnoKBvrxp8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6563.jpg?74585" group-title=" BELGESEL",Dmax Turk 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=19985&extension=ts&play_token=xH2xqrKm5r
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1439.jpg?34415" group-title=" BELGESEL",VIASAT HISTORY
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=200353&extension=ts&play_token=ak1RZqJyg0
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/720.jpg?3859" group-title=" BELGESEL",VIASAT EXPLORE 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=587195&extension=ts&play_token=6TCRBIxqrh
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11250.png?2892" group-title=" BELGESEL",DISCOVERY CHANNEL 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=200346&extension=ts&play_token=o6DAOh72r0
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/620.jpg?70052" group-title=" BELGESEL",DISCOVERY SCIENCE 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=200347&extension=ts&play_token=wVPq6rwlON
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7937.jpg?76162" group-title=" BELGESEL",DISCOVERY ID 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=200348&extension=ts&play_token=YBAdp8FGzq
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6621.png?98967" group-title=" BELGESEL",NAT GEO PEOPLE
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=200364&extension=ts&play_token=eXDQvMfXD9
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/735.jpg?24850" group-title=" BELGESEL",NAT GEO WILD
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=200363&extension=ts&play_token=Wfutr37cHp
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3982.png?97462" group-title=" BELGESEL",BBC EARTH
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=200352&extension=ts&play_token=706rpGO6PS
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?90113" group-title=" BELGESEL",HISTORY 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=587194&extension=ts&play_token=e57YMrO07i
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/910.jpg?59877" group-title=" BELGESEL",TRT Belgelel 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=4532&extension=ts&play_token=2A8UTCxGNF
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/626.png?63163" group-title=" BELGESEL",ANIMAL PLANET
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=200355&extension=ts&play_token=C6JkUxCuRA
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6088.jpg?30833" group-title=" BELGESEL",Love Nature  
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=736326&extension=ts&play_token=VKlYGH0kFo
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/919.jpg?33187" group-title="TR| TURKISH  NA",BRT 3 
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=557147&extension=ts&play_token=YUDKQAMzFg
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UKRAINE/TRT_logo_(2018-).svg.png" group-title="Ulusal", TRT  
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197438&extension=ts&play_token=zkjkoH1DCe
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX2/TURKEYFLAG.png" group-title="Ulusal",⚠️ M3U Index Stbemu Alıntıdır ‼️
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=000000&extension=ts&play_token=r3qpsQLSx0
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/atvavrupa.png" group-title="Ulusal", ATV AVRUPA
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=196666&extension=ts&play_token=mVvbrNqoax
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/showtv.png" group-title="Ulusal", SHOW TURK
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=196664&extension=ts&play_token=qoGE4lge5n
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BRT.png" group-title="Ulusal", BRT 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=196656&extension=ts&play_token=BfqwEL1Ga7
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/AKILLI.png" group-title="Yerel", AKILLI TV
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197231&extension=ts&play_token=xYOCtq7QJV
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ekoturk-logo-400.png" group-title="Yerel", EKOTURK TV
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197215&extension=ts&play_token=bY3WHejOmN
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/kanal_68.png" group-title="Yerel", KANAL 68
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197200&extension=ts&play_token=4eItwPJoyj
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/koytv.png" group-title="Yerel", KÖY TV
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197193&extension=ts&play_token=VrCvWFnQOv
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/rumelitv.png" group-title="Yerel", RUMELI TV
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197188&extension=ts&play_token=PaNAKhTAov
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/mavikaradeniz.png" group-title="Yerel", MAVI KARADENIZ
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197183&extension=ts&play_token=18GX0jcvL1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/pamukkaletv.png" group-title="Yerel", PAMUKKALE TV
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197179&extension=ts&play_token=OHyYS2HCuW
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/SAT7.png" group-title="Yerel", SAT7 TURK
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197177&extension=ts&play_token=lky5iwkG54
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/tv1kayseri.png" group-title="Yerel", TV 1 KAYSERI
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197171&extension=ts&play_token=wgCB9rueyY
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/vatan.png" group-title="Yerel", VAV TV
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197167&extension=ts&play_token=6Sq7Otufl9
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/VIZYON58.png" group-title="Yerel", VIZYON 58
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197166&extension=ts&play_token=94CyDe2YRg
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/YOL-TV.png" group-title="Yerel", YOL TV
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197164&extension=ts&play_token=nDvHZaixWT
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/YILDIZEN.png" group-title="Yerel", YILDIZ EN
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197163&extension=ts&play_token=D8JZhO6bpY
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/UZAYHABER.png" group-title="Yerel", UZAY HABER
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197161&extension=ts&play_token=oX2laqQH7Y
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ulketv.png" group-title="Haber", ULKE TV 
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197258&extension=ts&play_token=kT246ZR7mz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/there.png" group-title="Haber", TV NET 
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197257&extension=ts&play_token=hQlsXbvuXH
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Bloomberg_Television_logo.svg.png" group-title="Haber", BLOOMBERG 
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197269&extension=ts&play_token=jjLPIkkc
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/24haber.png" group-title="Haber", 24 HABER 
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197270&extension=ts&play_token=kbSCfqIRQ7
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/HABER/A NEWS .png" group-title="Haber", A NEWS 
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197271&extension=ts&play_token=Nx8VX4UaJj
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/TRAPARATV.png" group-title="Haber", A PARA 
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197272&extension=ts&play_token=YMedtQj0VQ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/sozcutv.png" group-title="Haber", SÖZCÜ TV 
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=540949&extension=ts&play_token=JOFxL2wUlR
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Powert%C3%BCrktv.png" group-title="Müzik", POWER TÜRK
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197364&extension=ts&play_token=FkdL4n4O9g
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/kraltv.png" group-title="Müzik", KRAL POP
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197361&extension=ts&play_token=88YQcnlyZu
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/nr1turk.png" group-title="Müzik", NR1 TÜRK
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197358&extension=ts&play_token=7iPd5Weu0a
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/vatan.png" group-title="Müzik", VATAN TV
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197349&extension=ts&play_token=M2Apl16HZ9
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/nickjr.png" group-title="Cocuk", NICK JR
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197419&extension=ts&play_token=LgWVg7wQt4
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BabyTV.png" group-title="Cocuk", BABY TV
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197418&extension=ts&play_token=pFntdTqMqE
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TRT_%C3%87ocuk_logo_(2021).svg.png" group-title="Cocuk", TRT COCUK
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197417&extension=ts&play_token=uFQW2KSLfI
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Smart_%C3%87ocuk.png" group-title="Cocuk", COCUKSMART
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197391&extension=ts&play_token=51HOKokcOm
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/disneyjr.png" group-title="Cocuk", DISNEY JR
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197416&extension=ts&play_token=hucq7m6UUI
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/cinecocuk.png" group-title="Cocuk", MINIKA COCUK
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197414&extension=ts&play_token=QRcQhhtUMu
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/nickelodeon.png" group-title="Cocuk", NICKELODEON
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197412&extension=ts&play_token=d2rZJutNho
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Cbeebies.png" group-title="Cocuk", CBEEBIES
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197366&extension=ts&play_token=2ycTRFkjb2
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/DAVINCIKIDS.png" group-title="Cocuk", DA VINCI KIDS
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197390&extension=ts&play_token=6hM5pwo8F3
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/trtebailkokul.png" group-title="Cocuk", TRT EBA TV ILKOKUL
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197369&extension=ts&play_token=5VQRpCGIsh
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/trtebatvortaokul.png" group-title="Cocuk", TRT EBA TV ORTAOKUL
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197368&extension=ts&play_token=7EfJTwAhHg
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TRT_EBA_TV_Lise.png" group-title="Cocuk", TRT EBA TV LISE
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197367&extension=ts&play_token=AUiSYh92
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES PREMIERE.png" group-title="Tivione Platform", TiviOne MOVIES PREMIERE
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471678&extension=ts&play_token=pCSHS8y6a9
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES PREMIERE.png" group-title="Tivione Platform", TiviOne MOVIES PREMIERE 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471679&extension=ts&play_token=5Re2g5Y61Q
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES ACTION.png" group-title="Tivione Platform", TiviOne MOVIES ACTION
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471677&extension=ts&play_token=wYvQ6VQYYA
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES STARS.png" group-title="Tivione Platform", TiviOne MOVIES STARS
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471680&extension=ts&play_token=mZ2ehyWIXk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne MOVIES TURK.png" group-title="Tivione Platform", TiviOne MOVIES TURK
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471681&extension=ts&play_token=p8HF9AkTNy
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne BOX OFFICE 1.png" group-title="Tivione Platform", TiviOne BOX OFFICE 1
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471698&extension=ts&play_token=ZzrLzmL66r
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne BOX OFFICE 2.png" group-title="Tivione Platform", TiviOne BOX OFFICE 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471699&extension=ts&play_token=vtxTsTkH2o
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ TiviOne PLATFORM/TiviOne BOX OFFICE 3.png" group-title="Tivione Platform", TiviOne BOX OFFICE 3
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471700&extension=ts&play_token=i0YM1UnDab
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/DIZISMART MAX.png" group-title="Sinema Platform", DIZISMART MAX
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471682&extension=ts&play_token=BtvB09wPcF
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/CINE 6.png" group-title="Sinema Platform", DIZISMART PREMIUM
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471683&extension=ts&play_token=M5icembCGP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/MOVIESMART.png" group-title="Sinema Platform", MOVIESMART CLASSIC
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471684&extension=ts&play_token=txJYZNZE6k
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/MOVIESMART TÜRK.png" group-title="Sinema Platform", MOVIESMART TÜRK
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471685&extension=ts&play_token=t39wCHGH3S
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV.png" group-title="Sinema Platform", SINEMA TVSINEMA TV
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471688&extension=ts&play_token=uLYwagAIiW
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV 1001.png" group-title="Sinema Platform", SINEMA TV 1001
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471686&extension=ts&play_token=yPA99fo4XP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV 1002.png" group-title="Sinema Platform", SINEMA TV 1002
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471687&extension=ts&play_token=HzhZ6vEhES
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV AKSIYON.png" group-title="Sinema Platform", SINEMA TV AKSIYON
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471692&extension=ts&play_token=JrSdLylyR5
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV AKSIYON 2.png" group-title="Sinema Platform", SINEMA TV AKSIYON 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471693&extension=ts&play_token=dXcImR2VOm
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV AILE.png" group-title="Sinema Platform", SINEMA TV AILE
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471690&extension=ts&play_token=XkCHN9quwY
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV AILE 2.png" group-title="Sinema Platform", SINEMA TV AILE 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471691&extension=ts&play_token=bcbMRdaja4
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV YERLI.png" group-title="Sinema Platform", SINEMA TV YERLI
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471695&extension=ts&play_token=4gVsSqTs89
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV YERLI 2.png" group-title="Sinema Platform", SINEMA TV YERLI 2
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471696&extension=ts&play_token=8QN8Rx0ig8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/SINEMA TV KOMEDI.png" group-title="Sinema Platform", SINEMA TV KOMEDI
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471694&extension=ts&play_token=gUDQpjYD0L
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/CINE 6.png" group-title="Sinema Platform", CINE 6
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471697&extension=ts&play_token=fBblcTNf3r
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/EPIC DRAMA.png" group-title="Sinema Platform", EPIC DRAMA
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471701&extension=ts&play_token=POSWGUQYoB
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/ SINEMA PLATFORM/TIVI TÜRK.png" group-title="Sinema Platform", TIVI TÜRK
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471704&extension=ts&play_token=Cfn7HSE3H7
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TiviOne_MOVIES_Premiere.png" group-title="Sinema Yabanci", TiviOne MOVIES PREMIERE 1
@@ -1201,16 +879,30 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=879142&exte
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=879143&extension=ts&play_token=yyY2TJjrQ2
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TABII SPOR/TABII SPOR.png" group-title=" SPOR", TABII SPOR 6
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=879144&extension=ts&play_token=wumuCDaShy
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/National_Geographic_Wild_logo.svg.png" group-title="Belgesel", NAT GEO WILD
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197432&extension=ts&play_token=EgZySyAGug
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/discoverychannel.png" group-title="Belgesel", DISCOVERY CHANNEL
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197427&extension=ts&play_token=rXjLa9bDy7
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Discovery_Science_2017_Logo.png" group-title="Belgesel", DISCOVERY SCIENCE
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197435&extension=ts&play_token=mL6NJCd1ow
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Investigation_Discovery.png" group-title="Belgesel", ID
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197430&extension=ts&play_token=Vs7iaw7Nui
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/History-Channel-logo.png" group-title="Belgesel", HISTORY CHANNEL
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197436&extension=ts&play_token=GDodh8XIch
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/2itchen.png" group-title="Belgesel", 2ITCHEN
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197440&extension=ts&play_token=311ssjgBGm
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/715px-Viasat_History.png" group-title="Belgesel", VIASAT HISTORY
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197420&extension=ts&play_token=mT2OGR6h9B
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/715px-Viasat_Explore.png" group-title="Belgesel", VIASAT EXPLORE
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197442&extension=ts&play_token=T0Qe2W6ku7
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Love_Nature_TV.png" group-title="Belgesel", LOVE NATURE
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197434&extension=ts&play_token=Ngkcs4n1xj
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TiviOne_gurme.png" group-title="Belgesel", TiviOne GURME
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197426&extension=ts&play_token=z6b3kUSeDy
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TiviOne_iZ_HD.png" group-title="Belgesel", TiviOne IZ
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197425&extension=ts&play_token=ZLI7ilYODf
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BBC_Earth_2023.svg.png" group-title="Belgesel", BBC EARTH
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197431&extension=ts&play_token=nCZocT8oj0
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Chasseandpeche.png" group-title="Belgesel", CHASSE AND PECHE
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197445&extension=ts&play_token=G6jjrBhMWn
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/animauxtv-logo.png" group-title="Belgesel", ANIMAUX
@@ -1241,6 +933,8 @@ http://176.65.153.12:6001/play/a04m/index.m3u8
 http://176.65.153.12:6001/play/a04s/index.m3u8
 #EXTINF:-1 group-title="-",SZCTVYEDEK
 http://176.65.153.12:6001/play/a04u/index.m3u8
+#EXTINF:-1 group-title="-",TRT DIYANET COCUK
+http://176.65.153.12:6001/play/a04j/index.m3u8
 #EXTINF:-1 group-title="-",TRT GENC
 http://176.65.153.12:6001/play/a04i/index.m3u8
 #EXTINF:-1 group-title="-",TRT2 
