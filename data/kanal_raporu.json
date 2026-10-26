@@ -1487,7 +1487,7 @@
           "url": "http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=508596&extension=ts&play_token=En45VLPaEZ",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": false,
-          "reason": "http-511",
+          "reason": "http-429",
           "display": "SINEMA TV",
           "quality": 0
         },
@@ -1799,7 +1799,7 @@
           "url": "http://204.52.191.254:80/play/live.php?mac=00:1A:79:76:D0:D3&stream=200346&extension=ts&play_token=o6DAOh72r0",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": false,
-          "reason": "http-511",
+          "reason": "http-429",
           "display": "DISCOVERY CHANNEL",
           "quality": 0
         },
