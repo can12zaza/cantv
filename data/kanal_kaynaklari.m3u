@@ -40,7 +40,7 @@ http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=197285
 #EXTINF:-1 tvg-name="HABER GLOBAL" group-title="Haber",HABER GLOBAL
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-name="CNN TÜRK" group-title="Haber",CNN TÜRK
-https://sweet-truth-729d.han686314.workers.dev/?url=https://helga.iptv2022.com/cnn_turk/index.m3u8
+http://umperisn.mywire.org/index.php?id=594252&token=DeaTHLesS
 #EXTINF:-1 tvg-name="TV NET" group-title="Haber",TV NET
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197257&extension=ts&play_token=hQlsXbvuXH
 #EXTINF:-1 tvg-name="24" group-title="Haber",24
@@ -85,6 +85,8 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=711&extensi
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=18631&extension=ts&play_token=B2l3zE1IqA
 #EXTINF:-1 tvg-name="BEIN SPORTS 1" group-title="Spor",BEIN SPORTS 1
 http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=988852&extension=ts
+#EXTINF:-1 tvg-name="BEIN SPORTS HABER" group-title="Spor",BEIN SPORTS HABER
+http://176.65.153.66:6003/play/a00y/index.m3u8
 #EXTINF:-1 tvg-name="FB TV" group-title="Spor",FB TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT MÜZİK" group-title="Müzik",TRT MÜZİK
@@ -141,8 +143,6 @@ https://dogus.daioncdn.net/dmax/dmax.m3u8?app=dmax_web
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197431&extension=ts&play_token=nCZocT8oj0
 #EXTINF:-1 tvg-name="VIASAT HISTORY" group-title="Belgesel",VIASAT HISTORY
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197420&extension=ts&play_token=mT2OGR6h9B
-#EXTINF:-1 tvg-name="VIASAT EXPLORE" group-title="Belgesel",VIASAT EXPLORE
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197442&extension=ts&play_token=T0Qe2W6ku7
 #EXTINF:-1 tvg-name="BEIN IZ" group-title="Belgesel",BEIN IZ
 http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/19078/index.m3u8
 #EXTINF:-1 tvg-name="LOVE NATURE" group-title="Belgesel",LOVE NATURE
@@ -189,5 +189,3 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197271&exte
 https://gtrk-volga.ru/media/hr24/stream1.m3u8
 #EXTINF:-1 tvg-name="KIRAL FM" group-title="Radyo",KIRAL FM
 https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8?listeningSessionID=689a71b34a7d0fef_650218_ELAz7Pop__000000061yg&downloadSessionID=0&listenerid=3239e3f5e40f1819ee16c17a3a5f5b3e&awparams=companionAds%3Atrue
-#EXTINF:-1 tvg-name="KIRAL POP" group-title="Radyo",KIRAL POP
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197361&extension=ts&play_token=88YQcnlyZu
