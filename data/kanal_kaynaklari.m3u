@@ -4,7 +4,7 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197438&exte
 #EXTINF:-1 tvg-name="TRT 1" group-title="Ulusal",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT 2" group-title="Ulusal",TRT 2
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=196704&extension=ts&play_token=fjDkUPg1W8
+http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=196688&extension=ts
 #EXTINF:-1 tvg-name="ATV" group-title="Ulusal",ATV
 http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=196682&extension=ts
 #EXTINF:-1 tvg-name="BEYAZ TV" group-title="Ulusal",BEYAZ TV
@@ -79,30 +79,14 @@ https://tjktv-live.tjk.org/tjktv_1080p.m3u8
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=708&extension=ts&play_token=9HxnbsQNIJ
 #EXTINF:-1 tvg-name="EUROSPORT 2" group-title="Spor",EUROSPORT 2
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=707&extension=ts&play_token=2mg4QJgGT9
-#EXTINF:-1 tvg-name="S SPORT" group-title="Spor",S SPORT
-http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F919993168ebbbfbeecc50
 #EXTINF:-1 tvg-name="S SPORT 2" group-title="Spor",S SPORT 2
-http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F394365103048c3f48946a4
-#EXTINF:-1 tvg-name="SPORTS TV" group-title="Spor",SPORTS TV
-http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3422827985f7ff6e82532a
-#EXTINF:-1 tvg-name="SPOR SMART" group-title="Spor",SPOR SMART
-http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F660246670c64f4ea57a46
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=711&extension=ts&play_token=ROKTmEEyZj
 #EXTINF:-1 tvg-name="SPOR SMART 2" group-title="Spor",SPOR SMART 2
-http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2726496671ea6fd3c6dc54
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=18631&extension=ts&play_token=B2l3zE1IqA
 #EXTINF:-1 tvg-name="BEIN SPORTS 1" group-title="Spor",BEIN SPORTS 1
-http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F66217962033a2d3e9c47f
-#EXTINF:-1 tvg-name="BEIN SPORTS 2" group-title="Spor",BEIN SPORTS 2
-http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3694662475a36c53181838
-#EXTINF:-1 tvg-name="BEIN SPORTS 3" group-title="Spor",BEIN SPORTS 3
-http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3410167560f6960a0d6de9
-#EXTINF:-1 tvg-name="BEIN SPORTS 4" group-title="Spor",BEIN SPORTS 4
-http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1872232768c7c65ceb9862
-#EXTINF:-1 tvg-name="BEIN SPORTS 5" group-title="Spor",BEIN SPORTS 5
-http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2737963486b4d9c437a945
-#EXTINF:-1 tvg-name="BEIN SPORTS MAX 2" group-title="Spor",BEIN SPORTS MAX 2
-http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F25896823596a84e43dd09
+http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=988852&extension=ts
 #EXTINF:-1 tvg-name="BEIN SPORTS HABER" group-title="Spor",BEIN SPORTS HABER
-http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3989995533d0efea1c8696
+http://176.65.153.66:6003/play/a00y/index.m3u8
 #EXTINF:-1 tvg-name="FB TV" group-title="Spor",FB TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT MÜZİK" group-title="Müzik",TRT MÜZİK
@@ -133,64 +117,26 @@ https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 http://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="LALEGÜL TV" group-title="Dini",LALEGÜL TV
 https://lbl.netmedya.net/hls/lalegultv.m3u8
-#EXTINF:-1 tvg-name="BEIN MOVIES PREMIERE" group-title="Sinema",BEIN MOVIES PREMIERE
-http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F21977479648205db1b3061
-#EXTINF:-1 tvg-name="BEIN MOVIES PREMIERE 2" group-title="Sinema",BEIN MOVIES PREMIERE 2
-http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F22440690938318303270a5
-#EXTINF:-1 tvg-name="BEIN MOVIES TURK" group-title="Sinema",BEIN MOVIES TURK
-http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F33905759489e0915a21ca8
-#EXTINF:-1 tvg-name="BEIN MOVIES STARS" group-title="Sinema",BEIN MOVIES STARS
-http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F250091316466da3ef72786
-#EXTINF:-1 tvg-name="BEIN MOVIES ACTION" group-title="Sinema",BEIN MOVIES ACTION
-http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F18734781311354b28a35dd
-#EXTINF:-1 tvg-name="BEIN MOVIES ACTION 2" group-title="Sinema",BEIN MOVIES ACTION 2
-http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F26173183867663c6c36018
-#EXTINF:-1 tvg-name="BEIN MOVIES FAMILY" group-title="Sinema",BEIN MOVIES FAMILY
-http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1322228068fac90faea203
-#EXTINF:-1 tvg-name="BEIN BOXOFFICE 1" group-title="Sinema",BEIN BOXOFFICE 1
-http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F29307461023dd1f85985b0
-#EXTINF:-1 tvg-name="BEIN BOXOFFICE 2" group-title="Sinema",BEIN BOXOFFICE 2
-http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F391012970274e1f1b46029
-#EXTINF:-1 tvg-name="BEIN BOXOFFICE 3" group-title="Sinema",BEIN BOXOFFICE 3
-http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F35641061340ab1a36ee3bd
-#EXTINF:-1 tvg-name="SİNEMA TV" group-title="Sinema",SİNEMA TV
-http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F16177199419730b495b23d
 #EXTINF:-1 tvg-name="SİNEMA TV 2" group-title="Sinema",SİNEMA TV 2
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471689&extension=ts&play_token=rlz9LlxLPS
-#EXTINF:-1 tvg-name="SİNEMA 1001" group-title="Sinema",SİNEMA 1001
-http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F31176836283456f45c9e32
-#EXTINF:-1 tvg-name="SİNEMA 1002" group-title="Sinema",SİNEMA 1002
-http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F426904204409e59151cc23
-#EXTINF:-1 tvg-name="SİNEMA AİLE 2" group-title="Sinema",SİNEMA AİLE 2
-http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F313191105166e25adfec26
-#EXTINF:-1 tvg-name="SİNEMA KOMEDİ" group-title="Sinema",SİNEMA KOMEDİ
-http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F257449668222de73cc4ad
 #EXTINF:-1 tvg-name="MOVIESMART TÜRK" group-title="Sinema",MOVIESMART TÜRK
 http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6811/index.m3u8
-#EXTINF:-1 tvg-name="BEIN SERIES 1" group-title="Dizi",BEIN SERIES 1
-http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2190922298d7f7ef0a716a
 #EXTINF:-1 tvg-name="BEIN SERIES 2" group-title="Dizi",BEIN SERIES 2
 http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=1471674&extension=ts
-#EXTINF:-1 tvg-name="BEIN SERIES 3" group-title="Dizi",BEIN SERIES 3
-http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4166418778d126ec592afc
-#EXTINF:-1 tvg-name="BEIN SERIES 4" group-title="Dizi",BEIN SERIES 4
-http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1249271114781b9186b725
 #EXTINF:-1 tvg-name="DİZİ SMART MAX" group-title="Dizi",DİZİ SMART MAX
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471682&extension=ts&play_token=BtvB09wPcF
 #EXTINF:-1 tvg-name="TRT BELGESEL" group-title="Belgesel",TRT BELGESEL
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197441&extension=ts&play_token=2YxNaeWuvv
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL" group-title="Belgesel",DISCOVERY CHANNEL
-http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F6957057788f10364acdac
-#EXTINF:-1 tvg-name="DISCOVERY ID" group-title="Belgesel",DISCOVERY ID
-http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F20954040600611bde9e160
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197427&extension=ts&play_token=rXjLa9bDy7
 #EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" group-title="Belgesel",NATIONAL GEOGRAPHIC
-http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1514492628e6d09b31660c
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:C0:8F:65&stream=197433&extension=ts&play_token=vIAFFKePWW
 #EXTINF:-1 tvg-name="NAT GEO" group-title="Belgesel",NAT GEO
-http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1514492628e6d09b31660c
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:C0:8F:65&stream=197433&extension=ts&play_token=vIAFFKePWW
 #EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD" group-title="Belgesel",NATIONAL GEOGRAPHIC WILD
-http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1519237116daf8e783a22b
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197432&extension=ts&play_token=EgZySyAGug
 #EXTINF:-1 tvg-name="NAT GEO WILD" group-title="Belgesel",NAT GEO WILD
-http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1519237116daf8e783a22b
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197432&extension=ts&play_token=EgZySyAGug
 #EXTINF:-1 tvg-name="DMAX" group-title="Belgesel",DMAX
 https://dogus.daioncdn.net/dmax/dmax.m3u8?app=dmax_web
 #EXTINF:-1 tvg-name="BBC EARTH" group-title="Belgesel",BBC EARTH
@@ -210,7 +156,7 @@ http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=197439
 #EXTINF:-1 tvg-name="ÇİFTÇİ TV" group-title="Belgesel",ÇİFTÇİ TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
 #EXTINF:-1 tvg-name="TRT ÇOCUK" group-title="Çocuk",TRT ÇOCUK
-https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197417&extension=ts&play_token=uFQW2KSLfI
 #EXTINF:-1 tvg-name="MİNİKA ÇOCUK" group-title="Çocuk",MİNİKA ÇOCUK
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
 #EXTINF:-1 tvg-name="MİNİKA GO" group-title="Çocuk",MİNİKA GO
