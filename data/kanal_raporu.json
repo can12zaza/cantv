@@ -1,7 +1,7 @@
 {
   "total_channels": 190,
-  "matched": 115,
-  "not_found": 75,
+  "matched": 124,
+  "not_found": 66,
   "source_errors": [],
   "channels": [
     {
@@ -46,13 +46,77 @@
       "name": "TRT 2",
       "category": "Ulusal",
       "status": "working",
-      "url": "http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=196688&extension=ts",
+      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=196704&extension=ts&play_token=fjDkUPg1W8",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "matched_display": "TRT 2",
       "quality": 0,
       "attempts": [
         {
           "url": "http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=196688&extension=ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-407",
+          "display": "TRT 2",
+          "quality": 0
+        },
+        {
+          "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-403",
+          "display": "TRT 2",
+          "quality": 0
+        },
+        {
+          "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-403",
+          "display": "TRT 2",
+          "quality": 0
+        },
+        {
+          "url": "https://tv-trt2.medya.trt.com.tr/master_720.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-403",
+          "display": "TRT 2",
+          "quality": 0
+        },
+        {
+          "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-403",
+          "display": "Trt 2",
+          "quality": 0
+        },
+        {
+          "url": "https://trn03.tulix.tv/gt-trt2/playlist.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-403",
+          "display": "Trt 2",
+          "quality": 0
+        },
+        {
+          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=196688&extension=ts&play_token=xSvgymKo8X",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-407",
+          "display": "TRT 2",
+          "quality": 0
+        },
+        {
+          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=196672&extension=ts&play_token=nlEsVtlBA5",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-407",
+          "display": "TRT 2",
+          "quality": 0
+        },
+        {
+          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=196704&extension=ts&play_token=fjDkUPg1W8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
@@ -404,33 +468,17 @@
       "name": "CNN TÜRK",
       "category": "Haber",
       "status": "working",
-      "url": "http://umperisn.mywire.org/index.php?id=594252&token=DeaTHLesS",
+      "url": "https://sweet-truth-729d.han686314.workers.dev/?url=https://helga.iptv2022.com/cnn_turk/index.m3u8",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "CNN TÜRK",
+      "matched_display": "CNN TüRK",
       "quality": 0,
       "attempts": [
         {
           "url": "https://sweet-truth-729d.han686314.workers.dev/?url=https://helga.iptv2022.com/cnn_turk/index.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-429",
-          "display": "CNN TüRK",
-          "quality": 0
-        },
-        {
-          "url": "https://sweet-truth-729d.han686314.workers.dev/?url=https://helga.iptv2022.com/cnn_turk/index.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-429",
-          "display": "CNN TüRK",
-          "quality": 0
-        },
-        {
-          "url": "http://umperisn.mywire.org/index.php?id=594252&token=DeaTHLesS",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
-          "display": "CNN TÜRK",
+          "display": "CNN TüRK",
           "quality": 0
         }
       ]
@@ -678,7 +726,7 @@
           "url": "https://teknobaba.han686314.workers.dev/Ulusal_Kanal.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": false,
-          "reason": "http-429",
+          "reason": "http-404",
           "display": "Ulusal Kanal",
           "quality": 0
         },
@@ -980,7 +1028,11 @@
     {
       "name": "SPORTS TV",
       "category": "Spor",
-      "status": "not_found",
+      "status": "working",
+      "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3422827985f7ff6e82532a",
+      "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
+      "matched_display": "SPORTS TV",
+      "quality": 0,
       "attempts": [
         {
           "url": "https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8",
@@ -1001,8 +1053,8 @@
         {
           "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3422827985f7ff6e82532a",
           "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
-          "ok": false,
-          "reason": "ReadTimeout",
+          "ok": true,
+          "reason": "http-200",
           "display": "SPORTS TV",
           "quality": 0
         }
@@ -1012,10 +1064,10 @@
       "name": "SPOR SMART",
       "category": "Spor",
       "status": "working",
-      "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1313563350f4a25655e128",
+      "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F660246670c64f4ea57a46",
       "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
-      "matched_display": "SPOR SMART HD",
-      "quality": 2,
+      "matched_display": "SPOR SMART SD",
+      "quality": 1,
       "attempts": [
         {
           "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F37639315201c3521e36c44",
@@ -1028,10 +1080,18 @@
         {
           "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1313563350f4a25655e128",
           "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
-          "ok": true,
-          "reason": "http-200",
+          "ok": false,
+          "reason": "ReadTimeout",
           "display": "SPOR SMART HD",
           "quality": 2
+        },
+        {
+          "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F660246670c64f4ea57a46",
+          "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
+          "ok": true,
+          "reason": "http-200",
+          "display": "SPOR SMART SD",
+          "quality": 1
         }
       ]
     },
@@ -1115,18 +1175,26 @@
       "name": "BEIN SPORTS 4",
       "category": "Spor",
       "status": "working",
-      "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2938268353a63a37b4528e",
+      "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1872232768c7c65ceb9862",
       "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
-      "matched_display": "BEIN SPORTS 4 UHD",
-      "quality": 4,
+      "matched_display": "BEIN SPORTS 4 HD",
+      "quality": 2,
       "attempts": [
         {
           "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2938268353a63a37b4528e",
           "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
-          "ok": true,
-          "reason": "http-200",
+          "ok": false,
+          "reason": "ReadTimeout",
           "display": "BEIN SPORTS 4 UHD",
           "quality": 4
+        },
+        {
+          "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1872232768c7c65ceb9862",
+          "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
+          "ok": true,
+          "reason": "http-200",
+          "display": "BEIN SPORTS 4 HD",
+          "quality": 2
         }
       ]
     },
@@ -1134,18 +1202,26 @@
       "name": "BEIN SPORTS 5",
       "category": "Spor",
       "status": "working",
-      "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F400031560175e3479a3f11",
+      "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2737963486b4d9c437a945",
       "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
-      "matched_display": "BEIN SPORTS 5 FHD",
-      "quality": 3,
+      "matched_display": "BEIN SPORTS 5 HD",
+      "quality": 2,
       "attempts": [
         {
           "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F400031560175e3479a3f11",
           "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
-          "ok": true,
-          "reason": "http-200",
+          "ok": false,
+          "reason": "ReadTimeout",
           "display": "BEIN SPORTS 5 FHD",
           "quality": 3
+        },
+        {
+          "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2737963486b4d9c437a945",
+          "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
+          "ok": true,
+          "reason": "http-200",
+          "display": "BEIN SPORTS 5 HD",
+          "quality": 2
         }
       ]
     },
@@ -1159,18 +1235,34 @@
       "name": "BEIN SPORTS MAX 2",
       "category": "Spor",
       "status": "working",
-      "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3407936242f95c33ae8820",
+      "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F25896823596a84e43dd09",
       "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
-      "matched_display": "BEIN SPORTS MAX 2 FHD",
-      "quality": 3,
+      "matched_display": "BEIN SPORTS MAX 2",
+      "quality": 0,
       "attempts": [
         {
           "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3407936242f95c33ae8820",
           "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
-          "ok": true,
-          "reason": "http-200",
+          "ok": false,
+          "reason": "ReadTimeout",
           "display": "BEIN SPORTS MAX 2 FHD",
           "quality": 3
+        },
+        {
+          "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2212659820b109b476a4d3",
+          "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
+          "ok": false,
+          "reason": "ReadTimeout",
+          "display": "BEIN SPORTS MAX 2 HD",
+          "quality": 2
+        },
+        {
+          "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F25896823596a84e43dd09",
+          "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
+          "ok": true,
+          "reason": "http-200",
+          "display": "BEIN SPORTS MAX 2",
+          "quality": 0
         }
       ]
     },
@@ -1547,7 +1639,11 @@
     {
       "name": "BEIN MOVIES PREMIERE",
       "category": "Sinema",
-      "status": "not_found",
+      "status": "working",
+      "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F21977479648205db1b3061",
+      "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
+      "matched_display": "BEIN MOVIES PREMIERE",
+      "quality": 0,
       "attempts": [
         {
           "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F94298722454d1a7fefabb",
@@ -1560,8 +1656,8 @@
         {
           "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F21977479648205db1b3061",
           "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
-          "ok": false,
-          "reason": "http-502",
+          "ok": true,
+          "reason": "http-200",
           "display": "BEIN MOVIES PREMIERE",
           "quality": 0
         }
@@ -1665,7 +1761,11 @@
     {
       "name": "BEIN MOVIES FAMILY",
       "category": "Sinema",
-      "status": "not_found",
+      "status": "working",
+      "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1322228068fac90faea203",
+      "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
+      "matched_display": "BEIN MOVIES FAMILY",
+      "quality": 0,
       "attempts": [
         {
           "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2485199152f30b65834b87",
@@ -1678,8 +1778,8 @@
         {
           "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1322228068fac90faea203",
           "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
-          "ok": false,
-          "reason": "http-502",
+          "ok": true,
+          "reason": "http-200",
           "display": "BEIN MOVIES FAMILY",
           "quality": 0
         }
@@ -1745,7 +1845,11 @@
     {
       "name": "SİNEMA TV",
       "category": "Sinema",
-      "status": "not_found",
+      "status": "working",
+      "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F16177199419730b495b23d",
+      "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
+      "matched_display": "SINEMA TV",
+      "quality": 0,
       "attempts": [
         {
           "url": "http://176.65.153.7:6004/play/a025/index.m3u8",
@@ -1758,8 +1862,8 @@
         {
           "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F16177199419730b495b23d",
           "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
-          "ok": false,
-          "reason": "http-502",
+          "ok": true,
+          "reason": "http-200",
           "display": "SINEMA TV",
           "quality": 0
         }
@@ -1795,13 +1899,17 @@
     {
       "name": "SİNEMA 1001",
       "category": "Sinema",
-      "status": "not_found",
+      "status": "working",
+      "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F31176836283456f45c9e32",
+      "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
+      "matched_display": "SINEMA 1001",
+      "quality": 0,
       "attempts": [
         {
           "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F31176836283456f45c9e32",
           "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
-          "ok": false,
-          "reason": "http-502",
+          "ok": true,
+          "reason": "http-200",
           "display": "SINEMA 1001",
           "quality": 0
         }
@@ -1810,13 +1918,17 @@
     {
       "name": "SİNEMA 1002",
       "category": "Sinema",
-      "status": "not_found",
+      "status": "working",
+      "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F426904204409e59151cc23",
+      "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
+      "matched_display": "SINEMA 1002",
+      "quality": 0,
       "attempts": [
         {
           "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F426904204409e59151cc23",
           "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
-          "ok": false,
-          "reason": "http-502",
+          "ok": true,
+          "reason": "http-200",
           "display": "SINEMA 1002",
           "quality": 0
         }
@@ -1861,13 +1973,17 @@
     {
       "name": "SİNEMA AİLE 2",
       "category": "Sinema",
-      "status": "not_found",
+      "status": "working",
+      "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F313191105166e25adfec26",
+      "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
+      "matched_display": "SINEMA AILE 2",
+      "quality": 0,
       "attempts": [
         {
           "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F313191105166e25adfec26",
           "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
-          "ok": false,
-          "reason": "http-502",
+          "ok": true,
+          "reason": "http-200",
           "display": "SINEMA AILE 2",
           "quality": 0
         }
@@ -1876,13 +1992,17 @@
     {
       "name": "SİNEMA KOMEDİ",
       "category": "Sinema",
-      "status": "not_found",
+      "status": "working",
+      "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F257449668222de73cc4ad",
+      "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
+      "matched_display": "SINEMA KOMEDI",
+      "quality": 0,
       "attempts": [
         {
           "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F257449668222de73cc4ad",
           "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
-          "ok": false,
-          "reason": "http-502",
+          "ok": true,
+          "reason": "http-200",
           "display": "SINEMA KOMEDI",
           "quality": 0
         }
@@ -1991,13 +2111,17 @@
     {
       "name": "BEIN SERIES 4",
       "category": "Dizi",
-      "status": "not_found",
+      "status": "working",
+      "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1249271114781b9186b725",
+      "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
+      "matched_display": "BEIN SERIES 4",
+      "quality": 0,
       "attempts": [
         {
           "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1249271114781b9186b725",
           "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
-          "ok": false,
-          "reason": "http-502",
+          "ok": true,
+          "reason": "http-200",
           "display": "BEIN SERIES 4",
           "quality": 0
         }
