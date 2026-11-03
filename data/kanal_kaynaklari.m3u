@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="TRT 4K" group-title="Ulusal",TRT 4K
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197438&extension=ts&play_token=zkjkoH1DCe
 #EXTINF:-1 tvg-name="TRT 1" group-title="Ulusal",TRT 1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
+https://trt.daioncdn.net/trt-1/master_1440p.m3u8?&sid=8aa3uppo48h8&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 #EXTINF:-1 tvg-name="TRT 2" group-title="Ulusal",TRT 2
 http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=196688&extension=ts
 #EXTINF:-1 tvg-name="ATV" group-title="Ulusal",ATV
@@ -40,7 +40,7 @@ http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=197285
 #EXTINF:-1 tvg-name="HABER GLOBAL" group-title="Haber",HABER GLOBAL
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-name="CNN TÜRK" group-title="Haber",CNN TÜRK
-https://sweet-truth-729d.han686314.workers.dev/?url=https://helga.iptv2022.com/cnn_turk/index.m3u8
+http://umperisn.mywire.org/index.php?id=594252&token=DeaTHLesS
 #EXTINF:-1 tvg-name="TV NET" group-title="Haber",TV NET
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197257&extension=ts&play_token=hQlsXbvuXH
 #EXTINF:-1 tvg-name="24" group-title="Haber",24
@@ -156,7 +156,7 @@ http://line.tvdsz.cc/play/live.php?mac=00%3A1A%3A79%3AB5%3ACD%3A60&stream=197439
 #EXTINF:-1 tvg-name="ÇİFTÇİ TV" group-title="Belgesel",ÇİFTÇİ TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
 #EXTINF:-1 tvg-name="TRT ÇOCUK" group-title="Çocuk",TRT ÇOCUK
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197417&extension=ts&play_token=uFQW2KSLfI
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="MİNİKA ÇOCUK" group-title="Çocuk",MİNİKA ÇOCUK
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
 #EXTINF:-1 tvg-name="MİNİKA GO" group-title="Çocuk",MİNİKA GO
@@ -185,10 +185,6 @@ https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT ARABİ" group-title="Uluslararası",TRT ARABİ
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="A NEWS" group-title="Uluslararası",A NEWS
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197271&extension=ts&play_token=Nx8VX4UaJj
-#EXTINF:-1 tvg-name="RUSSIA 24" group-title="Uluslararası",RUSSIA 24
-https://gtrk-volga.ru/media/hr24/stream1.m3u8
 #EXTINF:-1 tvg-name="KIRAL FM" group-title="Radyo",KIRAL FM
 https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8?listeningSessionID=689a71b34a7d0fef_650218_ELAz7Pop__000000061yg&downloadSessionID=0&listenerid=3239e3f5e40f1819ee16c17a3a5f5b3e&awparams=companionAds%3Atrue
 #EXTINF:-1 tvg-name="KIRAL POP" group-title="Radyo",KIRAL POP
