@@ -1,8 +1,13 @@
 {
   "total_channels": 190,
-  "matched": 92,
-  "not_found": 98,
-  "source_errors": [],
+  "matched": 94,
+  "not_found": 96,
+  "source_errors": [
+    {
+      "source": "https://raw.githubusercontent.com/Zerk1903/zerkfilm/refs/heads/main/Filmler_Yeni.m3u",
+      "error": "404 Client Error: Not Found for url: https://raw.githubusercontent.com/Zerk1903/zerkfilm/refs/heads/main/Filmler_Yeni.m3u"
+    }
+  ],
   "channels": [
     {
       "name": "TRT 4K",
@@ -27,17 +32,41 @@
       "name": "TRT 1",
       "category": "Ulusal",
       "status": "working",
-      "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
+      "url": "https://trt.daioncdn.net/trt-1/master_1440p.m3u8?&sid=8aa3uppo48h8&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "TRT 1",
+      "matched_display": "TRT1",
       "quality": 0,
       "attempts": [
         {
           "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-403",
+          "display": "TRT 1",
+          "quality": 0
+        },
+        {
+          "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-403",
+          "display": "TRT 1",
+          "quality": 0
+        },
+        {
+          "url": "https://tv-trt1.medya.trt.com.tr/master_720.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-403",
+          "display": "TRT 1",
+          "quality": 0
+        },
+        {
+          "url": "https://trt.daioncdn.net/trt-1/master_1440p.m3u8?&sid=8aa3uppo48h8&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
-          "display": "TRT 1",
+          "display": "TRT1",
           "quality": 0
         }
       ]
@@ -46,7 +75,7 @@
       "name": "TRT 2",
       "category": "Ulusal",
       "status": "working",
-      "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
+      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=196688&extension=ts&play_token=xSvgymKo8X",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "matched_display": "TRT 2",
       "quality": 0,
@@ -61,6 +90,46 @@
         },
         {
           "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-403",
+          "display": "TRT 2",
+          "quality": 0
+        },
+        {
+          "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-403",
+          "display": "TRT 2",
+          "quality": 0
+        },
+        {
+          "url": "https://tv-trt2.medya.trt.com.tr/master_720.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-403",
+          "display": "TRT 2",
+          "quality": 0
+        },
+        {
+          "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-403",
+          "display": "Trt 2",
+          "quality": 0
+        },
+        {
+          "url": "https://trn03.tulix.tv/gt-trt2/playlist.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-403",
+          "display": "Trt 2",
+          "quality": 0
+        },
+        {
+          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=196688&extension=ts&play_token=xSvgymKo8X",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
@@ -468,17 +537,33 @@
       "name": "CNN TÜRK",
       "category": "Haber",
       "status": "working",
-      "url": "https://sweet-truth-729d.han686314.workers.dev/?url=https://helga.iptv2022.com/cnn_turk/index.m3u8",
+      "url": "http://umperisn.mywire.org/index.php?id=594252&token=DeaTHLesS",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "CNN TüRK",
+      "matched_display": "CNN TÜRK",
       "quality": 0,
       "attempts": [
         {
           "url": "https://sweet-truth-729d.han686314.workers.dev/?url=https://helga.iptv2022.com/cnn_turk/index.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-429",
+          "display": "CNN TüRK",
+          "quality": 0
+        },
+        {
+          "url": "https://sweet-truth-729d.han686314.workers.dev/?url=https://helga.iptv2022.com/cnn_turk/index.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-429",
+          "display": "CNN TüRK",
+          "quality": 0
+        },
+        {
+          "url": "http://umperisn.mywire.org/index.php?id=594252&token=DeaTHLesS",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
-          "display": "CNN TüRK",
+          "display": "CNN TÜRK",
           "quality": 0
         }
       ]
@@ -726,7 +811,7 @@
           "url": "https://teknobaba.han686314.workers.dev/Ulusal_Kanal.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": false,
-          "reason": "http-404",
+          "reason": "http-429",
           "display": "Ulusal Kanal",
           "quality": 0
         },
@@ -1021,7 +1106,11 @@
     {
       "name": "S SPORT 2",
       "category": "Spor",
-      "status": "not_found",
+      "status": "working",
+      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=711&extension=ts&play_token=ROKTmEEyZj",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": "S SPORT 2",
+      "quality": 0,
       "attempts": [
         {
           "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F394365103048c3f48946a4",
@@ -1042,40 +1131,8 @@
         {
           "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=711&extension=ts&play_token=ROKTmEEyZj",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-407",
-          "display": "S SPORT 2",
-          "quality": 0
-        },
-        {
-          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=18638&extension=ts&play_token=Ww38qH3LB4",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-407",
-          "display": "S SPORT 2",
-          "quality": 0
-        },
-        {
-          "url": "https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8",
-          "source": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/tr.m3u",
-          "ok": false,
-          "reason": "http-400",
-          "display": "S Sport 2",
-          "quality": 0
-        },
-        {
-          "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1313768516926dc999c43b",
-          "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
-          "ok": false,
-          "reason": "http-403",
-          "display": "S SPORT 2",
-          "quality": 0
-        },
-        {
-          "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1234604880d226de6d47be",
-          "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
-          "ok": false,
-          "reason": "http-403",
+          "ok": true,
+          "reason": "http-200",
           "display": "S SPORT 2",
           "quality": 0
         }
@@ -2820,57 +2877,17 @@
       "name": "TRT ÇOCUK",
       "category": "Çocuk",
       "status": "working",
-      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197417&extension=ts&play_token=uFQW2KSLfI",
+      "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "TRT COCUK",
+      "matched_display": "TRT ÇOCUK",
       "quality": 0,
       "attempts": [
         {
           "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-403",
-          "display": "TRT ÇOCUK",
-          "quality": 0
-        },
-        {
-          "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-403",
-          "display": "TRT ÇOCUK",
-          "quality": 0
-        },
-        {
-          "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-403",
-          "display": "TRT COCUK",
-          "quality": 0
-        },
-        {
-          "url": "https://tv-trtcocuk.medya.trt.com.tr/master_1440.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-403",
-          "display": "TRT ÇOCUK",
-          "quality": 0
-        },
-        {
-          "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-403",
-          "display": "Trt Çocuk",
-          "quality": 0
-        },
-        {
-          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197417&extension=ts&play_token=uFQW2KSLfI",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
-          "display": "TRT COCUK",
+          "display": "TRT ÇOCUK",
           "quality": 0
         }
       ]
@@ -3261,13 +3278,17 @@
     {
       "name": "RUSSIA 24",
       "category": "Uluslararası",
-      "status": "not_found",
+      "status": "working",
+      "url": "https://gtrk-volga.ru/media/hr24/stream1.m3u8",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": "RUSSİA 24",
+      "quality": 0,
       "attempts": [
         {
           "url": "https://gtrk-volga.ru/media/hr24/stream1.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-404",
+          "ok": true,
+          "reason": "http-200",
           "display": "RUSSİA 24",
           "quality": 0
         }
