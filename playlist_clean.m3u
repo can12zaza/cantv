@@ -1017,12 +1017,16 @@ http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
 https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
 #EXTINF:-1 tvg-id="ATVAlanya.tr@SD" group-title="Uncategorized",ATV Alanya (720p) [Not 24/7]
 http://stream2.taksimbilisim.com:1935/alanyatv/alanyatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ATVAvrupa.tr@SD" group-title="Uncategorized",ATV Avrupa (576p)
+https://flask-api-hls-atvavrupahdtrkvz-live.onrender.com/hls_stream/master.m3u8
 #EXTINF:-1 tvg-id="BenguturkTV.tr@SD" group-title="Uncategorized",Benguturk TV (1080p)
 http://185.234.111.229:8000/play/a05u
 #EXTINF:-1 tvg-id="BeyazTV.tr@SD" group-title="Uncategorized",Beyaz TV (720p) [Not 24/7]
 https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
 #EXTINF:-1 tvg-id="BirTV.tr@SD" group-title="Uncategorized",Bir TV (720p)
 https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergHT.tr@SD" group-title="Uncategorized",Bloomberg HT (720p)
+https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8
 #EXTINF:-1 tvg-id="BloombergHT.tr@SD" group-title="Uncategorized",BloombergHT (720p)
 https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-id="ASTV.tr@SD" group-title="-",Bursa AS TV (720p) [Geo-blocked]
@@ -1039,6 +1043,8 @@ https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
 #EXTINF:-1 tvg-id="EdessaTV.tr@SD" group-title="Uncategorized",Edessa TV (1080p)
 https://canli.edessatv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Ekoturk.tr@SD" group-title="Uncategorized",Ekoturk (720p)
+https://cdn.ekoturk.net/hls/master.m3u8
 #EXTINF:-1 tvg-id="ERTV.tr@SD" group-title="-",Er TV (1080p) [Geo-blocked]
 https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8
 #EXTINF:-1 tvg-id="FinansTurkTV.tr@SD" group-title="Uncategorized",Finans Turk TV (720p)
@@ -1131,6 +1137,8 @@ https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m
 https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec275cdba/manifest/video.m3u8
 #EXTINF:-1 tvg-id="Sat7Turk.cy@SD" group-title="Uncategorized",Sat7 Türk (1080p)
 https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
+#EXTINF:-1 tvg-id="ShowTurk.tr@SD" group-title="Uncategorized",Show Turk (1080p)
+https://raw.githubusercontent.com/bnyusuf67-crypto/streams/refs/heads/main/streams/shturk.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr@SD" group-title="Uncategorized",Star TV (720p)
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5
 #EXTINF:-1 tvg-id="SunRTV.tr@SD" group-title="Uncategorized",Sun RTV (720p) [Not 24/7]
@@ -1147,8 +1155,16 @@ https://59cba4d34b678.streamlock.net/canlitv/torbatv/playlist.m3u8
 https://tv.ensonhaber.com/tv24/tv24.m3u8
 #EXTINF:-1 tvg-id="TRT3.tr@SD" group-title="Uncategorized",TRT 3 (720p)
 https://tv-trt3.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTSpor.tr@SD" group-title="Spor",TRT Spor (720p)
+https://corestream.siteyaptim.live/trt-spor/index.m3u8
 #EXTINF:-1 tvg-id="TRTSporYildiz.tr@SD" group-title="Spor",TRT Spor Yildiz (1440p) [Geo-blocked]
 https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor
+#EXTINF:-1 tvg-id="TRTWorld.tr@SD" group-title="Uncategorized",TRT World (720p)
+https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr@SD" group-title="Uncategorized",TRT World (576p)
+https://cdn.pishow.tv/ott/live/266/master.m3u8
+#EXTINF:-1 tvg-id="TurksatTanitim.tr@SD" group-title="-",Turksat Tanitim (1080p) [Geo-blocked]
+http://176.65.153.26:6004/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="TV1.tr@SD" group-title="Uncategorized",TV 1 (720p)
 https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="TV8.tr@SD" group-title="Uncategorized",TV 8 (1080p) [Not 24/7]
@@ -1163,22 +1179,8 @@ https://canli.tv42.com.tr/memfs/d936e417-c4bd-4d42-89a2-02f289892d1d.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Van65TV.tr@SD" group-title="Uncategorized",Van 65 TV
 https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8
-#EXTINF:-1 tvg-id="TRTSpor.tr@SD" group-title="Spor",TRT Spor (720p)
-https://corestream.siteyaptim.live/trt-spor/index.m3u8
-#EXTINF:-1 tvg-id="ShowTurk.tr@SD" group-title="Uncategorized",Show Turk (1080p)
-https://raw.githubusercontent.com/bnyusuf67-crypto/streams/refs/heads/main/streams/shturk.m3u8
-#EXTINF:-1 tvg-id="ATVAvrupa.tr@SD" group-title="Uncategorized",ATV Avrupa (576p)
-https://flask-api-hls-atvavrupahdtrkvz-live.onrender.com/hls_stream/master.m3u8
-#EXTINF:-1 tvg-id="Ekoturk.tr@SD" group-title="Uncategorized",Ekoturk (720p)
-https://cdn.ekoturk.net/hls/master.m3u8
-#EXTINF:-1 tvg-id="TRTWorld.tr@SD" group-title="Uncategorized",TRT World (720p)
-https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8
-#EXTINF:-1 tvg-id="BloombergHT.tr@SD" group-title="Uncategorized",Bloomberg HT (720p)
-https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8
-#EXTINF:-1 tvg-id="TRTWorld.tr@SD" group-title="Uncategorized",TRT World (576p)
-https://cdn.pishow.tv/ott/live/266/master.m3u8
-#EXTINF:-1 tvg-id="TurksatTanitim.tr@SD" group-title="-",Turksat Tanitim (1080p) [Geo-blocked]
-http://176.65.153.26:6004/play/a02s/index.m3u8
+#EXTINF:-1 tvg-id="VavTV.tr@SD" group-title="Uncategorized",Vav TV (1080p)
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/2ESUxIvbYSO5A0SeZJzMGJpCEyQ.jpg" group-title="Drama" tvg-year="2020" tvg-id="575659",Berlin Alexanderplatz (2020)
 https://alhynmkqujpksudyscajewjddvudsmbcpheakrnnxqlkvnmxsi.haccodavayup.shop/uploads/encode/dlqliwbofhynjbz1fi91/master.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/76LLbSnCYRl4r1ftIEfpSHwyIth.jpg" group-title="Komedi" tvg-year="2005" tvg-id="9007",Cennet Gibi (2005)
