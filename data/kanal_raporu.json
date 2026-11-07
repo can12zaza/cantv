@@ -1,7 +1,7 @@
 {
   "total_channels": 190,
-  "matched": 94,
-  "not_found": 96,
+  "matched": 90,
+  "not_found": 100,
   "source_errors": [
     {
       "source": "https://raw.githubusercontent.com/Zerk1903/zerkfilm/refs/heads/main/Filmler_Yeni.m3u",
@@ -51,7 +51,7 @@
       "name": "TRT 2",
       "category": "Ulusal",
       "status": "working",
-      "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
+      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=196688&extension=ts&play_token=xSvgymKo8X",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "matched_display": "TRT 2",
       "quality": 0,
@@ -66,6 +66,46 @@
         },
         {
           "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-403",
+          "display": "TRT 2",
+          "quality": 0
+        },
+        {
+          "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-403",
+          "display": "TRT 2",
+          "quality": 0
+        },
+        {
+          "url": "https://tv-trt2.medya.trt.com.tr/master_720.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-403",
+          "display": "TRT 2",
+          "quality": 0
+        },
+        {
+          "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-403",
+          "display": "Trt 2",
+          "quality": 0
+        },
+        {
+          "url": "https://trn03.tulix.tv/gt-trt2/playlist.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-403",
+          "display": "Trt 2",
+          "quality": 0
+        },
+        {
+          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=196688&extension=ts&play_token=xSvgymKo8X",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
@@ -2415,11 +2455,7 @@
     {
       "name": "NATIONAL GEOGRAPHIC",
       "category": "Belgesel",
-      "status": "working",
-      "url": "http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:C0:8F:65&stream=197433&extension=ts&play_token=vIAFFKePWW",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "NATİONAL GEOGRAPHİC",
-      "quality": 0,
+      "status": "not_found",
       "attempts": [
         {
           "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1514492628e6d09b31660c",
@@ -2432,9 +2468,49 @@
         {
           "url": "http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:C0:8F:65&stream=197433&extension=ts&play_token=vIAFFKePWW",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200",
+          "ok": false,
+          "reason": "http-407",
           "display": "NATİONAL GEOGRAPHİC",
+          "quality": 0
+        },
+        {
+          "url": "https://saran-live.ercdn.net/natgeohd/index.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-401",
+          "display": "Nat Geo",
+          "quality": 0
+        },
+        {
+          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197433&extension=ts&play_token=vIAFFKePWW",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-407",
+          "display": "NAT GEO",
+          "quality": 0
+        },
+        {
+          "url": "https://saran-live.ercdn.net/natgeohd/index.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-401",
+          "display": "National Geographic",
+          "quality": 0
+        },
+        {
+          "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F184566063009c2eced111a",
+          "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
+          "ok": false,
+          "reason": "http-403",
+          "display": "NAT GEO",
+          "quality": 0
+        },
+        {
+          "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1960546091bcaf052d3800",
+          "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
+          "ok": false,
+          "reason": "http-403",
+          "display": "NAT GEO",
           "quality": 0
         }
       ]
@@ -2442,11 +2518,7 @@
     {
       "name": "NAT GEO",
       "category": "Belgesel",
-      "status": "working",
-      "url": "http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:C0:8F:65&stream=197433&extension=ts&play_token=vIAFFKePWW",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "NATİONAL GEOGRAPHİC",
-      "quality": 0,
+      "status": "not_found",
       "attempts": [
         {
           "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1514492628e6d09b31660c",
@@ -2459,9 +2531,49 @@
         {
           "url": "http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:C0:8F:65&stream=197433&extension=ts&play_token=vIAFFKePWW",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200",
+          "ok": false,
+          "reason": "http-407",
           "display": "NATİONAL GEOGRAPHİC",
+          "quality": 0
+        },
+        {
+          "url": "https://saran-live.ercdn.net/natgeohd/index.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-401",
+          "display": "Nat Geo",
+          "quality": 0
+        },
+        {
+          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197433&extension=ts&play_token=vIAFFKePWW",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-407",
+          "display": "NAT GEO",
+          "quality": 0
+        },
+        {
+          "url": "https://saran-live.ercdn.net/natgeohd/index.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-401",
+          "display": "National Geographic",
+          "quality": 0
+        },
+        {
+          "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F184566063009c2eced111a",
+          "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
+          "ok": false,
+          "reason": "http-403",
+          "display": "NAT GEO",
+          "quality": 0
+        },
+        {
+          "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1960546091bcaf052d3800",
+          "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
+          "ok": false,
+          "reason": "http-403",
+          "display": "NAT GEO",
           "quality": 0
         }
       ]
@@ -2469,11 +2581,7 @@
     {
       "name": "NATIONAL GEOGRAPHIC WILD",
       "category": "Belgesel",
-      "status": "working",
-      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197432&extension=ts&play_token=EgZySyAGug",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "NAT GEO WILD",
-      "quality": 0,
+      "status": "not_found",
       "attempts": [
         {
           "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1519237116daf8e783a22b",
@@ -2502,8 +2610,32 @@
         {
           "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197432&extension=ts&play_token=EgZySyAGug",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200",
+          "ok": false,
+          "reason": "http-407",
+          "display": "NAT GEO WILD",
+          "quality": 0
+        },
+        {
+          "url": "https://saran-live.ercdn.net/natgeowild/index.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-401",
+          "display": "National Geographic Wild",
+          "quality": 0
+        },
+        {
+          "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F332065496847e1d2ff5743",
+          "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
+          "ok": false,
+          "reason": "http-403",
+          "display": "NAT GEO WILD",
+          "quality": 0
+        },
+        {
+          "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1999823186f9934d6d684a",
+          "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
+          "ok": false,
+          "reason": "http-403",
           "display": "NAT GEO WILD",
           "quality": 0
         }
@@ -2512,11 +2644,7 @@
     {
       "name": "NAT GEO WILD",
       "category": "Belgesel",
-      "status": "working",
-      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197432&extension=ts&play_token=EgZySyAGug",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "NAT GEO WILD",
-      "quality": 0,
+      "status": "not_found",
       "attempts": [
         {
           "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1519237116daf8e783a22b",
@@ -2537,8 +2665,32 @@
         {
           "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197432&extension=ts&play_token=EgZySyAGug",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200",
+          "ok": false,
+          "reason": "http-407",
+          "display": "NAT GEO WILD",
+          "quality": 0
+        },
+        {
+          "url": "https://saran-live.ercdn.net/natgeowild/index.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-401",
+          "display": "National Geographic Wild",
+          "quality": 0
+        },
+        {
+          "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F332065496847e1d2ff5743",
+          "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
+          "ok": false,
+          "reason": "http-403",
+          "display": "NAT GEO WILD",
+          "quality": 0
+        },
+        {
+          "url": "http://atakan1983.lxi.be/vavoo.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1999823186f9934d6d684a",
+          "source": "https://raw.githubusercontent.com/yasarfalkan/m3u-dosyam/refs/heads/main/YMBK.m3u8",
+          "ok": false,
+          "reason": "http-403",
           "display": "NAT GEO WILD",
           "quality": 0
         }
@@ -2797,57 +2949,17 @@
       "name": "TRT ÇOCUK",
       "category": "Çocuk",
       "status": "working",
-      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197417&extension=ts&play_token=uFQW2KSLfI",
+      "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "TRT COCUK",
+      "matched_display": "TRT ÇOCUK",
       "quality": 0,
       "attempts": [
         {
           "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-403",
-          "display": "TRT ÇOCUK",
-          "quality": 0
-        },
-        {
-          "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-403",
-          "display": "TRT ÇOCUK",
-          "quality": 0
-        },
-        {
-          "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-403",
-          "display": "TRT COCUK",
-          "quality": 0
-        },
-        {
-          "url": "https://tv-trtcocuk.medya.trt.com.tr/master_1440.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-403",
-          "display": "TRT ÇOCUK",
-          "quality": 0
-        },
-        {
-          "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-403",
-          "display": "Trt Çocuk",
-          "quality": 0
-        },
-        {
-          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197417&extension=ts&play_token=uFQW2KSLfI",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
-          "display": "TRT COCUK",
+          "display": "TRT ÇOCUK",
           "quality": 0
         }
       ]
@@ -2861,6 +2973,14 @@
       "matched_display": "MINIKA ÇOCUK",
       "quality": 0,
       "attempts": [
+        {
+          "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "ReadTimeout",
+          "display": "MINIKA ÇOCUK",
+          "quality": 0
+        },
         {
           "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
