@@ -1,7 +1,7 @@
 {
   "total_channels": 190,
-  "matched": 90,
-  "not_found": 100,
+  "matched": 89,
+  "not_found": 101,
   "source_errors": [
     {
       "source": "https://raw.githubusercontent.com/Zerk1903/zerkfilm/refs/heads/main/Filmler_Yeni.m3u",
@@ -513,17 +513,33 @@
       "name": "CNN TÜRK",
       "category": "Haber",
       "status": "working",
-      "url": "https://sweet-truth-729d.han686314.workers.dev/?url=https://helga.iptv2022.com/cnn_turk/index.m3u8",
+      "url": "http://umperisn.mywire.org/index.php?id=594252&token=DeaTHLesS",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "CNN TüRK",
+      "matched_display": "CNN TÜRK",
       "quality": 0,
       "attempts": [
         {
           "url": "https://sweet-truth-729d.han686314.workers.dev/?url=https://helga.iptv2022.com/cnn_turk/index.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-429",
+          "display": "CNN TüRK",
+          "quality": 0
+        },
+        {
+          "url": "https://sweet-truth-729d.han686314.workers.dev/?url=https://helga.iptv2022.com/cnn_turk/index.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-429",
+          "display": "CNN TüRK",
+          "quality": 0
+        },
+        {
+          "url": "http://umperisn.mywire.org/index.php?id=594252&token=DeaTHLesS",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
-          "display": "CNN TüRK",
+          "display": "CNN TÜRK",
           "quality": 0
         }
       ]
@@ -771,7 +787,7 @@
           "url": "https://teknobaba.han686314.workers.dev/Ulusal_Kanal.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": false,
-          "reason": "http-404",
+          "reason": "http-429",
           "display": "Ulusal Kanal",
           "quality": 0
         },
@@ -2221,17 +2237,25 @@
       "name": "MOVIESMART TÜRK",
       "category": "Sinema",
       "status": "working",
-      "url": "http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6811/index.m3u8",
+      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471685&extension=ts&play_token=t39wCHGH3S",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "MOVİE SMART TÜRK",
+      "matched_display": "MOVIESMART TÜRK",
       "quality": 0,
       "attempts": [
         {
           "url": "http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6811/index.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-404",
+          "display": "MOVİE SMART TÜRK",
+          "quality": 0
+        },
+        {
+          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471685&extension=ts&play_token=t39wCHGH3S",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
-          "display": "MOVİE SMART TÜRK",
+          "display": "MOVIESMART TÜRK",
           "quality": 0
         }
       ]
@@ -2777,17 +2801,13 @@
     {
       "name": "BEIN IZ",
       "category": "Belgesel",
-      "status": "working",
-      "url": "http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/19078/index.m3u8",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "BEIN İZ",
-      "quality": 0,
+      "status": "not_found",
       "attempts": [
         {
           "url": "http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/19078/index.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200",
+          "ok": false,
+          "reason": "http-401",
           "display": "BEIN İZ",
           "quality": 0
         }
@@ -2973,14 +2993,6 @@
       "matched_display": "MINIKA ÇOCUK",
       "quality": 0,
       "attempts": [
-        {
-          "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "ReadTimeout",
-          "display": "MINIKA ÇOCUK",
-          "quality": 0
-        },
         {
           "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
