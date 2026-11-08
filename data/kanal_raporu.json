@@ -1,7 +1,7 @@
 {
   "total_channels": 190,
-  "matched": 92,
-  "not_found": 98,
+  "matched": 94,
+  "not_found": 96,
   "source_errors": [
     {
       "source": "https://raw.githubusercontent.com/Zerk1903/zerkfilm/refs/heads/main/Filmler_Yeni.m3u",
@@ -1313,13 +1313,17 @@
     {
       "name": "POWER TÜRK",
       "category": "Müzik",
-      "status": "not_found",
+      "status": "working",
+      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197364&extension=ts&play_token=FkdL4n4O9g",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": "POWER TÜRK",
+      "quality": 0,
       "attempts": [
         {
           "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197364&extension=ts&play_token=FkdL4n4O9g",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-407",
+          "ok": true,
+          "reason": "http-200",
           "display": "POWER TÜRK",
           "quality": 0
         }
@@ -2223,57 +2227,17 @@
       "name": "TRT ÇOCUK",
       "category": "Çocuk",
       "status": "working",
-      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197417&extension=ts&play_token=uFQW2KSLfI",
+      "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "TRT COCUK",
+      "matched_display": "TRT ÇOCUK",
       "quality": 0,
       "attempts": [
         {
           "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-403",
-          "display": "TRT ÇOCUK",
-          "quality": 0
-        },
-        {
-          "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-403",
-          "display": "TRT ÇOCUK",
-          "quality": 0
-        },
-        {
-          "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-403",
-          "display": "TRT COCUK",
-          "quality": 0
-        },
-        {
-          "url": "https://tv-trtcocuk.medya.trt.com.tr/master_1440.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-403",
-          "display": "TRT ÇOCUK",
-          "quality": 0
-        },
-        {
-          "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-403",
-          "display": "Trt Çocuk",
-          "quality": 0
-        },
-        {
-          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197417&extension=ts&play_token=uFQW2KSLfI",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
-          "display": "TRT COCUK",
+          "display": "TRT ÇOCUK",
           "quality": 0
         }
       ]
@@ -2346,13 +2310,17 @@
     {
       "name": "CARTOONITO",
       "category": "Çocuk",
-      "status": "not_found",
+      "status": "working",
+      "url": "http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6850/index.m3u8",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": "CARTOONİTO",
+      "quality": 0,
       "attempts": [
         {
           "url": "http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6850/index.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-404",
+          "ok": true,
+          "reason": "http-200",
           "display": "CARTOONİTO",
           "quality": 0
         }
