@@ -1181,6 +1181,8 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee2
 https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8
 #EXTINF:-1 tvg-id="VavTV.tr@SD" group-title="Uncategorized",Vav TV (1080p)
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNTurk.tr@SD" group-title="Uncategorized",CNN Turk (1080p)
+http://85.117.61.84/cnnturk/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Uncategorized",BEIN 1 FEED (720P) (1)
 http://sultanios.alwaysdata.net/vavo.php?ID=1363827223
 #EXTINF:-1 tvg-logo="" group-title="Uncategorized",BEIN 1 SD (360P) (1)
