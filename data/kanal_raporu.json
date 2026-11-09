@@ -51,7 +51,7 @@
       "name": "TRT 2",
       "category": "Ulusal",
       "status": "working",
-      "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
+      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=196688&extension=ts&play_token=xSvgymKo8X",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "matched_display": "TRT 2",
       "quality": 0,
@@ -66,6 +66,46 @@
         },
         {
           "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-403",
+          "display": "TRT 2",
+          "quality": 0
+        },
+        {
+          "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-403",
+          "display": "TRT 2",
+          "quality": 0
+        },
+        {
+          "url": "https://tv-trt2.medya.trt.com.tr/master_720.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-403",
+          "display": "TRT 2",
+          "quality": 0
+        },
+        {
+          "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-403",
+          "display": "Trt 2",
+          "quality": 0
+        },
+        {
+          "url": "https://trn03.tulix.tv/gt-trt2/playlist.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-403",
+          "display": "Trt 2",
+          "quality": 0
+        },
+        {
+          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=196688&extension=ts&play_token=xSvgymKo8X",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
@@ -473,17 +513,33 @@
       "name": "CNN TÜRK",
       "category": "Haber",
       "status": "working",
-      "url": "https://sweet-truth-729d.han686314.workers.dev/?url=https://helga.iptv2022.com/cnn_turk/index.m3u8",
+      "url": "http://umperisn.mywire.org/index.php?id=594252&token=DeaTHLesS",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "CNN TüRK",
+      "matched_display": "CNN TÜRK",
       "quality": 0,
       "attempts": [
         {
           "url": "https://sweet-truth-729d.han686314.workers.dev/?url=https://helga.iptv2022.com/cnn_turk/index.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-429",
+          "display": "CNN TüRK",
+          "quality": 0
+        },
+        {
+          "url": "https://sweet-truth-729d.han686314.workers.dev/?url=https://helga.iptv2022.com/cnn_turk/index.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-429",
+          "display": "CNN TüRK",
+          "quality": 0
+        },
+        {
+          "url": "http://umperisn.mywire.org/index.php?id=594252&token=DeaTHLesS",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
-          "display": "CNN TüRK",
+          "display": "CNN TÜRK",
           "quality": 0
         }
       ]
@@ -731,7 +787,7 @@
           "url": "https://teknobaba.han686314.workers.dev/Ulusal_Kanal.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": false,
-          "reason": "http-404",
+          "reason": "http-429",
           "display": "Ulusal Kanal",
           "quality": 0
         },
@@ -1565,7 +1621,7 @@
       "name": "SİNEMA TV 2",
       "category": "Sinema",
       "status": "working",
-      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471689&extension=ts&play_token=rlz9LlxLPS",
+      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197129&extension=ts&play_token=zLg0pNC7FA",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "matched_display": "SINEMA TV 2",
       "quality": 0,
@@ -1580,6 +1636,14 @@
         },
         {
           "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471689&extension=ts&play_token=rlz9LlxLPS",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-407",
+          "display": "SINEMA TV 2",
+          "quality": 0
+        },
+        {
+          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197129&extension=ts&play_token=zLg0pNC7FA",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
@@ -1655,9 +1719,9 @@
       "name": "MOVIESMART TÜRK",
       "category": "Sinema",
       "status": "working",
-      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471685&extension=ts&play_token=t39wCHGH3S",
+      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197136&extension=ts&play_token=XUCMlJbssm",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "MOVIESMART TÜRK",
+      "matched_display": "MOVIESMART TURK",
       "quality": 0,
       "attempts": [
         {
@@ -1671,9 +1735,17 @@
         {
           "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471685&extension=ts&play_token=t39wCHGH3S",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-407",
+          "display": "MOVIESMART TÜRK",
+          "quality": 0
+        },
+        {
+          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197136&extension=ts&play_token=XUCMlJbssm",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
-          "display": "MOVIESMART TÜRK",
+          "display": "MOVIESMART TURK",
           "quality": 0
         }
       ]
@@ -1733,13 +1805,21 @@
       "name": "DİZİ SMART MAX",
       "category": "Dizi",
       "status": "working",
-      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471682&extension=ts&play_token=BtvB09wPcF",
+      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197140&extension=ts&play_token=IsxEkfERFU",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "matched_display": "DIZISMART MAX",
       "quality": 0,
       "attempts": [
         {
           "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471682&extension=ts&play_token=BtvB09wPcF",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-407",
+          "display": "DIZISMART MAX",
+          "quality": 0
+        },
+        {
+          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197140&extension=ts&play_token=IsxEkfERFU",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
@@ -2171,57 +2251,17 @@
       "name": "TRT ÇOCUK",
       "category": "Çocuk",
       "status": "working",
-      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197417&extension=ts&play_token=uFQW2KSLfI",
+      "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "TRT COCUK",
+      "matched_display": "TRT ÇOCUK",
       "quality": 0,
       "attempts": [
         {
           "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-403",
-          "display": "TRT ÇOCUK",
-          "quality": 0
-        },
-        {
-          "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-403",
-          "display": "TRT ÇOCUK",
-          "quality": 0
-        },
-        {
-          "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-403",
-          "display": "TRT COCUK",
-          "quality": 0
-        },
-        {
-          "url": "https://tv-trtcocuk.medya.trt.com.tr/master_1440.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-403",
-          "display": "TRT ÇOCUK",
-          "quality": 0
-        },
-        {
-          "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-403",
-          "display": "Trt Çocuk",
-          "quality": 0
-        },
-        {
-          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197417&extension=ts&play_token=uFQW2KSLfI",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
-          "display": "TRT COCUK",
+          "display": "TRT ÇOCUK",
           "quality": 0
         }
       ]
@@ -2268,21 +2308,13 @@
       "name": "CARTOON NETWORK",
       "category": "Çocuk",
       "status": "working",
-      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197411&extension=ts&play_token=6Vh9e7AwnI",
+      "url": "https://nord.ayakkabiparti.lol/cartoonnetwork/index.m3u8",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "matched_display": "CARTOON NETWORK",
       "quality": 0,
       "attempts": [
         {
           "url": "https://nord.ayakkabiparti.lol/cartoonnetwork/index.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "ConnectionError",
-          "display": "CARTOON NETWORK",
-          "quality": 0
-        },
-        {
-          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197411&extension=ts&play_token=6Vh9e7AwnI",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
