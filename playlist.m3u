@@ -2541,28 +2541,28 @@ http://85.117.61.84/cnnturk/index.m3u8
 https://video-auth7.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyNiAxMDo4OjUwIEFNJmhhc2hfdmFsdWU9SDg0ZjFtbjkxZFZLc28weGdqTEtOUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTk5NGE4NzdkLWE2MTQtNGY5OS1hYTRmLThmMTBkZTVlZjhmNg==
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:6
-#EXT-X-MEDIA-SEQUENCE:719681
+#EXT-X-MEDIA-SEQUENCE:719689
 #EXT-X-DISCONTINUITY-SEQUENCE:1
-#EXTINF:6.00000 group-title="Uncategorized",
-master_1440p_backup_719681.ts
-#EXTINF:6.00000 group-title="Uncategorized",
-master_1440p_backup_719682.ts
-#EXTINF:6.00000 group-title="Uncategorized",
-master_1440p_backup_719683.ts
-#EXTINF:6.00000 group-title="Uncategorized",
-master_1440p_backup_719684.ts
-#EXTINF:6.00000 group-title="Uncategorized",
-master_1440p_backup_719685.ts
-#EXTINF:6.00000 group-title="Uncategorized",
-master_1440p_backup_719686.ts
-#EXTINF:6.00000 group-title="Uncategorized",
-master_1440p_backup_719687.ts
-#EXTINF:6.00000 group-title="Uncategorized",
-master_1440p_backup_719688.ts
 #EXTINF:6.00000 group-title="Uncategorized",
 master_1440p_backup_719689.ts
 #EXTINF:6.00000 group-title="Uncategorized",
 master_1440p_backup_719690.ts
+#EXTINF:6.00000 group-title="Uncategorized",
+master_1440p_backup_719691.ts
+#EXTINF:6.00000 group-title="Uncategorized",
+master_1440p_backup_719692.ts
+#EXTINF:6.00000 group-title="Uncategorized",
+master_1440p_backup_719693.ts
+#EXTINF:6.00000 group-title="Uncategorized",
+master_1440p_backup_719694.ts
+#EXTINF:6.00000 group-title="Uncategorized",
+master_1440p_backup_719695.ts
+#EXTINF:6.00000 group-title="Uncategorized",
+master_1440p_backup_719696.ts
+#EXTINF:6.00000 group-title="Uncategorized",
+master_1440p_backup_719697.ts
+#EXTINF:6.00000 group-title="Uncategorized",
+master_1440p_backup_719698.ts
 
 #EXTINF:-1 tvg-logo="" group-title="Uncategorized",BEIN 1 FEED (720P) (1)
 http://sultanios.alwaysdata.net/vavo.php?ID=1363827223
