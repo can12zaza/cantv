@@ -2538,31 +2538,31 @@ https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 http://85.117.61.84/cnnturk/index.m3u8
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2082355,FRAME-RATE=25,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
-https://video-auth7.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyNiAxMjoxMzoxMSBQTSZoYXNoX3ZhbHVlPUo5cFQ5b2ZGSXJQWkY5NGhkb1JwOHc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01MDAyYWJkNy05ZWJkLTRkN2UtOGNkMC0zN2ExNmU2Zjc3MmY=
+https://video-auth7.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyNiAyOjk6MjYgUE0maGFzaF92YWx1ZT1GYkpZS3c3SlhzUmkxczdQYUhKRERBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MGJjNzNiNGMtNmZlOC00NzVjLWJmZmMtOTE4ZTY3MGEzZjli
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:6
-#EXT-X-MEDIA-SEQUENCE:749388
+#EXT-X-MEDIA-SEQUENCE:750183
 #EXT-X-DISCONTINUITY-SEQUENCE:1
 #EXTINF:6.00000 group-title="Uncategorized",
-master_1440p_backup_749388.ts
+master_1440p_backup_750183.ts
 #EXTINF:6.00000 group-title="Uncategorized",
-master_1440p_backup_749389.ts
+master_1440p_backup_750184.ts
 #EXTINF:6.00000 group-title="Uncategorized",
-master_1440p_backup_749390.ts
+master_1440p_backup_750185.ts
 #EXTINF:6.00000 group-title="Uncategorized",
-master_1440p_backup_749391.ts
+master_1440p_backup_750186.ts
 #EXTINF:6.00000 group-title="Uncategorized",
-master_1440p_backup_749392.ts
+master_1440p_backup_750187.ts
 #EXTINF:6.00000 group-title="Uncategorized",
-master_1440p_backup_749393.ts
+master_1440p_backup_750188.ts
 #EXTINF:6.00000 group-title="Uncategorized",
-master_1440p_backup_749394.ts
+master_1440p_backup_750189.ts
 #EXTINF:6.00000 group-title="Uncategorized",
-master_1440p_backup_749395.ts
+master_1440p_backup_750190.ts
 #EXTINF:6.00000 group-title="Uncategorized",
-master_1440p_backup_749396.ts
+master_1440p_backup_750191.ts
 #EXTINF:6.00000 group-title="Uncategorized",
-master_1440p_backup_749397.ts
+master_1440p_backup_750192.ts
 
 #EXTINF:-1 tvg-logo="" group-title="Uncategorized",BEIN 1 FEED (720P) (1)
 http://sultanios.alwaysdata.net/vavo.php?ID=1363827223
