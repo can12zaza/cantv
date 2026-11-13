@@ -4,3 +4,4 @@ https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/M3U/TVI_Reality
 https://tv-trthaber.medya.trt.com.tr/master_1440p.m3u8
 https://raw.githubusercontent.com/cugucugu/nuvioiptv/refs/heads/main/r.m3u
 https://raw.githubusercontent.com/iskader/rec__full/refs/heads/main/rec__full.m3u
+https://raw.githubusercontent.com/patr0nq/flmS/refs/heads/main/jetfilm_tum.m3u
