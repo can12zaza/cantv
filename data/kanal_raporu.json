@@ -1,7 +1,7 @@
 {
   "total_channels": 190,
-  "matched": 93,
-  "not_found": 97,
+  "matched": 94,
+  "not_found": 96,
   "source_errors": [],
   "channels": [
     {
@@ -389,29 +389,13 @@
       "name": "KANAL B",
       "category": "Ulusal",
       "status": "working",
-      "url": "https://tv.kanalb.tr/hls/kanalb/1_2/index.m3u8",
+      "url": "https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "matched_display": "KANAL B",
       "quality": 0,
       "attempts": [
         {
           "url": "https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "ConnectTimeout",
-          "display": "KANAL B",
-          "quality": 0
-        },
-        {
-          "url": "https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "ConnectTimeout",
-          "display": "KANAL B",
-          "quality": 0
-        },
-        {
-          "url": "https://tv.kanalb.tr/hls/kanalb/1_2/index.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
@@ -508,33 +492,17 @@
       "name": "CNN TÜRK",
       "category": "Haber",
       "status": "working",
-      "url": "http://umperisn.mywire.org/index.php?id=594252&token=DeaTHLesS",
+      "url": "https://sweet-truth-729d.han686314.workers.dev/?url=https://helga.iptv2022.com/cnn_turk/index.m3u8",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "CNN TÜRK",
+      "matched_display": "CNN TüRK",
       "quality": 0,
       "attempts": [
         {
           "url": "https://sweet-truth-729d.han686314.workers.dev/?url=https://helga.iptv2022.com/cnn_turk/index.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-429",
-          "display": "CNN TüRK",
-          "quality": 0
-        },
-        {
-          "url": "https://sweet-truth-729d.han686314.workers.dev/?url=https://helga.iptv2022.com/cnn_turk/index.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-429",
-          "display": "CNN TüRK",
-          "quality": 0
-        },
-        {
-          "url": "http://umperisn.mywire.org/index.php?id=594252&token=DeaTHLesS",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
-          "display": "CNN TÜRK",
+          "display": "CNN TüRK",
           "quality": 0
         }
       ]
@@ -782,7 +750,7 @@
           "url": "https://teknobaba.han686314.workers.dev/Ulusal_Kanal.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": false,
-          "reason": "http-429",
+          "reason": "http-404",
           "display": "Ulusal Kanal",
           "quality": 0
         },
@@ -2279,21 +2247,13 @@
       "name": "CARTOON NETWORK",
       "category": "Çocuk",
       "status": "working",
-      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197411&extension=ts&play_token=6Vh9e7AwnI",
+      "url": "https://nord.ayakkabiparti.lol/cartoonnetwork/index.m3u8",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "matched_display": "CARTOON NETWORK",
       "quality": 0,
       "attempts": [
         {
           "url": "https://nord.ayakkabiparti.lol/cartoonnetwork/index.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "ConnectTimeout",
-          "display": "CARTOON NETWORK",
-          "quality": 0
-        },
-        {
-          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197411&extension=ts&play_token=6Vh9e7AwnI",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
@@ -2305,13 +2265,17 @@
     {
       "name": "CARTOONITO",
       "category": "Çocuk",
-      "status": "not_found",
+      "status": "working",
+      "url": "http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6850/index.m3u8",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": "CARTOONİTO",
+      "quality": 0,
       "attempts": [
         {
           "url": "http://c3921155.edmonst.net/iptv/AVNFCNQBEC9VQU/6850/index.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-404",
+          "ok": true,
+          "reason": "http-200",
           "display": "CARTOONİTO",
           "quality": 0
         }
