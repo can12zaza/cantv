@@ -769,6 +769,8 @@ https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
 https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="CiftciTV.tr@SD" group-title="Uncategorized",Çiftçi TV (720p) [Not 24/7]
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNTurk.tr@SD" group-title="Uncategorized",CNN Turk (1080p)
+http://85.117.61.84/cnnturk/index.m3u8
 #EXTINF:-1 tvg-id="DHA.tr@SD" group-title="Uncategorized",DHA (720p) [Not 24/7]
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
 #EXTINF:-1 tvg-id="DiyarTV.tr@SD" group-title="Uncategorized",Diyar TV (720p)
@@ -781,6 +783,8 @@ https://cdn.ekoturk.net/hls/master.m3u8
 https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8
 #EXTINF:-1 tvg-id="ETVManisa.tr@SD" group-title="Uncategorized",ETV Manisa (1080p) [Not 24/7]
 https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="FBTV.tr@SD" group-title="Uncategorized",FB TV (720p)
+http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FinansTurkTV.tr@SD" group-title="Uncategorized",Finans Turk TV (720p)
 https://yayin30.haber100.com/live/finansturk/playlist.m3u8
 #EXTINF:-1 tvg-id="FlashHaberTV.tr@SD" group-title="Haber",Flash Haber TV
@@ -837,6 +841,8 @@ https://live.artidijitalmedya.com/artidijital_38kenttv/38kenttv/playlist.m3u8
 https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="KonyaOlayTV.tr@SD" group-title="Uncategorized",Konya Olay TV (720p)
 https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8
+#EXTINF:-1 tvg-id="KRT.tr@SD" group-title="Uncategorized",KRT (1080p)
+https://raw.githubusercontent.com/yaskar661-lgtm/stream/refs/heads/main/filbox/krthd.m3u8
 #EXTINF:-1 tvg-id="LalegulTV.tr@SD" group-title="Uncategorized",Lalegül TV (720p) [Not 24/7]
 http://lalegultv.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:-1 tvg-id="LifeTV.tr@SD" group-title="Uncategorized",Life TV (720p) [Not 24/7]
@@ -897,6 +903,8 @@ https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec
 https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
 #EXTINF:-1 tvg-id="ShowTurk.tr@SD" group-title="Uncategorized",Show Turk (1080p)
 https://raw.githubusercontent.com/bnyusuf67-crypto/streams/refs/heads/main/streams/shturk.m3u8
+#EXTINF:-1 tvg-id="SozcuTV.tr@SD" group-title="Uncategorized",Sozcu TV (1080p)
+https://raw.githubusercontent.com/yaskar661-lgtm/stream/refs/heads/main/filbox/szchd.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr@SD" group-title="Uncategorized",Star TV (720p)
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5
 #EXTINF:-1 tvg-id="SunRTV.tr@SD" group-title="Uncategorized",Sun RTV (720p) [Not 24/7]
@@ -945,9 +953,3 @@ https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8
 #EXTINF:-1 tvg-id="VavTV.tr@SD" group-title="Uncategorized",Vav TV (1080p)
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CNNTurk.tr@SD" group-title="Uncategorized",CNN Turk (1080p)
-http://85.117.61.84/cnnturk/index.m3u8
-#EXTINF:-1 tvg-id="SozcuTV.tr@SD" group-title="Uncategorized",Sozcu TV (1080p)
-https://raw.githubusercontent.com/yaskar661-lgtm/stream/refs/heads/main/filbox/szchd.m3u8
-#EXTINF:-1 tvg-id="KRT.tr@SD" group-title="Uncategorized",KRT (1080p)
-https://raw.githubusercontent.com/yaskar661-lgtm/stream/refs/heads/main/filbox/krthd.m3u8
