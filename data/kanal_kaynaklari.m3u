@@ -4,7 +4,7 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197438&exte
 #EXTINF:-1 tvg-name="TRT 1" group-title="Ulusal",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT 2" group-title="Ulusal",TRT 2
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=196688&extension=ts&play_token=xSvgymKo8X
+https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="ATV" group-title="Ulusal",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 tvg-name="BEYAZ TV" group-title="Ulusal",BEYAZ TV
@@ -24,7 +24,7 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:-1 tvg-name="TEVE2" group-title="Ulusal",TEVE2
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 #EXTINF:-1 tvg-name="A2" group-title="Ulusal",A2
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=196687&extension=ts&play_token=DGJnc2zcvx
 #EXTINF:-1 tvg-name="360" group-title="Ulusal",360
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-name="EKOL TV" group-title="Ulusal",EKOL TV
@@ -79,12 +79,28 @@ https://tjktv-live.tjk.org/tjktv_1080p.m3u8
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=708&extension=ts&play_token=9HxnbsQNIJ
 #EXTINF:-1 tvg-name="EUROSPORT 2" group-title="Spor",EUROSPORT 2
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=707&extension=ts&play_token=2mg4QJgGT9
+#EXTINF:-1 tvg-name="NBA TV" group-title="Spor",NBA TV
+http://mekantv56.win/live/akifalioglu33/33akifalioglu/43318fc7-6304-4681-a79c-671eb9755b2b.ts
 #EXTINF:-1 tvg-name="S SPORT 2" group-title="Spor",S SPORT 2
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=711&extension=ts&play_token=ROKTmEEyZj
+#EXTINF:-1 tvg-name="SPORTS TV" group-title="Spor",SPORTS TV
+http://mekantv56.win/live/akifalioglu33/33akifalioglu/a67c297b-8b19-46b8-9bc6-a8db9f7b6ca6.ts
 #EXTINF:-1 tvg-name="SPOR SMART 2" group-title="Spor",SPOR SMART 2
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=18631&extension=ts&play_token=B2l3zE1IqA
+#EXTINF:-1 tvg-name="BEIN SPORTS 1" group-title="Spor",BEIN SPORTS 1
+http://mekantv56.win/live/akifalioglu33/33akifalioglu/4d17dcea-2895-40a9-a8a0-07190bcee1a8.ts
+#EXTINF:-1 tvg-name="BEIN SPORTS 2" group-title="Spor",BEIN SPORTS 2
+http://mekantv56.win/live/akifalioglu33/33akifalioglu/a20a1d86-5210-40ea-b88d-3e7684a9ddd2.ts
+#EXTINF:-1 tvg-name="BEIN SPORTS 3" group-title="Spor",BEIN SPORTS 3
+http://mekantv56.win/live/akifalioglu33/33akifalioglu/d553d986-835e-4420-8bb1-c64d2b5cc874.ts
+#EXTINF:-1 tvg-name="BEIN SPORTS 4" group-title="Spor",BEIN SPORTS 4
+http://mekantv56.win/live/akifalioglu33/33akifalioglu/04655157-7068-48c8-86b3-f5e8510c8720.ts
+#EXTINF:-1 tvg-name="BEIN SPORTS 5" group-title="Spor",BEIN SPORTS 5
+http://mekantv56.win/live/akifalioglu33/33akifalioglu/b001634b-6eb1-4381-89eb-4cdeac95d498.ts
+#EXTINF:-1 tvg-name="BEIN SPORTS MAX 2" group-title="Spor",BEIN SPORTS MAX 2
+http://mekantv56.win/live/akifalioglu33/33akifalioglu/50d1a0be-015f-4538-9206-d4f98c0d1433.ts
 #EXTINF:-1 tvg-name="BEIN SPORTS HABER" group-title="Spor",BEIN SPORTS HABER
-http://176.65.153.66:6003/play/a00y/index.m3u8
+http://mekantv56.win/live/akifalioglu33/33akifalioglu/25b40afc-c406-400e-8492-5c26c4606789.ts
 #EXTINF:-1 tvg-name="FB TV" group-title="Spor",FB TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT MÜZİK" group-title="Müzik",TRT MÜZİK
@@ -115,20 +131,52 @@ https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 http://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="LALEGÜL TV" group-title="Dini",LALEGÜL TV
 https://lbl.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:-1 tvg-name="BEIN MOVIES TURK" group-title="Sinema",BEIN MOVIES TURK
+http://mekantv56.win/live/akifalioglu33/33akifalioglu/9aa2fa34-92de-4430-bdef-7867fd6309f4.ts
+#EXTINF:-1 tvg-name="BEIN MOVIES STARS" group-title="Sinema",BEIN MOVIES STARS
+http://mekantv56.win/live/akifalioglu33/33akifalioglu/e39c8ab6-3547-4742-9912-9fe74f5e67f0.ts
+#EXTINF:-1 tvg-name="BEIN MOVIES ACTION" group-title="Sinema",BEIN MOVIES ACTION
+http://mekantv56.win/live/akifalioglu33/33akifalioglu/c5429af1-60fb-4d0c-868a-dad516fa1ea4.ts
+#EXTINF:-1 tvg-name="BEIN MOVIES ACTION 2" group-title="Sinema",BEIN MOVIES ACTION 2
+http://mekantv56.win/live/akifalioglu33/33akifalioglu/208467ed-0ba8-4b72-944d-aea8b3c35e53.ts
+#EXTINF:-1 tvg-name="BEIN MOVIES FAMILY" group-title="Sinema",BEIN MOVIES FAMILY
+http://mekantv56.win/live/akifalioglu33/33akifalioglu/c8df390b-cc9d-4294-9fcd-8c64c66a39ea.ts
+#EXTINF:-1 tvg-name="BEIN BOXOFFICE 1" group-title="Sinema",BEIN BOXOFFICE 1
+http://mekantv56.win/live/akifalioglu33/33akifalioglu/b3f77183-35d6-454d-aa33-4d705b523836.ts
+#EXTINF:-1 tvg-name="BEIN BOXOFFICE 2" group-title="Sinema",BEIN BOXOFFICE 2
+http://mekantv56.win/live/akifalioglu33/33akifalioglu/97b4aa30-aa52-4bea-ab1e-de426a35dba1.ts
+#EXTINF:-1 tvg-name="BEIN BOXOFFICE 3" group-title="Sinema",BEIN BOXOFFICE 3
+http://mekantv56.win/live/akifalioglu33/33akifalioglu/d0bc8932-cd8a-40e8-9f50-afbf31293684.ts
+#EXTINF:-1 tvg-name="SİNEMA TV" group-title="Sinema",SİNEMA TV
+http://mekantv56.win/live/akifalioglu33/33akifalioglu/01ab29a4-310a-4cf3-8ce1-88312e2035e4.ts
 #EXTINF:-1 tvg-name="SİNEMA TV 2" group-title="Sinema",SİNEMA TV 2
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471689&extension=ts&play_token=rlz9LlxLPS
+http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197129&extension=ts&play_token=zLg0pNC7FA
 #EXTINF:-1 tvg-name="MOVIESMART TÜRK" group-title="Sinema",MOVIESMART TÜRK
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471685&extension=ts&play_token=t39wCHGH3S
+#EXTINF:-1 tvg-name="FILMSCREEN" group-title="Sinema",FILMSCREEN
+http://mekantv56.win/live/akifalioglu33/33akifalioglu/3dac53a1-57ff-49f0-8664-f4a67dc9c4d9.ts
+#EXTINF:-1 tvg-name="BEIN SERIES 1" group-title="Dizi",BEIN SERIES 1
+http://mekantv56.win/live/akifalioglu33/33akifalioglu/95f7b02c-2ef6-4093-a775-363dbca8732d.ts
+#EXTINF:-1 tvg-name="BEIN SERIES 2" group-title="Dizi",BEIN SERIES 2
+http://mekantv56.win/live/akifalioglu33/33akifalioglu/d03ac11a-7d5b-4319-a59e-f77f94e1334d.ts
+#EXTINF:-1 tvg-name="BEIN SERIES 3" group-title="Dizi",BEIN SERIES 3
+http://mekantv56.win/live/akifalioglu33/33akifalioglu/61dc4033-b65e-481d-9373-2460d26be826.ts
+#EXTINF:-1 tvg-name="BEIN SERIES 4" group-title="Dizi",BEIN SERIES 4
+http://mekantv56.win/live/akifalioglu33/33akifalioglu/1179492c-59c1-4dbf-b1fa-ff4adf0b87d5.ts
 #EXTINF:-1 tvg-name="DİZİ SMART MAX" group-title="Dizi",DİZİ SMART MAX
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471682&extension=ts&play_token=BtvB09wPcF
+#EXTINF:-1 tvg-name="BBC FIRST" group-title="Dizi",BBC FIRST
+http://mekantv56.win/live/akifalioglu33/33akifalioglu/693b652d-6aa0-49c8-933a-29d873130ab3.ts
 #EXTINF:-1 tvg-name="TRT BELGESEL" group-title="Belgesel",TRT BELGESEL
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197441&extension=ts&play_token=2YxNaeWuvv
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL" group-title="Belgesel",DISCOVERY CHANNEL
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197427&extension=ts&play_token=rXjLa9bDy7
+#EXTINF:-1 tvg-name="DISCOVERY ID" group-title="Belgesel",DISCOVERY ID
+http://mekantv56.win/live/akifalioglu33/33akifalioglu/235a6131-82ae-4ab9-bdc0-ea5df67a48cd.ts
 #EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" group-title="Belgesel",NATIONAL GEOGRAPHIC
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197433&extension=ts&play_token=vIAFFKePWW
+http://mekantv56.win/live/akifalioglu33/33akifalioglu/4dd3480f-60a7-4f71-bb2f-e32ae1f0d208.ts
 #EXTINF:-1 tvg-name="NAT GEO" group-title="Belgesel",NAT GEO
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197433&extension=ts&play_token=vIAFFKePWW
+http://mekantv56.win/live/akifalioglu33/33akifalioglu/4dd3480f-60a7-4f71-bb2f-e32ae1f0d208.ts
 #EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC WILD" group-title="Belgesel",NATIONAL GEOGRAPHIC WILD
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197432&extension=ts&play_token=EgZySyAGug
 #EXTINF:-1 tvg-name="NAT GEO WILD" group-title="Belgesel",NAT GEO WILD
@@ -141,16 +189,26 @@ http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197431&exte
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197420&extension=ts&play_token=mT2OGR6h9B
 #EXTINF:-1 tvg-name="VIASAT EXPLORE" group-title="Belgesel",VIASAT EXPLORE
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197442&extension=ts&play_token=T0Qe2W6ku7
+#EXTINF:-1 tvg-name="BEIN IZ" group-title="Belgesel",BEIN IZ
+http://mekantv56.win/live/akifalioglu33/33akifalioglu/61c69d50-64da-4743-98f1-67dae4e34354.ts
 #EXTINF:-1 tvg-name="LOVE NATURE" group-title="Belgesel",LOVE NATURE
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197434&extension=ts&play_token=Ngkcs4n1xj
 #EXTINF:-1 tvg-name="TGRT BELGESEL" group-title="Belgesel",TGRT BELGESEL
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8?md5=yJ4adbAK5bE0F93vqFevgw&expires=1687122603
+#EXTINF:-1 tvg-name="DOCUSCREEN" group-title="Belgesel",DOCUSCREEN
+http://mekantv56.win/live/akifalioglu33/33akifalioglu/324304a1-0293-4cda-ae6a-8fbed5ee2ebf.ts
 #EXTINF:-1 tvg-name="YABAN TV" group-title="Belgesel",YABAN TV
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197439&extension=ts&play_token=TfLVZnUFoE
+http://mekantv56.win/live/akifalioglu33/33akifalioglu/e112125c-9be4-4b93-8e60-5850d865bff1.ts
+#EXTINF:-1 tvg-name="HABITAT TV" group-title="Belgesel",HABITAT TV
+http://mekantv56.win/live/akifalioglu33/33akifalioglu/36a79040-b3b1-469d-86f1-ca4528977ea1.ts
+#EXTINF:-1 tvg-name="TARİH TV" group-title="Belgesel",TARİH TV
+http://mekantv56.win/live/akifalioglu33/33akifalioglu/70cae976-5e95-4a7c-8469-fef3856fb007.ts
 #EXTINF:-1 tvg-name="ÇİFTÇİ TV" group-title="Belgesel",ÇİFTÇİ TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
+#EXTINF:-1 tvg-name="CHASSE & PECHE" group-title="Belgesel",CHASSE & PECHE
+http://mekantv56.win/live/akifalioglu33/33akifalioglu/dea5fad5-14b2-4cce-9f87-ab113953c371.ts
 #EXTINF:-1 tvg-name="TRT ÇOCUK" group-title="Çocuk",TRT ÇOCUK
-http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197417&extension=ts&play_token=uFQW2KSLfI
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="MİNİKA ÇOCUK" group-title="Çocuk",MİNİKA ÇOCUK
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
 #EXTINF:-1 tvg-name="MİNİKA GO" group-title="Çocuk",MİNİKA GO
@@ -165,10 +223,16 @@ https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-name="A PARA" group-title="Ekonomi",A PARA
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197272&extension=ts&play_token=YMedtQj0VQ
+#EXTINF:-1 tvg-name="EKOTÜRK" group-title="Ekonomi",EKOTÜRK
+http://mekantv56.win/live/akifalioglu33/33akifalioglu/2d69a9ce-a25a-4042-ae0b-9789f6f7a8f6.ts
+#EXTINF:-1 tvg-name="EKOTURK" group-title="Ekonomi",EKOTURK
+http://mekantv56.win/live/akifalioglu33/33akifalioglu/2d69a9ce-a25a-4042-ae0b-9789f6f7a8f6.ts
 #EXTINF:-1 tvg-name="TLC" group-title="Yaşam",TLC
 https://dogus.daioncdn.net/tlc/tlc.m3u8?app=tlc_web
 #EXTINF:-1 tvg-name="TLC HD" group-title="Yaşam",TLC HD
 https://dogus.daioncdn.net/tlc/tlc.m3u8?app=tlc_web
+#EXTINF:-1 tvg-name="TARIM TV" group-title="Tarım",TARIM TV
+http://mekantv56.win/live/akifalioglu33/33akifalioglu/e00b8d1e-8f3b-46c0-8741-358beff7dbd5.ts
 #EXTINF:-1 tvg-name="TRT TÜRK" group-title="Uluslararası",TRT TÜRK
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT AVAZ" group-title="Uluslararası",TRT AVAZ

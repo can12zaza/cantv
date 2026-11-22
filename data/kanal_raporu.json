@@ -1,7 +1,7 @@
 {
   "total_channels": 190,
-  "matched": 93,
-  "not_found": 97,
+  "matched": 125,
+  "not_found": 65,
   "source_errors": [],
   "channels": [
     {
@@ -46,37 +46,13 @@
       "name": "TRT 2",
       "category": "Ulusal",
       "status": "working",
-      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=196688&extension=ts&play_token=xSvgymKo8X",
+      "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "matched_display": "TRT 2",
       "quality": 0,
       "attempts": [
         {
           "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-403",
-          "display": "TRT 2",
-          "quality": 0
-        },
-        {
-          "url": "https://tv-trt2.medya.trt.com.tr/master_720.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-403",
-          "display": "TRT 2",
-          "quality": 0
-        },
-        {
-          "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-403",
-          "display": "TRT 2",
-          "quality": 0
-        },
-        {
-          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=196688&extension=ts&play_token=xSvgymKo8X",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
@@ -260,13 +236,45 @@
       "name": "A2",
       "category": "Ulusal",
       "status": "working",
-      "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8",
+      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=196687&extension=ts&play_token=DGJnc2zcvx",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "matched_display": "A2",
       "quality": 0,
       "attempts": [
         {
           "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-502",
+          "display": "A2",
+          "quality": 0
+        },
+        {
+          "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-502",
+          "display": "A2",
+          "quality": 0
+        },
+        {
+          "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-502",
+          "display": "A2",
+          "quality": 0
+        },
+        {
+          "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-502",
+          "display": "a2",
+          "quality": 0
+        },
+        {
+          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=196687&extension=ts&play_token=DGJnc2zcvx",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
@@ -873,8 +881,21 @@
     {
       "name": "NBA TV",
       "category": "Spor",
-      "status": "not_found",
-      "attempts": []
+      "status": "working",
+      "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/43318fc7-6304-4681-a79c-671eb9755b2b.ts",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": "NBA TV",
+      "quality": 0,
+      "attempts": [
+        {
+          "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/43318fc7-6304-4681-a79c-671eb9755b2b.ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": true,
+          "reason": "http-200",
+          "display": "NBA TV",
+          "quality": 0
+        }
+      ]
     },
     {
       "name": "CBC SPORT",
@@ -910,8 +931,21 @@
     {
       "name": "SPORTS TV",
       "category": "Spor",
-      "status": "not_found",
-      "attempts": []
+      "status": "working",
+      "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/a67c297b-8b19-46b8-9bc6-a8db9f7b6ca6.ts",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": ":SPORTS TV",
+      "quality": 0,
+      "attempts": [
+        {
+          "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/a67c297b-8b19-46b8-9bc6-a8db9f7b6ca6.ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": true,
+          "reason": "http-200",
+          "display": ":SPORTS TV",
+          "quality": 0
+        }
+      ]
     },
     {
       "name": "SPOR SMART",
@@ -941,32 +975,97 @@
     {
       "name": "BEIN SPORTS 1",
       "category": "Spor",
-      "status": "not_found",
-      "attempts": []
+      "status": "working",
+      "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/4d17dcea-2895-40a9-a8a0-07190bcee1a8.ts",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": "BEINSPORTS 1",
+      "quality": 0,
+      "attempts": [
+        {
+          "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/4d17dcea-2895-40a9-a8a0-07190bcee1a8.ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": true,
+          "reason": "http-200",
+          "display": "BEINSPORTS 1",
+          "quality": 0
+        }
+      ]
     },
     {
       "name": "BEIN SPORTS 2",
       "category": "Spor",
-      "status": "not_found",
-      "attempts": []
+      "status": "working",
+      "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/a20a1d86-5210-40ea-b88d-3e7684a9ddd2.ts",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": "BEINSPORTS 2",
+      "quality": 0,
+      "attempts": [
+        {
+          "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/a20a1d86-5210-40ea-b88d-3e7684a9ddd2.ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": true,
+          "reason": "http-200",
+          "display": "BEINSPORTS 2",
+          "quality": 0
+        }
+      ]
     },
     {
       "name": "BEIN SPORTS 3",
       "category": "Spor",
-      "status": "not_found",
-      "attempts": []
+      "status": "working",
+      "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/d553d986-835e-4420-8bb1-c64d2b5cc874.ts",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": "BEINSPORTS 3",
+      "quality": 0,
+      "attempts": [
+        {
+          "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/d553d986-835e-4420-8bb1-c64d2b5cc874.ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": true,
+          "reason": "http-200",
+          "display": "BEINSPORTS 3",
+          "quality": 0
+        }
+      ]
     },
     {
       "name": "BEIN SPORTS 4",
       "category": "Spor",
-      "status": "not_found",
-      "attempts": []
+      "status": "working",
+      "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/04655157-7068-48c8-86b3-f5e8510c8720.ts",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": "BEINSPORTS 4",
+      "quality": 0,
+      "attempts": [
+        {
+          "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/04655157-7068-48c8-86b3-f5e8510c8720.ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": true,
+          "reason": "http-200",
+          "display": "BEINSPORTS 4",
+          "quality": 0
+        }
+      ]
     },
     {
       "name": "BEIN SPORTS 5",
       "category": "Spor",
-      "status": "not_found",
-      "attempts": []
+      "status": "working",
+      "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/b001634b-6eb1-4381-89eb-4cdeac95d498.ts",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": "BEINSPORTS 5",
+      "quality": 0,
+      "attempts": [
+        {
+          "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/b001634b-6eb1-4381-89eb-4cdeac95d498.ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": true,
+          "reason": "http-200",
+          "display": "BEINSPORTS 5",
+          "quality": 0
+        }
+      ]
     },
     {
       "name": "BEIN SPORTS MAX",
@@ -977,24 +1076,37 @@
     {
       "name": "BEIN SPORTS MAX 2",
       "category": "Spor",
-      "status": "not_found",
-      "attempts": []
+      "status": "working",
+      "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/50d1a0be-015f-4538-9206-d4f98c0d1433.ts",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": ":BEINSPORTS MAX 2",
+      "quality": 0,
+      "attempts": [
+        {
+          "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/50d1a0be-015f-4538-9206-d4f98c0d1433.ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": true,
+          "reason": "http-200",
+          "display": ":BEINSPORTS MAX 2",
+          "quality": 0
+        }
+      ]
     },
     {
       "name": "BEIN SPORTS HABER",
       "category": "Spor",
       "status": "working",
-      "url": "http://176.65.153.66:6003/play/a00y/index.m3u8",
+      "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/25b40afc-c406-400e-8492-5c26c4606789.ts",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "beIN SPORTS HABER",
+      "matched_display": "BEINSPORTS HABER",
       "quality": 0,
       "attempts": [
         {
-          "url": "http://176.65.153.66:6003/play/a00y/index.m3u8",
+          "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/25b40afc-c406-400e-8492-5c26c4606789.ts",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
-          "display": "beIN SPORTS HABER",
+          "display": "BEINSPORTS HABER",
           "quality": 0
         }
       ]
@@ -1360,73 +1472,199 @@
       "name": "BEIN MOVIES PREMIERE 2",
       "category": "Sinema",
       "status": "not_found",
-      "attempts": []
+      "attempts": [
+        {
+          "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/240769ea-3656-4814-b292-c28372393ce9.ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "ReadTimeout",
+          "display": ":BEIN MOVIES PREMIERE 2",
+          "quality": 0
+        }
+      ]
     },
     {
       "name": "BEIN MOVIES TURK",
       "category": "Sinema",
-      "status": "not_found",
-      "attempts": []
+      "status": "working",
+      "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/9aa2fa34-92de-4430-bdef-7867fd6309f4.ts",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": ":BEIN MOVIES TURK",
+      "quality": 0,
+      "attempts": [
+        {
+          "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/9aa2fa34-92de-4430-bdef-7867fd6309f4.ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": true,
+          "reason": "http-200",
+          "display": ":BEIN MOVIES TURK",
+          "quality": 0
+        }
+      ]
     },
     {
       "name": "BEIN MOVIES STARS",
       "category": "Sinema",
-      "status": "not_found",
-      "attempts": []
+      "status": "working",
+      "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/e39c8ab6-3547-4742-9912-9fe74f5e67f0.ts",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": ":BEIN MOVIES STARS",
+      "quality": 0,
+      "attempts": [
+        {
+          "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/e39c8ab6-3547-4742-9912-9fe74f5e67f0.ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": true,
+          "reason": "http-200",
+          "display": ":BEIN MOVIES STARS",
+          "quality": 0
+        }
+      ]
     },
     {
       "name": "BEIN MOVIES ACTION",
       "category": "Sinema",
-      "status": "not_found",
-      "attempts": []
+      "status": "working",
+      "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/c5429af1-60fb-4d0c-868a-dad516fa1ea4.ts",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": ":BEIN MOVIES ACTION",
+      "quality": 0,
+      "attempts": [
+        {
+          "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/c5429af1-60fb-4d0c-868a-dad516fa1ea4.ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": true,
+          "reason": "http-200",
+          "display": ":BEIN MOVIES ACTION",
+          "quality": 0
+        }
+      ]
     },
     {
       "name": "BEIN MOVIES ACTION 2",
       "category": "Sinema",
-      "status": "not_found",
-      "attempts": []
+      "status": "working",
+      "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/208467ed-0ba8-4b72-944d-aea8b3c35e53.ts",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": ":BEIN MOVIES ACTION 2",
+      "quality": 0,
+      "attempts": [
+        {
+          "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/208467ed-0ba8-4b72-944d-aea8b3c35e53.ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": true,
+          "reason": "http-200",
+          "display": ":BEIN MOVIES ACTION 2",
+          "quality": 0
+        }
+      ]
     },
     {
       "name": "BEIN MOVIES FAMILY",
       "category": "Sinema",
-      "status": "not_found",
-      "attempts": []
+      "status": "working",
+      "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/c8df390b-cc9d-4294-9fcd-8c64c66a39ea.ts",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": ":BEIN MOVIES FAMILY",
+      "quality": 0,
+      "attempts": [
+        {
+          "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/c8df390b-cc9d-4294-9fcd-8c64c66a39ea.ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": true,
+          "reason": "http-200",
+          "display": ":BEIN MOVIES FAMILY",
+          "quality": 0
+        }
+      ]
     },
     {
       "name": "BEIN BOXOFFICE 1",
       "category": "Sinema",
-      "status": "not_found",
-      "attempts": []
+      "status": "working",
+      "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/b3f77183-35d6-454d-aa33-4d705b523836.ts",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": ":BEIN BOX OFFICE 1",
+      "quality": 0,
+      "attempts": [
+        {
+          "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/b3f77183-35d6-454d-aa33-4d705b523836.ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": true,
+          "reason": "http-200",
+          "display": ":BEIN BOX OFFICE 1",
+          "quality": 0
+        }
+      ]
     },
     {
       "name": "BEIN BOXOFFICE 2",
       "category": "Sinema",
-      "status": "not_found",
-      "attempts": []
+      "status": "working",
+      "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/97b4aa30-aa52-4bea-ab1e-de426a35dba1.ts",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": ":BEIN BOX OFFICE 2",
+      "quality": 0,
+      "attempts": [
+        {
+          "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/97b4aa30-aa52-4bea-ab1e-de426a35dba1.ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": true,
+          "reason": "http-200",
+          "display": ":BEIN BOX OFFICE 2",
+          "quality": 0
+        }
+      ]
     },
     {
       "name": "BEIN BOXOFFICE 3",
       "category": "Sinema",
-      "status": "not_found",
-      "attempts": []
+      "status": "working",
+      "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/d0bc8932-cd8a-40e8-9f50-afbf31293684.ts",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": ":BEIN BOX OFFICE 3",
+      "quality": 0,
+      "attempts": [
+        {
+          "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/d0bc8932-cd8a-40e8-9f50-afbf31293684.ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": true,
+          "reason": "http-200",
+          "display": ":BEIN BOX OFFICE 3",
+          "quality": 0
+        }
+      ]
     },
     {
       "name": "SİNEMA TV",
       "category": "Sinema",
-      "status": "not_found",
-      "attempts": []
+      "status": "working",
+      "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/01ab29a4-310a-4cf3-8ce1-88312e2035e4.ts",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": ":SINEMA TV",
+      "quality": 0,
+      "attempts": [
+        {
+          "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/01ab29a4-310a-4cf3-8ce1-88312e2035e4.ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": true,
+          "reason": "http-200",
+          "display": ":SINEMA TV",
+          "quality": 0
+        }
+      ]
     },
     {
       "name": "SİNEMA TV 2",
       "category": "Sinema",
       "status": "working",
-      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471689&extension=ts&play_token=rlz9LlxLPS",
+      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197129&extension=ts&play_token=zLg0pNC7FA",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
       "matched_display": "SINEMA TV 2",
       "quality": 0,
       "attempts": [
         {
-          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=1471689&extension=ts&play_token=rlz9LlxLPS",
+          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197129&extension=ts&play_token=zLg0pNC7FA",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
@@ -1511,8 +1749,21 @@
     {
       "name": "FILMSCREEN",
       "category": "Sinema",
-      "status": "not_found",
-      "attempts": []
+      "status": "working",
+      "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/3dac53a1-57ff-49f0-8664-f4a67dc9c4d9.ts",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": ":FILM SCREEN",
+      "quality": 0,
+      "attempts": [
+        {
+          "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/3dac53a1-57ff-49f0-8664-f4a67dc9c4d9.ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": true,
+          "reason": "http-200",
+          "display": ":FILM SCREEN",
+          "quality": 0
+        }
+      ]
     },
     {
       "name": "FILMSCREEN INTERNATIONAL",
@@ -1523,26 +1774,78 @@
     {
       "name": "BEIN SERIES 1",
       "category": "Dizi",
-      "status": "not_found",
-      "attempts": []
+      "status": "working",
+      "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/95f7b02c-2ef6-4093-a775-363dbca8732d.ts",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": ":BEIN SERIES 1",
+      "quality": 0,
+      "attempts": [
+        {
+          "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/95f7b02c-2ef6-4093-a775-363dbca8732d.ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": true,
+          "reason": "http-200",
+          "display": ":BEIN SERIES 1",
+          "quality": 0
+        }
+      ]
     },
     {
       "name": "BEIN SERIES 2",
       "category": "Dizi",
-      "status": "not_found",
-      "attempts": []
+      "status": "working",
+      "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/d03ac11a-7d5b-4319-a59e-f77f94e1334d.ts",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": ":BEIN SERIES 2",
+      "quality": 0,
+      "attempts": [
+        {
+          "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/d03ac11a-7d5b-4319-a59e-f77f94e1334d.ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": true,
+          "reason": "http-200",
+          "display": ":BEIN SERIES 2",
+          "quality": 0
+        }
+      ]
     },
     {
       "name": "BEIN SERIES 3",
       "category": "Dizi",
-      "status": "not_found",
-      "attempts": []
+      "status": "working",
+      "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/61dc4033-b65e-481d-9373-2460d26be826.ts",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": ":BEIN SERIES 3",
+      "quality": 0,
+      "attempts": [
+        {
+          "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/61dc4033-b65e-481d-9373-2460d26be826.ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": true,
+          "reason": "http-200",
+          "display": ":BEIN SERIES 3",
+          "quality": 0
+        }
+      ]
     },
     {
       "name": "BEIN SERIES 4",
       "category": "Dizi",
-      "status": "not_found",
-      "attempts": []
+      "status": "working",
+      "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/1179492c-59c1-4dbf-b1fa-ff4adf0b87d5.ts",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": ":BEIN SERIES 4",
+      "quality": 0,
+      "attempts": [
+        {
+          "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/1179492c-59c1-4dbf-b1fa-ff4adf0b87d5.ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": true,
+          "reason": "http-200",
+          "display": ":BEIN SERIES 4",
+          "quality": 0
+        }
+      ]
     },
     {
       "name": "DİZİ SMART",
@@ -1572,8 +1875,21 @@
     {
       "name": "BBC FIRST",
       "category": "Dizi",
-      "status": "not_found",
-      "attempts": []
+      "status": "working",
+      "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/693b652d-6aa0-49c8-933a-29d873130ab3.ts",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": ":BBC FIRST",
+      "quality": 0,
+      "attempts": [
+        {
+          "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/693b652d-6aa0-49c8-933a-29d873130ab3.ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": true,
+          "reason": "http-200",
+          "display": ":BBC FIRST",
+          "quality": 0
+        }
+      ]
     },
     {
       "name": "TRT BELGESEL",
@@ -1646,8 +1962,21 @@
     {
       "name": "DISCOVERY ID",
       "category": "Belgesel",
-      "status": "not_found",
-      "attempts": []
+      "status": "working",
+      "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/235a6131-82ae-4ab9-bdc0-ea5df67a48cd.ts",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": ":DISCOVERY ID",
+      "quality": 0,
+      "attempts": [
+        {
+          "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/235a6131-82ae-4ab9-bdc0-ea5df67a48cd.ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": true,
+          "reason": "http-200",
+          "display": ":DISCOVERY ID",
+          "quality": 0
+        }
+      ]
     },
     {
       "name": "INVESTIGATION DISCOVERY",
@@ -1659,26 +1988,18 @@
       "name": "NATIONAL GEOGRAPHIC",
       "category": "Belgesel",
       "status": "working",
-      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197433&extension=ts&play_token=vIAFFKePWW",
+      "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/4dd3480f-60a7-4f71-bb2f-e32ae1f0d208.ts",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "NAT GEO",
-      "quality": 0,
+      "matched_display": ":NATIONAL GEOGRAPHIC HD",
+      "quality": 2,
       "attempts": [
         {
-          "url": "https://saran-live.ercdn.net/natgeohd/index.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-401",
-          "display": "Nat Geo",
-          "quality": 0
-        },
-        {
-          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197433&extension=ts&play_token=vIAFFKePWW",
+          "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/4dd3480f-60a7-4f71-bb2f-e32ae1f0d208.ts",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
-          "display": "NAT GEO",
-          "quality": 0
+          "display": ":NATIONAL GEOGRAPHIC HD",
+          "quality": 2
         }
       ]
     },
@@ -1686,26 +2007,18 @@
       "name": "NAT GEO",
       "category": "Belgesel",
       "status": "working",
-      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197433&extension=ts&play_token=vIAFFKePWW",
+      "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/4dd3480f-60a7-4f71-bb2f-e32ae1f0d208.ts",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "NAT GEO",
-      "quality": 0,
+      "matched_display": ":NATIONAL GEOGRAPHIC HD",
+      "quality": 2,
       "attempts": [
         {
-          "url": "https://saran-live.ercdn.net/natgeohd/index.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-401",
-          "display": "Nat Geo",
-          "quality": 0
-        },
-        {
-          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197433&extension=ts&play_token=vIAFFKePWW",
+          "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/4dd3480f-60a7-4f71-bb2f-e32ae1f0d208.ts",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
-          "display": "NAT GEO",
-          "quality": 0
+          "display": ":NATIONAL GEOGRAPHIC HD",
+          "quality": 2
         }
       ]
     },
@@ -1840,8 +2153,21 @@
     {
       "name": "BEIN IZ",
       "category": "Belgesel",
-      "status": "not_found",
-      "attempts": []
+      "status": "working",
+      "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/61c69d50-64da-4743-98f1-67dae4e34354.ts",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": ":BEIN IZ",
+      "quality": 0,
+      "attempts": [
+        {
+          "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/61c69d50-64da-4743-98f1-67dae4e34354.ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": true,
+          "reason": "http-200",
+          "display": ":BEIN IZ",
+          "quality": 0
+        }
+      ]
     },
     {
       "name": "LOVE NATURE",
@@ -1902,24 +2228,45 @@
     {
       "name": "DOCUSCREEN",
       "category": "Belgesel",
-      "status": "not_found",
-      "attempts": []
+      "status": "working",
+      "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/324304a1-0293-4cda-ae6a-8fbed5ee2ebf.ts",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": "DOCU SCREEN",
+      "quality": 0,
+      "attempts": [
+        {
+          "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/324304a1-0293-4cda-ae6a-8fbed5ee2ebf.ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": true,
+          "reason": "http-200",
+          "display": "DOCU SCREEN",
+          "quality": 0
+        }
+      ]
     },
     {
       "name": "YABAN TV",
       "category": "Belgesel",
       "status": "working",
-      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197439&extension=ts&play_token=TfLVZnUFoE",
+      "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/e112125c-9be4-4b93-8e60-5850d865bff1.ts",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "YABAN TV",
+      "matched_display": ":YABAN TV",
       "quality": 0,
       "attempts": [
         {
           "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197439&extension=ts&play_token=TfLVZnUFoE",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": false,
+          "reason": "http-407",
+          "display": "YABAN TV",
+          "quality": 0
+        },
+        {
+          "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/e112125c-9be4-4b93-8e60-5850d865bff1.ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
-          "display": "YABAN TV",
+          "display": ":YABAN TV",
           "quality": 0
         }
       ]
@@ -1927,14 +2274,40 @@
     {
       "name": "HABITAT TV",
       "category": "Belgesel",
-      "status": "not_found",
-      "attempts": []
+      "status": "working",
+      "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/36a79040-b3b1-469d-86f1-ca4528977ea1.ts",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": ":HABITAT TV",
+      "quality": 0,
+      "attempts": [
+        {
+          "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/36a79040-b3b1-469d-86f1-ca4528977ea1.ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": true,
+          "reason": "http-200",
+          "display": ":HABITAT TV",
+          "quality": 0
+        }
+      ]
     },
     {
       "name": "TARİH TV",
       "category": "Belgesel",
-      "status": "not_found",
-      "attempts": []
+      "status": "working",
+      "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/70cae976-5e95-4a7c-8469-fef3856fb007.ts",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": ":TARIH TV",
+      "quality": 0,
+      "attempts": [
+        {
+          "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/70cae976-5e95-4a7c-8469-fef3856fb007.ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": true,
+          "reason": "http-200",
+          "display": ":TARIH TV",
+          "quality": 0
+        }
+      ]
     },
     {
       "name": "ÇİFTÇİ TV",
@@ -1958,64 +2331,37 @@
     {
       "name": "CHASSE & PECHE",
       "category": "Belgesel",
-      "status": "not_found",
-      "attempts": []
+      "status": "working",
+      "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/dea5fad5-14b2-4cce-9f87-ab113953c371.ts",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": ":CHASSE & PECHE",
+      "quality": 0,
+      "attempts": [
+        {
+          "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/dea5fad5-14b2-4cce-9f87-ab113953c371.ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": true,
+          "reason": "http-200",
+          "display": ":CHASSE & PECHE",
+          "quality": 0
+        }
+      ]
     },
     {
       "name": "TRT ÇOCUK",
       "category": "Çocuk",
       "status": "working",
-      "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197417&extension=ts&play_token=uFQW2KSLfI",
+      "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
       "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "TRT COCUK",
+      "matched_display": "TRT ÇOCUK",
       "quality": 0,
       "attempts": [
         {
           "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-403",
-          "display": "TRT ÇOCUK",
-          "quality": 0
-        },
-        {
-          "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-403",
-          "display": "TRT COCUK",
-          "quality": 0
-        },
-        {
-          "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-403",
-          "display": "TRT ÇOCUK",
-          "quality": 0
-        },
-        {
-          "url": "https://tv-trtcocuk.medya.trt.com.tr/master_1440.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-403",
-          "display": "TRT ÇOCUK",
-          "quality": 0
-        },
-        {
-          "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "http-403",
-          "display": "Trt Çocuk",
-          "quality": 0
-        },
-        {
-          "url": "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:D7&stream=197417&extension=ts&play_token=uFQW2KSLfI",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
           "ok": true,
           "reason": "http-200",
-          "display": "TRT COCUK",
+          "display": "TRT ÇOCUK",
           "quality": 0
         }
       ]
@@ -2029,14 +2375,6 @@
       "matched_display": "MINIKA ÇOCUK",
       "quality": 0,
       "attempts": [
-        {
-          "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8",
-          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": false,
-          "reason": "ReadTimeout",
-          "display": "MINIKA ÇOCUK",
-          "quality": 0
-        },
         {
           "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
@@ -2202,14 +2540,40 @@
     {
       "name": "EKOTÜRK",
       "category": "Ekonomi",
-      "status": "not_found",
-      "attempts": []
+      "status": "working",
+      "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/2d69a9ce-a25a-4042-ae0b-9789f6f7a8f6.ts",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": ":EKOTURK",
+      "quality": 0,
+      "attempts": [
+        {
+          "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/2d69a9ce-a25a-4042-ae0b-9789f6f7a8f6.ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": true,
+          "reason": "http-200",
+          "display": ":EKOTURK",
+          "quality": 0
+        }
+      ]
     },
     {
       "name": "EKOTURK",
       "category": "Ekonomi",
-      "status": "not_found",
-      "attempts": []
+      "status": "working",
+      "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/2d69a9ce-a25a-4042-ae0b-9789f6f7a8f6.ts",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": ":EKOTURK",
+      "quality": 0,
+      "attempts": [
+        {
+          "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/2d69a9ce-a25a-4042-ae0b-9789f6f7a8f6.ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": true,
+          "reason": "http-200",
+          "display": ":EKOTURK",
+          "quality": 0
+        }
+      ]
     },
     {
       "name": "TLC",
@@ -2282,8 +2646,21 @@
     {
       "name": "TARIM TV",
       "category": "Tarım",
-      "status": "not_found",
-      "attempts": []
+      "status": "working",
+      "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/e00b8d1e-8f3b-46c0-8741-358beff7dbd5.ts",
+      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+      "matched_display": ":TARIM TV",
+      "quality": 0,
+      "attempts": [
+        {
+          "url": "http://mekantv56.win/live/akifalioglu33/33akifalioglu/e00b8d1e-8f3b-46c0-8741-358beff7dbd5.ts",
+          "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
+          "ok": true,
+          "reason": "http-200",
+          "display": ":TARIM TV",
+          "quality": 0
+        }
+      ]
     },
     {
       "name": "AGRO TV",
