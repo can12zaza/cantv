@@ -1,7 +1,7 @@
 {
   "total_channels": 190,
-  "matched": 93,
-  "not_found": 97,
+  "matched": 92,
+  "not_found": 98,
   "source_errors": [],
   "channels": [
     {
@@ -2786,17 +2786,13 @@
     {
       "name": "RUSSIA 24",
       "category": "Uluslararası",
-      "status": "working",
-      "url": "https://gtrk-volga.ru/media/hr24/stream1.m3u8",
-      "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-      "matched_display": "RUSSİA 24",
-      "quality": 0,
+      "status": "not_found",
       "attempts": [
         {
           "url": "https://gtrk-volga.ru/media/hr24/stream1.m3u8",
           "source": "https://raw.githubusercontent.com/batuhansabri55/AkcagozTV_Film/refs/heads/main/FilmDizi.m3u",
-          "ok": true,
-          "reason": "http-200",
+          "ok": false,
+          "reason": "http-404",
           "display": "RUSSİA 24",
           "quality": 0
         }
